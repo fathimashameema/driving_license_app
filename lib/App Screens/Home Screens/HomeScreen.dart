@@ -1,0 +1,140 @@
+import 'package:avtoskola_varketilshi/App%20Screens/Exams%20Screens/exam_screen.dart';
+import 'package:avtoskola_varketilshi/App%20Screens/Subjects%20screens/SubjectListScreen.dart';
+import 'package:avtoskola_varketilshi/App%20Widegts/CommonButton.dart';
+import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import 'package:get/state_manager.dart';
+import 'package:url_launcher/url_launcher.dart';
+
+class HomeScreen extends StatefulWidget {
+  const HomeScreen({super.key});
+
+  @override
+  State<HomeScreen> createState() => _HomeScreenState();
+}
+
+class _HomeScreenState extends State<HomeScreen> {
+  int currentIndex = 0;
+
+  final List<Map<String, String>> carItems = [
+    {'image': 'assets/images/car.png', 'label': 'B, B1'},
+    {'image': 'assets/images/truck.png', 'label': ' C '},
+    {'image': 'assets/images/bus.png', 'label': ' D '},
+    {'image': 'assets/images/tractor.png', 'label': 'T, S'},
+  ];
+
+  void _nextCar() {
+    setState(() {
+      currentIndex = (currentIndex + 1) % carItems.length;
+    });
+      }
+
+  void _prevCar() {
+    setState(() {
+      currentIndex = (currentIndex - 1 + carItems.length) % carItems.length;
+    });
+  }
+
+  void _openDialer() async {
+  final Uri phoneUri = Uri(scheme: 'tel', path: '112');
+  if (await canLaunchUrl(phoneUri)) {
+    await launchUrl(phoneUri, mode: LaunchMode.externalApplication);
+  } else {
+    Get.snackbar('Error', 'Could not open dialer');
+  }
+}
+
+  @override
+  Widget build(BuildContext context) {
+    final currentCar = carItems[currentIndex];
+
+    return Scaffold(
+      body: Container(
+        width: double.infinity,
+        height: double.infinity,
+        decoration: const BoxDecoration(
+          image: DecorationImage(
+            image: AssetImage('assets/images/bg.png'), // Background road image
+            fit: BoxFit.cover,
+          ),
+        ),
+        padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 32),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.center,
+          children: [
+            const SizedBox(height: 90),
+            const Text(
+              'Avtoskola Varketilshi',
+              style: TextStyle(
+                fontSize: 22,
+                fontWeight: FontWeight.bold,
+                color: Colors.black,
+              ),
+            ),
+            const Text(
+              'Take practical training with us, Call us now',
+              style: TextStyle(fontSize: 13, color: Colors.black54),
+              textAlign: TextAlign.center,
+            ),
+            const SizedBox(height: 30),
+            ElevatedButton.icon(
+                onPressed: _openDialer,
+              icon: const Icon(Icons.phone, color: Colors.white),
+              label: const Text('599 99 87 35', style: TextStyle(color: Colors.white)),
+              style: ElevatedButton.styleFrom(
+                
+                backgroundColor: Color.fromRGBO(186,20,29,1),
+                padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+              ),
+            ),
+            const SizedBox(height: 70),
+
+            /// Car Swiper
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                IconButton(onPressed: _prevCar, icon: const Icon(Icons.arrow_back_ios,  color: Color.fromARGB(255, 250, 18, 1))),
+                Column(
+                  children: [
+                    Image.asset(currentCar['image']!, height: 150),
+                    const SizedBox(height: 8),
+                    Text(
+                      currentCar['label']!,
+                      style: const TextStyle(fontSize: 22, fontWeight: FontWeight.bold, color: Colors.black),
+                    ),
+                  ],
+                ),
+                IconButton(onPressed: _nextCar, icon: const Icon(Icons.arrow_forward_ios, color:Color.fromARGB(255, 250, 18, 1))),
+              ],
+            ),
+            const SizedBox(height: 100),
+
+            /// Buttons
+            CommonRedButton(
+              label: 'By Subject',
+              onPressed: () {
+                Get.to(SubjectListScreen());
+              },
+            ),
+            const SizedBox(height: 16),
+            CommonRedButton(
+              label: 'All Tickets',
+              onPressed: () {
+                // Navigate or logic
+              },
+            ),
+            const SizedBox(height: 16),
+            CommonRedButton(
+              label: 'Exam',
+              onPressed: () {
+                Get.to(ExamScreen());
+                // Navigate or logic
+              },
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
