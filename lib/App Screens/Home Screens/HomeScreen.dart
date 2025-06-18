@@ -333,8 +333,12 @@ class HomeScreen extends StatelessWidget {
               const SizedBox(height: 16),
               CommonRedButton(
                 label: 'All Tickets',
-                onPressed: () {
-                  // Future: implement ticket screen and pass idx
+                 onPressed: () {
+                  final categoryCtrl = Get.find<CategoryController>();
+                  final selectedCategory = categoryCtrl.currentLabel;
+
+                  // Register controller and pass argument only after Get.to
+                  Get.to(() => const ExamScreen(), arguments: selectedCategory);
                 },
               ),
               const SizedBox(height: 16),
