@@ -1,74 +1,140 @@
+
+
 // import 'package:avtoskola_varketilshi/Models/subject_model.dart';
 // import 'package:get/get.dart';
+// import '../../Models/question_model.dart';
+
 // class SubjectController extends GetxController {
 //   final subjects = <SubjectModel>[].obs;
 
-//   @override
-//   void onInit() {
-//     super.onInit();
-//     loadSubjects();
-//   }
+// @override
+// void onInit() {
+//   super.onInit();
+//   loadSubjects();
+// }
+
+//   Map<int, List<QuestionModel>> subjectQuestions = {
+//     1: [
+//       QuestionModel(
+//         question: 'How should environment impact mitigation be achieved ?',
+//         options: [
+//           'Drive your own car always',
+//           'Use public transport',
+//           'Ignore traffic rules',
+//         ],
+//         correctAnswer: 1,
+//       ),
+//       QuestionModel(
+//         question: 'When to use seat belts?',
+//         options: ['Always', 'Only on highway', 'Never'],
+//         correctAnswer: 0,
+//       ),
+//     ],
+//     2: [
+//       QuestionModel(
+//         question: 'Driving in fog needs?',
+//         options: ['High beam', 'Low beam', 'Hazards only'],
+//         correctAnswer: 1,
+//       )
+//     ],
+//   };
 
 //   void loadSubjects() {
 //     subjects.assignAll([
-//       SubjectModel(id: 1, title: '1. the driver, passengers and the infantry,\nthe signs, the Convention'),
-//       SubjectModel(id: 2, title: '2. Disorder and driving conditions'),
-//       SubjectModel(id: 3, title: '2. Disorder and driving conditions'),
-//       SubjectModel(id: 4, title: '2. Disorder and driving conditions'),
-//       SubjectModel(id: 5, title: '2. Disorder and driving conditions'),
-//       SubjectModel(id: 6, title: '2. Disorder and driving conditions'),
-//       SubjectModel(id: 7, title: '2. Disorder and driving conditions'),
-//       SubjectModel(id: 8, title: '2. Disorder and driving conditions'),
-//       SubjectModel(id: 9, title: '2. Disorder and driving conditions'),
-//       SubjectModel(id: 10, title: '2. Disorder and driving conditions'),
+//       SubjectModel(id: 1, title: '1. Environment & Safety'),
+//       SubjectModel(id: 2, title: '2. Driving Conditions'),
 //     ]);
 //   }
 // }
 
 
-import 'package:avtoskola_varketilshi/Models/subject_model.dart';
+import 'package:avtoskola_varketilshi/Models/question_model.dart';
 import 'package:get/get.dart';
-import '../../Models/question_model.dart';
+import 'package:get/get_state_manager/src/simple/get_controllers.dart';
 
 class SubjectController extends GetxController {
   final subjects = <SubjectModel>[].obs;
 
-@override
-void onInit() {
-  super.onInit();
-  loadSubjects();
-}
+  /// Questions by subject ID
+  final Map<int, List<QuestionModel>> subjectQuestions = {};
 
-  Map<int, List<QuestionModel>> subjectQuestions = {
-    1: [
-      QuestionModel(
-        question: 'How should environment impact mitigation be achieved ?',
-        options: [
-          'Drive your own car always',
-          'Use public transport',
-          'Ignore traffic rules',
-        ],
-        correctAnswer: 1,
-      ),
-      QuestionModel(
-        question: 'When to use seat belts?',
-        options: ['Always', 'Only on highway', 'Never'],
-        correctAnswer: 0,
-      ),
-    ],
-    2: [
-      QuestionModel(
-        question: 'Driving in fog needs?',
-        options: ['High beam', 'Low beam', 'Hazards only'],
-        correctAnswer: 1,
-      )
-    ],
-  };
+  @override
+  void onInit() {
+    super.onInit();
+    loadSubjects();
+  }
 
   void loadSubjects() {
     subjects.assignAll([
-      SubjectModel(id: 1, title: '1. Environment & Safety'),
-      SubjectModel(id: 2, title: '2. Driving Conditions'),
+      // Category 0
+      SubjectModel(id: 1, title: '1. Road Safety', categoryId: 0),
+      SubjectModel(id: 2, title: '2. Environment', categoryId: 0),
+
+      // Category 1
+      SubjectModel(id: 3, title: '1. Truck Basics', categoryId: 1),
+      SubjectModel(id: 4, title: '2. Cargo Safety', categoryId: 1),
+
+      // Category 2
+      SubjectModel(id: 5, title: '1. Passenger Rules', categoryId: 2),
+
+      // Category 3
+      SubjectModel(id: 6, title: '1. Farm Equipment', categoryId: 3),
     ]);
+
+    subjectQuestions[1] = [
+      QuestionModel(
+        question: 'What is the safe speed in a residential area?',
+        options: ['30 km/h', '50 km/h', '70 km/h'],
+        correctAnswer: 0,
+      ),
+    ];
+
+    subjectQuestions[2] = [
+      QuestionModel(
+        question: 'When should you turn off the engine?',
+        options: ['Never', 'At long stops', 'In tunnels'],
+        correctAnswer: 1,
+      ),
+    ];
+
+    subjectQuestions[3] = [
+      QuestionModel(
+        question: 'What is max load for a C truck?',
+        options: ['5 tons', '15 tons', '25 tons'],
+        correctAnswer: 2,
+      ),
+    ];
+
+    subjectQuestions[4] = [
+      QuestionModel(
+        question: 'How do you secure cargo?',
+        options: ['With net', 'With chains', 'Both'],
+        correctAnswer: 2,
+      ),
+    ];
+
+    subjectQuestions[5] = [
+      QuestionModel(
+        question: 'What is max standing passengers in D bus?',
+        options: ['10', '15', '20'],
+        correctAnswer: 1,
+      ),
+    ];
+
+    subjectQuestions[6] = [
+      QuestionModel(
+        question: 'Which vehicles are exempt from license?',
+        options: ['Bicycles', 'Tractors', 'Scooters'],
+        correctAnswer: 1,
+      ),
+    ];
+  }
+
+  List<SubjectModel> getSubjectsByCategory(int categoryId) {
+    return subjects.where((s) => s.categoryId == categoryId).toList();
+  }
+
+  List<QuestionModel> getQuestionsForSubject(int subjectId) {
+    return subjectQuestions[subjectId] ?? [];
   }
 }

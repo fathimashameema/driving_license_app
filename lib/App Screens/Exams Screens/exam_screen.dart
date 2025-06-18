@@ -36,7 +36,7 @@ class ExamScreen extends StatelessWidget {
                     const SizedBox(width: 6),
                     _infoBox('0'), // Placeholder for score
                     const SizedBox(width: 6),
-                    _infoBox('#${question.id}'),
+                    _infoBox('#${question.question}'),
                     const Spacer(),
                     Image.asset('assets/images/slogo.png', height: 36),
                   ],

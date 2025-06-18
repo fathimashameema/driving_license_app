@@ -11,7 +11,10 @@ class SubjectListScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final subjectController = Get.put(SubjectController());
-    
+    final args = Get.arguments as Map;
+    final categoryId = args['category'] as int;
+    final filteredSubjects = subjectController.getSubjectsByCategory(categoryId);
+
 
     return Scaffold(
       backgroundColor: Colors.black,
