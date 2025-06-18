@@ -220,6 +220,7 @@
 //   }
 // }
 
+import 'package:avtoskola_varketilshi/Controllers/Subject%20Controllers/subject_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -251,6 +252,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final categoryCtrl = Get.put(CategoryController());
+    final subjectCtrl = Get.put(SubjectController());
 
     return Scaffold(
       body: Obx(() {

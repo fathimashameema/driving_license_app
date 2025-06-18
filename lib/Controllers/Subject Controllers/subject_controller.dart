@@ -1,53 +1,4 @@
 
-
-// import 'package:avtoskola_varketilshi/Models/subject_model.dart';
-// import 'package:get/get.dart';
-// import '../../Models/question_model.dart';
-
-// class SubjectController extends GetxController {
-//   final subjects = <SubjectModel>[].obs;
-
-// @override
-// void onInit() {
-//   super.onInit();
-//   loadSubjects();
-// }
-
-//   Map<int, List<QuestionModel>> subjectQuestions = {
-//     1: [
-//       QuestionModel(
-//         question: 'How should environment impact mitigation be achieved ?',
-//         options: [
-//           'Drive your own car always',
-//           'Use public transport',
-//           'Ignore traffic rules',
-//         ],
-//         correctAnswer: 1,
-//       ),
-//       QuestionModel(
-//         question: 'When to use seat belts?',
-//         options: ['Always', 'Only on highway', 'Never'],
-//         correctAnswer: 0,
-//       ),
-//     ],
-//     2: [
-//       QuestionModel(
-//         question: 'Driving in fog needs?',
-//         options: ['High beam', 'Low beam', 'Hazards only'],
-//         correctAnswer: 1,
-//       )
-//     ],
-//   };
-
-//   void loadSubjects() {
-//     subjects.assignAll([
-//       SubjectModel(id: 1, title: '1. Environment & Safety'),
-//       SubjectModel(id: 2, title: '2. Driving Conditions'),
-//     ]);
-//   }
-// }
-
-
 import 'package:avtoskola_varketilshi/Models/question_model.dart';
 import 'package:get/get.dart';
 import 'package:get/get_state_manager/src/simple/get_controllers.dart';
@@ -82,6 +33,16 @@ class SubjectController extends GetxController {
     ]);
 
     subjectQuestions[1] = [
+      QuestionModel(
+        question: 'What is the safe speed in a residential area?',
+        options: ['30 km/h', '50 km/h', '70 km/h'],
+        correctAnswer: 0,
+      ),
+      QuestionModel(
+        question: 'What is the safe speed in a residential area?',
+        options: ['30 km/h', '50 km/h', '70 km/h'],
+        correctAnswer: 0,
+      ),
       QuestionModel(
         question: 'What is the safe speed in a residential area?',
         options: ['30 km/h', '50 km/h', '70 km/h'],
@@ -131,10 +92,11 @@ class SubjectController extends GetxController {
   }
 
   List<SubjectModel> getSubjectsByCategory(int categoryId) {
-    return subjects.where((s) => s.categoryId == categoryId).toList();
-  }
+  return subjects.where((s) => s.categoryId == categoryId).toList();
+}
 
-  List<QuestionModel> getQuestionsForSubject(int subjectId) {
-    return subjectQuestions[subjectId] ?? [];
-  }
+List<QuestionModel> getQuestionsForSubject(int subjectId) {
+  return subjectQuestions[subjectId] ?? [];
+}
+
 }
