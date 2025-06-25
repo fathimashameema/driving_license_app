@@ -1,56 +1,50 @@
-
-
-
-import 'dart:async';
 import 'package:get/get.dart';
 import '../../Models/question_model.dart';
 
 class QuestionController extends GetxController {
   final questions = <QuestionModel>[].obs;
   final currentIndex = 0.obs;
-  final selectedOption = RxnInt();
+  final selectedOptions = <int, int>{}.obs; // Track selected option by question index
   final correctAnswers = 0.obs;
-  Timer? _nextTimer;
+  final showAnswerFeedback = false.obs; // New reactive variable for immediate feedback
 
   void loadQuestions(List<QuestionModel> newQuestions) {
     questions.assignAll(newQuestions);
     currentIndex.value = 0;
     correctAnswers.value = 0;
-    selectedOption.value = null;
+    selectedOptions.clear();
+    showAnswerFeedback.value = false;
   }
 
   void selectOption(int index) {
-    if (selectedOption.value != null) return; // Already answered
+    final questionIndex = currentIndex.value;
 
-    selectedOption.value = index;
+    // Prevent selecting again if already answered
+    if (selectedOptions.containsKey(questionIndex)) return;
 
-    if (index == questions[currentIndex.value].correctAnswer) {
+    // Store the selected option
+    selectedOptions[questionIndex] = index;
+    showAnswerFeedback.value = true; // Trigger immediate feedback
+
+    // Update correct answer count if the selected option is correct
+    if (index == questions[questionIndex].correctAnswer) {
       correctAnswers.value++;
     }
 
-    _nextTimer = Timer(const Duration(seconds: 5), nextQuestion);
+    update(); // Force UI update
   }
 
   void nextQuestion() {
-    _nextTimer?.cancel();
+    showAnswerFeedback.value = false; // Reset feedback for new question
     if (currentIndex.value < questions.length - 1) {
       currentIndex.value++;
-      selectedOption.value = null;
     }
   }
 
-  void onTapAdvance() {
-    if (selectedOption.value != null) {
-      nextQuestion();
+  void prevQuestion() {
+    showAnswerFeedback.value = false; // Reset feedback for new question
+    if (currentIndex.value > 0) {
+      currentIndex.value--;
     }
   }
-
-  bool isCorrect(int index) =>
-      selectedOption.value != null &&
-      index == questions[currentIndex.value].correctAnswer;
-
-  bool isWrong(int index) =>
-      selectedOption.value != null &&
-      index == selectedOption.value &&
-      selectedOption.value != questions[currentIndex.value].correctAnswer;
 }

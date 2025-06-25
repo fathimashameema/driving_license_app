@@ -102,7 +102,7 @@ class SubjectListScreen extends StatelessWidget {
                     onTap: () => Get.offAll(() => HomeScreen()),
                     child: Image.asset('assets/images/menu.png', height: 24),
                   ),
-                  Image.asset('assets/images/logo.png', height: 30),
+                  Image.asset('assets/images/slogo.png', height: 30),
                   Image.asset('assets/images/drawer.png', height: 24),
                 ],
               ),

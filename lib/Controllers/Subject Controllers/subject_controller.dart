@@ -1,7 +1,5 @@
-
 import 'package:avtoskola_varketilshi/Models/question_model.dart';
 import 'package:get/get.dart';
-import 'package:get/get_state_manager/src/simple/get_controllers.dart';
 
 class SubjectController extends GetxController {
   final subjects = <SubjectModel>[].obs;
@@ -34,27 +32,48 @@ class SubjectController extends GetxController {
 
     subjectQuestions[1] = [
       QuestionModel(
-        question: 'What is the safe speed in a residential area?',
-        options: ['30 km/h', '50 km/h', '70 km/h'],
-        correctAnswer: 0,
+        question:
+            'რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?',
+        options: [
+          'ჯერ უნდა გაიაროს ყვითელმა ავტომობილმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - ლურჯმა ავტომობილმა',
+          'ჯერ უნდა გაიაროს ლურჯმა ავტომობილმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - ყვითელმა ავტომობილმა',
+          'ჯერ უნდა გაიაროს ყვითელმა ავტომობილმა, შემდეგ - ლურჯმა ავტომობილმა, ბოლოს - სატვირთო ავტომობილმა'
+        ],
+        correctAnswer: 1, // 30 km/h
       ),
       QuestionModel(
-        question: 'What is the safe speed in a residential area?',
-        options: ['30 km/h', '50 km/h', '70 km/h'],
-        correctAnswer: 0,
+        question: 'მსუბუქი ავტომობილის მძღოლს მოძრაობა ეკრძალება:',
+        options: ['A მიმართულებით', 'B მიმართულებით', 'C მიმართულებით'],
+        correctAnswer: 1, // Stop if safe
       ),
       QuestionModel(
-        question: 'What is the safe speed in a residential area?',
-        options: ['30 km/h', '50 km/h', '70 km/h'],
-        correctAnswer: 0,
+        question:
+            'რომელი სატრანსპორტო საშუალების მძღოლია ვალდებული, ისრის მიმართულებით მოძრაობის შემთხვევაში გზა დაუთმოს ქვეითებს?',
+        options: [
+          'წითელი მსუბუქი ავტომობილის მძღოლი',
+          'ლურჯი მსუბუქი ავტომობილის მძღოლი',
+          'თეთრი მსუბუქი ავტომობილის მძღოლი'
+        ],
+        correctAnswer: 1, // Stop
+      ),
+      QuestionModel(
+        question: 'მსუბუქი ავტომობილის მძღოლს მოძრაობა ეკრძალება:',
+        options: ['A მიმართულებით', 'B მიმართულებით', 'C მიმართულებით'],
+        correctAnswer: 1, // Stop if safe
       ),
     ];
 
     subjectQuestions[2] = [
       QuestionModel(
-        question: 'When should you turn off the engine?',
-        options: ['Never', 'At long stops', 'In tunnels'],
-        correctAnswer: 1,
+        question:
+            'რომელი სატრანსპორტო საშუალების მძღოლია ვალდებული, ისრის მიმართულებით მოძრაობის შემთხვევაში გზა დაუთმოს ქვეითებს?',
+        options: [
+          'მხოლოდ სატვირთო ავტომობილის მძღოლი',
+          'მხოლოდ მსუბუქი ავტომობილის მძღოლი',
+          'მხოლოდ მოტოციკლის მძღოლი',
+          'სამივე სატრანსპორტო საშუალების მძღოლი'
+        ],
+        correctAnswer: 2,
       ),
     ];
 
@@ -92,11 +111,10 @@ class SubjectController extends GetxController {
   }
 
   List<SubjectModel> getSubjectsByCategory(int categoryId) {
-  return subjects.where((s) => s.categoryId == categoryId).toList();
-}
+    return subjects.where((s) => s.categoryId == categoryId).toList();
+  }
 
-List<QuestionModel> getQuestionsForSubject(int subjectId) {
-  return subjectQuestions[subjectId] ?? [];
-}
-
+  List<QuestionModel> getQuestionsForSubject(int subjectId) {
+    return subjectQuestions[subjectId] ?? [];
+  }
 }

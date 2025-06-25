@@ -1,11 +1,7 @@
-
-
-
 import 'package:avtoskola_varketilshi/Controllers/Subject%20Controllers/question_controller.dart';
 import 'package:avtoskola_varketilshi/Models/question_model.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
 
 class SubjectDetailScreen extends StatelessWidget {
   const SubjectDetailScreen({super.key});
@@ -20,76 +16,97 @@ class SubjectDetailScreen extends StatelessWidget {
       backgroundColor: Colors.black,
       body: SafeArea(
         child: Obx(() {
-          final question = controller.questions[controller.currentIndex.value];
-          return GestureDetector(
-            onTap: controller.onTapAdvance,
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                /// Header
-                Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-                  child: Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [
-                      Text(
-                        '#${controller.currentIndex.value + 1}/${controller.questions.length}',
-                        style: const TextStyle(color: Colors.red, fontWeight: FontWeight.bold),
+          final questionIndex = controller.currentIndex.value;
+          final question = controller.questions[questionIndex];
+          final hasAnswered =
+              controller.selectedOptions.containsKey(questionIndex);
+          final showFeedback = controller.showAnswerFeedback.value;
+
+          return Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              /// Header
+              Padding(
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Text(
+                      '#${questionIndex + 1}/${controller.questions.length}',
+                      style: const TextStyle(
+                          color: Colors.red, fontWeight: FontWeight.bold),
+                    ),
+                    Image.asset('assets/images/slogo.png', height: 38),
+                    Text(
+                      '${controller.correctAnswers.value}/${controller.questions.length}',
+                      style: const TextStyle(
+                          color: Colors.red, fontWeight: FontWeight.bold),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 20),
+
+              /// Question
+              Padding(
+                padding: const EdgeInsets.all(16.0),
+                child: Text(
+                  question.question,
+                  style: const TextStyle(
+                      color: Colors.white,
+                      fontSize: 16,
+                      fontWeight: FontWeight.w500),
+                ),
+              ),
+
+              /// Options
+              Expanded(
+                child: ListView.builder(
+                  padding: const EdgeInsets.symmetric(horizontal: 16),
+                  itemCount: question.options.length,
+                  itemBuilder: (context, index) {
+                    final isSelected =
+                        controller.selectedOptions[questionIndex] == index;
+                    final isCorrect = index == question.correctAnswer;
+
+                    Color optionColor = Colors.transparent;
+                    if (isSelected) {
+                      optionColor = isCorrect ? Colors.green : Colors.red;
+                    }
+                    // Show correct answer if feedback is enabled
+                    else if ((showFeedback || hasAnswered) && isCorrect) {
+                      optionColor = Colors.green.withOpacity(0.3);
+                    }
+
+                    return AnimatedContainer(
+                      duration: const Duration(milliseconds: 300),
+                      margin: const EdgeInsets.symmetric(vertical: 6),
+                      decoration: BoxDecoration(
+                        color: optionColor,
+                        border: Border.all(color: Colors.white),
+                        borderRadius: BorderRadius.circular(6),
                       ),
-                      Image.asset('assets/images/slogo.png', height: 38),
-                      Text(
-                        '${controller.correctAnswers}/${controller.questions.length}',
-                        style: const TextStyle(color: Colors.red, fontWeight: FontWeight.bold),
+                      child: ListTile(
+                        title: Text(
+                          question.options[index],
+                          style: const TextStyle(color: Colors.white),
+                        ),
+                        onTap: () {
+                          if (!hasAnswered) {
+                            controller.selectOption(index);
+                          }
+                        },
                       ),
-                    ],
-                  ),
+                    );
+                  },
                 ),
-                const SizedBox(height: 20),
+              ),
 
-                /// Question
-                Padding(
-                  padding: const EdgeInsets.all(16.0),
-                  child: Text(
-                    question.question,
-                    style: const TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.w500),
-                  ),
-                ),
-
-                /// Options
-                Expanded(
-                  child: ListView.builder(
-                    padding: const EdgeInsets.symmetric(horizontal: 16),
-                    itemCount: question.options.length,
-                    itemBuilder: (context, index) {
-                      final isCorrect = controller.isCorrect(index);
-                      final isWrong = controller.isWrong(index);
-
-                      return Container(
-                        margin: const EdgeInsets.symmetric(vertical: 6),
-                        decoration: BoxDecoration(
-                          color: isCorrect
-                              ? Colors.green
-                              : isWrong
-                                  ? Colors.red
-                                  : Colors.transparent,
-                          border: Border.all(color: Colors.white),
-                          borderRadius: BorderRadius.circular(6),
-                        ),
-                        child: ListTile(
-                          title: Text(
-                            question.options[index],
-                            style: const TextStyle(color: Colors.white),
-                          ),
-                          onTap: () => controller.selectOption(index),
-                        ),
-                      );
-                    },
-                  ),
-                ),
-
-                 /// Bottom Navigation
+              /// Bottom Navigation
               Container(
-                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
                 decoration: const BoxDecoration(
                   border: Border(top: BorderSide(color: Colors.red)),
                 ),
@@ -97,7 +114,7 @@ class SubjectDetailScreen extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     IconButton(
-                      icon: const Icon(Icons.error, color: Colors.red, ),
+                      icon: const Icon(Icons.error, color: Colors.red),
                       onPressed: () {},
                     ),
                     IconButton(
@@ -107,21 +124,22 @@ class SubjectDetailScreen extends StatelessWidget {
                     Row(
                       mainAxisAlignment: MainAxisAlignment.end,
                       children: [
-                         IconButton(
-                          icon: const Icon(Icons.skip_previous, color: Colors.white),
-                          onPressed: controller.nextQuestion,
+                        IconButton(
+                          icon: const Icon(Icons.skip_previous,
+                              color: Colors.white),
+                          onPressed: controller.prevQuestion,
                         ),
                         IconButton(
-                          icon: const Icon(Icons.skip_next, color: Colors.white),
+                          icon:
+                              const Icon(Icons.skip_next, color: Colors.white),
                           onPressed: controller.nextQuestion,
                         ),
                       ],
                     ),
                   ],
                 ),
-              )
-              ],
-            ),
+              ),
+            ],
           );
         }),
       ),
