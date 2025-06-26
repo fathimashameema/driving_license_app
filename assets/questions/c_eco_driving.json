@@ -1,0 +1,194 @@
+[
+    {
+      "id": 20,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_20.mp4",
+      "wrongVideo": "assets/videos/wrong_20.mp4",
+      "previewVideo": "assets/videos/preview_20.mp4",
+      "question": "რა უნდა გვახსოვდეს მავნე ნივთიერებებისგან გარემოს დასაცავად?",
+      "answers": [
+        "1\nუნდა მოვერიდოთ სატრანსპორტო საშუალების დგომას ჩართული ძრავით",
+        "2\nმოძრაობის დროის შესამცირებლად სატრანსპორტო საშუალება უნდა ვმართოთ ინტენსიური აჩქარებით და მკვეთრად დამუხრუჭებით",
+        "3\nსატრანსპორტო საშუალება უნდა ვმართოთ ძრავის ბრუნვის მაღალი სიჩქარით"
+      ]
+    },
+    {
+      "id": 21,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_21.mp4",
+      "wrongVideo": "assets/videos/wrong_21.mp4",
+      "previewVideo": "assets/videos/preview_21.mp4",
+      "question": "იმისთვის, რომ თავიდან ავიცილოთ საწვავის გაზრდილი ხარჯი და მავნე ნივთიერებების მომატებული გამოყოფა, დროულად უნდა გამოვცვალოთ:",
+      "answers": [
+        "1\nძრავის ჰაერის ფილტრი",
+        "2\nმგზავრთა სალონის ვენტილაციის ფილტრი",
+        "3\nსაქარე მინის მინასაწმენდები"
+      ]
+    },
+    {
+      "id": 22,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_22.mp4",
+      "wrongVideo": "assets/videos/wrong_22.mp4",
+      "previewVideo": "assets/videos/preview_22.mp4",
+      "question": "რას იწვევს საბურავებში რეკომენდებულ დონეზე ქვემოთ ჰაერის წნევის შემცირება?",
+      "answers": [
+        "1\nზრდის საწვავის მოხმარებას",
+        "2\nამცირებს საბურავების ცვეთას",
+        "3\nამცირებს მავნე ნივთიერებების გამოყოფას"
+      ]
+    },
+    {
+      "id": 23,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_23.mp4",
+      "wrongVideo": "assets/videos/wrong_23.mp4",
+      "previewVideo": "assets/videos/preview_23.mp4",
+      "question": "როდის უნდა გავთიშოთ ძრავი საწვავის ეკონომიისა და გამონაბოლქვის შემცირების მიზნით?",
+      "answers": [
+        "1\nროდესაც შეფერხებული მოძრაობის პირობებში გვიწევს დიდი ხნით დგომა",
+        "2\nროდესაც ვმოძრაობთ დაღმართზე",
+        "3\nროდესაც ვჩერდებით \"სდექ\" ნიშანთან"
+      ]
+    },
+    {
+      "id": 24,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_24.mp4",
+      "wrongVideo": "assets/videos/wrong_24.mp4",
+      "previewVideo": "assets/videos/preview_24.mp4",
+      "question": "სატრანსპორტო საშუალების რომელიმე აგრეგატიდან გამოჟონილი ზეთი:",
+      "answers": [
+        "1\nნიადაგზე მოხვედრის შემთხვევაში ანოყიერებს მას",
+        "2\nაბინძურებს გარემოს",
+        "3\nზეგავლენას არ ახდენს გარემოზე"
+      ]
+    },
+    {
+      "id": 25,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_25.mp4",
+      "wrongVideo": "assets/videos/wrong_25.mp4",
+      "previewVideo": "assets/videos/preview_25.mp4",
+      "question": "რა უნდა გვახსოვდეს სატრანსპორტო საშუალების საწვავით გამართვისას?",
+      "answers": [
+        "1\nსაწვავით გამართვისას სატრანსპორტო საშუალების ძრავი უნდა მუშაობდეს უქმ სვლაზე",
+        "2\nარ უნდა განვაგრძოთ საწვავის ჩასხმა მას შემდეგ, რაც საწვავის ავზის გავსების შედეგად ჩასასხმელი მოწყობილობა (პისტოლეტი) ავტომატურად გაითიშება",
+        "3\nშესაძლებლობის შემთხვევაში საწვავის ავზი უნდა შევავსოთ კიდემდე"
+      ]
+    },
+    {
+      "id": 26,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_26.mp4",
+      "wrongVideo": "assets/videos/wrong_26.mp4",
+      "previewVideo": "assets/videos/preview_26.mp4",
+      "question": "რა შეიძლება გამოიწვიოს გამოსაბოლქვი სისტემის გაუმართაობამ?",
+      "answers": [
+        "1\nსაავარიო შუქსიგნალიზაციის ჩართვა",
+        "2\nგამონაბოლქვში მავნე ნივთიერებების რაოდენობის ზრდა",
+        "3\nმოხმარებული საწვავის რაოდენობის მნიშვნელოვნად შემცირება"
+      ]
+    },
+    {
+      "id": 27,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_27.mp4",
+      "wrongVideo": "assets/videos/wrong_27.mp4",
+      "previewVideo": "assets/videos/preview_27.mp4",
+      "question": "როგორ არის შესაძლებელი სატრანსპორტო საშუალების მოძრაობით გამოწვეული ხმაურის შემცირება?",
+      "answers": [
+        "1\nუნივერსალური საბურავების გამოყენებით",
+        "2\nძრავის ჰაერის ფილტრის მოხსნით",
+        "3\nსატრანსპორტო საშუალების ძრავის დაბალი ბრუნვის სიჩქარით მართვის"
+      ]
+    },
+    {
+      "id": 28,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_28.mp4",
+      "wrongVideo": "assets/videos/wrong_28.mp4",
+      "previewVideo": "assets/videos/preview_28.mp4",
+      "question": "სად უნდა განხორციელდეს გამოყენებული ზეთების, საცხებ-საპოხი სითხეების და აკუმულატორების გადატანა მათი განადგურების მიზნით?",
+      "answers": [
+        "1\nდასახლებული პუნქტიდან მოშორებით",
+        "2\nსაყოფაცხოვრებო ნაგავსაყრელზე",
+        "3\nგადამამუშავებელ ცენტრებში"
+      ]
+    },
+    {
+      "id": 29,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_29.mp4",
+      "wrongVideo": "assets/videos/wrong_29.mp4",
+      "previewVideo": "assets/videos/preview_29.mp4",
+      "question": "როგორ უნდა შევამციროთ საწვავის ხარჯი თანაბარი სიჩქარით მოძრაობისას?",
+      "answers": [
+        "1\nგამოვიყენოთ კრუიზკონტროლი, რომელიც თავად არეგულირებს მოძრაობის სიჩქარეს",
+        "2\nვმართოთ სატრანსპორტო საშუალება მინიმალური სიჩქარით",
+        "3\nვმართოთ სატრანსპორტო საშუალება მაქსიმალური სიჩქარით"
+      ]
+    },
+    {
+      "id": 30,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_30.mp4",
+      "wrongVideo": "assets/videos/wrong_30.mp4",
+      "previewVideo": "assets/videos/preview_30.mp4",
+      "question": "როგორი რეჟიმით მოძრაობა იწვევს საწვავის მოხმარების შემცირებას?",
+      "answers": [
+        "1\nმოძრაობა ძრავის ბრუნვის დაბალი სიჩქარით",
+        "2\nმოძრაობა ძრავის ბრუნვის მაღალი სიჩქარით"
+      ]
+    },
+    {
+      "id": 31,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_31.mp4",
+      "wrongVideo": "assets/videos/wrong_31.mp4",
+      "previewVideo": "assets/videos/preview_31.mp4",
+      "question": "თქვენ გიწევთ მოცდა რკინიგზის გადასასვლელის დაკეტილ შლაგბაუმთან. როგორ იზრუნებთ საწვავის მოხმარების შემცირებასა და გარემოს დაცვაზე?",
+      "answers": [
+        "1\nძრავის გათიშვით",
+        "2\nძრავის უქმი სვლის რეჟიმზე გადაყვანით"
+      ]
+    },
+    {
+      "id": 32,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_32.mp4",
+      "wrongVideo": "assets/videos/wrong_32.mp4",
+      "previewVideo": "assets/videos/preview_32.mp4",
+      "question": "ჩამოთვლილთაგან რომელი უწყობს ხელს გარემოს დაცვას?",
+      "answers": [
+        "1\nდაბალი გორვის წინაღობის მქონე საბურავების გამოყენება",
+        "2\nგზიდან გადაცემული ბიძგების შემცირების მიზნით საბურავებში ჰაერის წნევის რეკომენდებულზე მეტად შემცირება",
+        "3\nსატრანსპორტო საშუალებაში ჰაერის კონდიცირებისა და ვენტილაციის სისტემების ამუშავება"
+      ]
+    },
+    {
+      "id": 33,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_33.mp4",
+      "wrongVideo": "assets/videos/wrong_33.mp4",
+      "previewVideo": "assets/videos/preview_33.mp4",
+      "question": "სატრანსპორტო საშუალების მართვის დროს რას შეუძლია დამატებითი ხმაურის გამოწვევა?",
+      "answers": [
+        "1\nძარის აეროდინამიურობის გასაუმჯობესებელი მოწყობილობების დაყენებას",
+        "2\nსაწვავის არასრული წვის შედეგად წარმოქმნილი აირების მაყუჩში მოხვედრას",
+        "3\nძრავის დაბალი ბრუნთა რიცხვით მოძრაობას"
+      ]
+    },
+    {
+      "id": 34,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_34.mp4",
+      "wrongVideo": "assets/videos/wrong_34.mp4",
+      "previewVideo": "assets/videos/preview_34.mp4",
+      "question": "როგორ უნდა შეცვალოთ გადაცემათა კოლოფის გადაცემები, გარემოს დაცვისა და საწვავის დაზოგვის მიზნით?",
+      "answers": [
+        "1\nგადაცემათა კოლოფი უნდა გადავრთოთ მაღალ გადაცემაზე, რაც შეიძლება ადრე და დაბალ გადაცემაზე გადავრთოთ, რაც შეიძლება გვიან",
+        "2\nგადაცემათა კოლოფის გადაცემა შევცვალოთ მხოლოდ მას შემდეგ, როცა მიღწეული იქნება ძრავის მაქსიმალური ბრუნვის სიჩქარე"
+      ]
+    }
+]

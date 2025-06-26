@@ -1,0 +1,39 @@
+[
+    {
+      "id": 44,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct.mp4",
+      "wrongVideo": "assets/videos/wrong.mp4",
+      "previewVideo": "assets/videos/preview.mp4",
+      "question": "რომელი მიმართულებით არის აკრძალული სასწავლო ავტომობილის მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
+      "answers": [
+        "მხოლოდ A მიმართულებით",
+        "მხოლოდ B მიმართულებით",
+        "როგორც A, ასევე B მიმართულებით"
+      ]
+    },
+    {
+      "id": 45,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct.mp4",
+      "wrongVideo": "assets/videos/wrong.mp4",
+      "previewVideo": "assets/videos/preview.mp4",
+      "question": "აკრძალულია თუ არა სასწავლო ავტომობილის ისრის მიმართულებით მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
+      "answers": [
+        "აკრძალულია",
+        "არ არის აკრძალული"
+      ]
+    },
+    {
+      "id": 46,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct.mp4",
+      "wrongVideo": "assets/videos/wrong.mp4",
+      "previewVideo": "assets/videos/preview.mp4",
+      "question": "აკრძალულია თუ არა სასწავლო ავტომობილის ისრის მიმართულებით მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
+      "answers": [
+        "აკრძალულია",
+        "არ არის აკრძალული"
+      ]
+    }
+  ]
