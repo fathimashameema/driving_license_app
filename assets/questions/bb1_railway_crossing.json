@@ -1,7 +1,7 @@
 [
     {
       "id": 97,
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "correctVideo": "assets/videos/correct_97.mp4",
       "wrongVideo": "assets/videos/wrong_97.mp4",
       "previewVideo": "assets/videos/preview_97.mp4",
@@ -15,7 +15,7 @@
     },
     {
       "id": 98,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct_98.mp4",
       "wrongVideo": "assets/videos/wrong_98.mp4",
       "previewVideo": "assets/videos/preview_98.mp4",
@@ -27,7 +27,7 @@
     },
     {
       "id": 99,
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "correctVideo": "assets/videos/correct_99.mp4",
       "wrongVideo": "assets/videos/wrong_99.mp4",
       "previewVideo": "assets/videos/preview_99.mp4",
@@ -39,7 +39,7 @@
     },
     {
       "id": 100,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct_100.mp4",
       "wrongVideo": "assets/videos/wrong_100.mp4",
       "previewVideo": "assets/videos/preview_100.mp4",
@@ -79,7 +79,7 @@
     },
     {
       "id": 103,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct_103.mp4",
       "wrongVideo": "assets/videos/wrong_103.mp4",
       "previewVideo": "assets/videos/preview_103.mp4",
@@ -93,7 +93,7 @@
     },
     {
       "id": 104,
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "correctVideo": "assets/videos/correct_104.mp4",
       "wrongVideo": "assets/videos/wrong_104.mp4",
       "previewVideo": "assets/videos/preview_104.mp4",
@@ -105,7 +105,7 @@
     },
     {
       "id": 105,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct_105.mp4",
       "wrongVideo": "assets/videos/wrong_105.mp4",
       "previewVideo": "assets/videos/preview_105.mp4",
@@ -119,7 +119,7 @@
     },
     {
       "id": 106,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct_106.mp4",
       "wrongVideo": "assets/videos/wrong_106.mp4",
       "previewVideo": "assets/videos/preview_106.mp4",
@@ -131,7 +131,7 @@
     },
     {
       "id": 107,
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "correctVideo": "assets/videos/correct_107.mp4",
       "wrongVideo": "assets/videos/wrong_107.mp4",
       "previewVideo": "assets/videos/preview_107.mp4",
@@ -170,7 +170,7 @@
     },
     {
       "id": 110,
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "correctVideo": "assets/videos/correct_110.mp4",
       "wrongVideo": "assets/videos/wrong_110.mp4",
       "previewVideo": "assets/videos/preview_110.mp4",
@@ -182,7 +182,7 @@
     },
     {
       "id": 111,
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "correctVideo": "assets/videos/correct_111.mp4",
       "wrongVideo": "assets/videos/wrong_111.mp4",
       "previewVideo": "assets/videos/preview_111.mp4",
@@ -205,5 +205,84 @@
         "1\nეკრძალება",
         "2\nარ ეკრძალება"
       ]
-    }
+    },
+      {
+        "id": 113,
+        "correctAnswer": 2,
+        "correctVideo": "assets/videos/correct.mp4",
+        "wrongVideo": "assets/videos/wrong.mp4",
+        "previewVideo": "assets/videos/preview.mp4",
+        "question": "მოცემულ სიტუაციაში, შუქნიშნის მოციმციმე ყვითელ მაშუქ სიგნალზე:",
+        "answers": [
+          "მძღოლი ვალდებულია გაჩერდეს „სდექ“ ხაზთან და დაელოდოს სიგნალის შეცვლას",
+          "მძღოლი ვალდებულია გაჩერდეს უახლოესი რელსიდან არანაკლებ 10 მეტრის მანძილზე",
+          "მძღოლს უფლება აქვს გააგრძელონ მოძრაობა განსაკუთრებული სიფრთხილის დაცვით",
+          "მძღოლი ვალდებულია გაჩერდეს შუქნიშანთან"
+        ]
+      },
+      {
+        "id": 114,
+        "correctAnswer": 0,
+        "correctVideo": "assets/videos/correct.mp4",
+        "wrongVideo": "assets/videos/wrong.mp4",
+        "previewVideo": "assets/videos/preview.mp4",
+        "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა ლურჯი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+        "answers": [
+          "ეკრძალება",
+          "არ ეკრძალება"
+        ]
+      },
+      {
+        "id": 115,
+        "correctAnswer": 0,
+        "correctVideo": "assets/videos/correct.mp4",
+        "wrongVideo": "assets/videos/wrong.mp4",
+        "previewVideo": "assets/videos/preview.mp4",
+        "question": "აქვს თუ არა წითელი ავტომობილის მძღოლს რკინიგზის გადასასვლელზე შესვლის უფლება, თუ გადასასვლელის შემდეგ წარმოქმნილია საცობი?",
+        "answers": [
+          "არ აქვს უფლება",
+          "აქვს უფლება"
+        ]
+      },
+      {
+        "id": 125,
+        "correctAnswer": 3,
+        "correctVideo": "assets/videos/correct.mp4",
+        "wrongVideo": "assets/videos/wrong.mp4",
+        "previewVideo": "assets/videos/preview.mp4",
+        "question": "რკინიგზის გადასასვლელზე აკრძალულია:",
+        "answers": [
+          "მხოლოდ საპირისპირო მოძრაობის ზოლზე გასვლით, გადასასვლელის წინ მდგომი სატრანსპორტო საშუალების შემოვლა",
+          "მხოლოდ შლაგბაუმის ან ნახევარშლაგბაუმის თვითნებური გახსნა",
+          "მხოლოდ იმ სასოფლო - სამეურნეო, საგზაო - სამშენებლო და სხვა მანქანებისა და მექანიზმების არასატრანსპორტო მდგომარეობაში გადატანა, რომლებმაც შეიძლება დააზიანონ გადასასვლელი, ან შეაფერხონ მასზე მოძრაობა",
+          "ამ ბილეთში ჩამოთვლილი ნებისმიერი მოქმედების განხორციელება"
+        ]
+      },
+      {
+        "id": 126,
+        "correctAnswer": 2,
+        "correctVideo": "assets/videos/correct.mp4",
+        "wrongVideo": "assets/videos/wrong.mp4",
+        "previewVideo": "assets/videos/preview.mp4",
+        "question": "რკინიგზის გადასასვლელზე სატრანსპორტო საშუალების იძულებითი გაჩერების შემთხვევაში, საერთო განგაშის ხმოვან სიგნალს შეესაბამება:",
+        "answers": [
+          "ორი გრძელი და ორი მოკლე ხმოვანი სიგნალი",
+          "სამი გრძელი და ერთი მოკლე ხმოვანი სიგნალი",
+          "ერთი გრძელი და სამი მოკლე ხმოვანი სიგნალი"
+        ]
+      },
+      {
+        "id": 127,
+        "correctAnswer": 1,
+        "correctVideo": "assets/videos/correct.mp4",
+        "wrongVideo": "assets/videos/wrong.mp4",
+        "previewVideo": "assets/videos/preview.mp4",
+        "question": "„რკინიგზის გადასასვლელი“ არის:",
+        "answers": [
+          "რკინიგზის ლიანდაგების ნებისმიერი მონაკვეთი",
+          "გზისა და დამოუკიდებელი ვაკისის მქონე რკინიგზის ან ტრამვაის ლიანდაგების ერთ დონეზე გადაკვეთა",
+          "გზისა და დამოუკიდებელი ვაკისის მქონე რკინიგზის ან ტრამვაის ლიანდაგების სხვადასხვა დონეზე გადაკვეთა"
+        ]
+      }
+    
 ]

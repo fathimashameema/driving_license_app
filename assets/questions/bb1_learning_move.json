@@ -1,7 +1,7 @@
 [
     {
       "id": 44,
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -14,7 +14,7 @@
     },
     {
       "id": 45,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -26,7 +26,7 @@
     },
     {
       "id": 46,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",

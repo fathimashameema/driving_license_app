@@ -1,7 +1,7 @@
 [
     {
       "id": 61,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -27,7 +27,7 @@
     },
     {
       "id": 63,
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -40,7 +40,7 @@
     },
     {
       "id": 64,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -54,7 +54,7 @@
     },
     {
       "id": 65,
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -78,7 +78,7 @@
     },
     {
       "id": 67,
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -92,7 +92,7 @@
     },
     {
       "id": 68,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -104,7 +104,7 @@
     },
     {
       "id": 69,
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -117,7 +117,7 @@
     },
     {
       "id": 70,
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -130,7 +130,7 @@
     },
     {
       "id": 71,
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -142,7 +142,7 @@
     },
     {
       "id": 72,
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -154,7 +154,7 @@
     },
     {
       "id": 73,
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",

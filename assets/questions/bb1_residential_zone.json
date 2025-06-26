@@ -1,7 +1,7 @@
 [
     {
       "id": 16,
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -14,7 +14,7 @@
     },
     {
       "id": 17,
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -26,7 +26,7 @@
     },
     {
       "id": 18,
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -40,7 +40,7 @@
     },
     {
       "id": 19,
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -52,7 +52,7 @@
     },
     {
       "id": 20,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -65,7 +65,7 @@
     },
     {
       "id": 21,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -77,7 +77,7 @@
     },
     {
       "id": 22,
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -91,7 +91,7 @@
     },
     {
       "id": 23,
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -105,7 +105,7 @@
     },
     {
       "id": 24,
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",

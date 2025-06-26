@@ -193,5 +193,59 @@
         "3\nმხოლოდ მოტოციკლის მძღოლი",
         "4\nმხოლოდ კვადროციკლისა და მოტოციკლის მძღოლები"
       ]
-    }
+    },
+      {
+        "id": 33,
+        "correctAnswer": 0,
+        "correctVideo": "assets/videos/correct_33.mp4",
+        "wrongVideo": "assets/videos/wrong_33.mp4",
+        "previewVideo": "assets/videos/preview_33.mp4",
+        "question": "რა მაქსიმალური სიჩქარით შეუძლია მოძრაობის გაგრძელება სატვირთო ავტომობილის მძღოლს,თუ ბუქსირება ხდება ხისტი გადაბმით?",
+        "answers": [
+          "1\n50 კმ/სთ სიჩქარით",
+          "2\n60 კმ/სთ სიჩქარით",
+          "3\n80 კმ/სთ სიჩქარით"
+        ]
+      },
+      {
+        "id": 34,
+        "correctAnswer": 0,
+        "correctVideo": "assets/videos/correct_34.mp4",
+        "wrongVideo": "assets/videos/wrong_34.mp4",
+        "previewVideo": "assets/videos/preview_34.mp4",
+        "question": "დაარღვევს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრის მიმართულებით 90 კმ/სთ სიჩქარით მოძრაობის შემთხვევაში?",
+        "answers": [
+          "1\nდაარღვევს",
+          "2\nარ დაარღვევს"
+        ]
+      },
+      {
+        "id": 35,
+        "correctAnswer": 1,
+        "correctVideo": "assets/videos/correct_35.mp4",
+        "wrongVideo": "assets/videos/wrong_35.mp4",
+        "previewVideo": "assets/videos/preview_35.mp4",
+        "question": "რა მაქსიმალური სიჩქარით მოძრაობის გაგრძელების უფლება აქვს „B“ კატეგორიის ავტომობილის მძღოლს საგზაო ნიშნის მოქმედების ზონაში?",
+        "answers": [
+          "1\n60 კმ/სთ სიჩქარით",
+          "2\n80 კმ/სთ სიჩქარით",
+          "3\n90 კმ/სთ სიჩქარით",
+          "4\n110 კმ/სთ სიჩქარით"
+        ]
+      },
+      {
+        "id": 36,
+        "correctAnswer": 3,
+        "correctVideo": "assets/videos/correct_36.mp4",
+        "wrongVideo": "assets/videos/wrong_36.mp4",
+        "previewVideo": "assets/videos/preview_36.mp4",
+        "question": "რა სიჩქარით მოძრაობის გაგრძელების უფლება აქვს „B“ კატეგორიის ავტომობილის მძღოლს საგზაო ნიშნით აღნიშნულ ზოლში?",
+        "answers": [
+          "1\nარა უმეტეს 50 კმ/სთ",
+          "2\nარანაკლებ 50 კმ/სთ და არა უმეტეს 70 კმ/სთ სიჩქარით",
+          "3\nარანაკლებ 50 კმ/სთ და არა უმეტეს 90 კმ/სთ სიჩქარით",
+          "4\nარანაკლებ 50 კმ/სთ და არა უმეტეს 110 კმ/სთ სიჩქარით"
+        ]
+      }
+        
 ]

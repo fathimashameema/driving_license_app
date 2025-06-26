@@ -1,7 +1,7 @@
 [
     {
       "id": 47,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -14,7 +14,7 @@
     },
     {
       "id": 48,
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -28,7 +28,7 @@
     },
     {
       "id": 49,
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -40,7 +40,7 @@
     },
     {
       "id": 50,
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -54,7 +54,7 @@
     },
     {
       "id": 51,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -67,7 +67,7 @@
     },
     {
       "id": 52,
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -80,7 +80,7 @@
     },
     {
       "id": 53,
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -93,7 +93,7 @@
     },
     {
       "id": 54,
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -106,7 +106,7 @@
     },
     {
       "id": 55,
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -119,7 +119,7 @@
     },
     {
       "id": 56,
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -132,7 +132,7 @@
     },
     {
       "id": 57,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -145,7 +145,7 @@
     },
     {
       "id": 58,
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -158,7 +158,7 @@
     },
     {
       "id": 59,
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "correctVideo": "assets/videos/correct.mp4",
       "wrongVideo": "assets/videos/wrong.mp4",
       "previewVideo": "assets/videos/preview.mp4",
@@ -169,5 +169,20 @@
         "მოტოციკლით",
         "ამ ბილეთში ჩამოთვლილი არც ერთი პასუხი არ არის სწორი"
       ]
-    }
+    },
+      {
+        "id": 60,
+        "correctAnswer": 3,
+        "correctVideo": "assets/videos/correct_131.mp4",
+        "wrongVideo": "assets/videos/wrong_131.mp4",
+        "previewVideo": "assets/videos/preview_131.mp4",
+        "question": "სატრანსპორტო საშულებაზე გადასაზიდი ტვირთის განთავსებისას ან/და დამაგრებისას ქვემოთ ჩამოთვლილი რომელი მოთხოვნის გათვალისწინება არ არის სავალდებულო?",
+        "answers": [
+          "1\nსაფრთხე არ უნდა შეექმნას სხვა საგზაო მოძრაობის მონაწილეებს, ზიანი არ მიადგეს სახელმწიფო, საზოგადოებრივ და კერძო ქონებას, ტვირთი არ ეთრეოდეს და არ ცვიოდეს გზაზე",
+          "2\nარ უნდა იქნეს შეზღუდული ხილვადობა და მხედველობის არე, არ უნდა დაირღვეს სატრანსპორტო საშუალების მდგრადობა და არ გაძნელდეს მისი მართვა",
+          "3\nარ უნდა დაიფაროს სინათლეები, სდექ-სიგნალი, მოხვევის შუქ-მაჩვენებლები, შუქამრეკლი მოწყობილობები, რეგისტრაციის ნომერი და მარეგისტრირებელი სახელმწიფოს განმასხვავებელი ნიშანი, აგრეთვე ხელით მისაცემი სიგნალები",
+          "4\nამ ბილეთში ჩამოთვლილი ყველა მოთხოვნის გათვალისწინება სავალდებულოა"
+        ]
+      }
+        
 ]
