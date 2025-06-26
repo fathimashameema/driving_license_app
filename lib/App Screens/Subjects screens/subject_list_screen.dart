@@ -85,7 +85,7 @@ class SubjectListScreen extends StatelessWidget {
     final args = Get.arguments as Map<String, dynamic>;
     final int categoryId = args['category'];
 
-    final filteredSubjects = subjectController.getSubjectsByCategory(categoryId);
+    final subjects = subjectController.getSubjects();
 
     return Scaffold(
       backgroundColor: Colors.black,
@@ -113,13 +113,13 @@ class SubjectListScreen extends StatelessWidget {
             Expanded(
               child: ListView.builder(
                 padding: const EdgeInsets.symmetric(horizontal: 16),
-                itemCount: filteredSubjects.length,
+                itemCount: subjects.length,
                 itemBuilder: (context, index) {
-                  final subject = filteredSubjects[index];
+                  final subject = subjects[index];
                   return SubjectButton(
                     title: subject.title,
                     onPressed: () {
-                      final questions = subjectController.getQuestionsForSubject(subject.id);
+                      final questions = subjectController.getQuestionsForSubject(categoryId, subject.id);
                       Get.to(() => const SubjectDetailScreen(), arguments: questions);
                     },
                   );

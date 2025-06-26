@@ -1,0 +1,123 @@
+[
+    {
+      "id": 940,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "დაარღვეს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ყვითელი ავტობუსის მძღოლს უკვე დაწყებული აქვს გასწრება?",
+      "answers": [
+        "1\nდაარღვევს",
+        "2\nარ დაარღვევს"
+      ]
+    },
+    {
+      "id": 941,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "ეკრძალება თუ არა თეთრი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+      "answers": [
+        "1\nეკრძალება",
+        "2\nარ ეკრძალება"
+      ]
+    },
+    {
+      "id": 942,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს გასწრება?",
+      "answers": [
+        "1\nეკრძალება",
+        "2\nარ ეკრძალება"
+      ]
+    },
+    {
+      "id": 943,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს, გააგრძელოს მოძრაობა ისრის მიმართულებით?",
+      "answers": [
+        "1\nაქვს უფლება",
+        "2\nარ აქვს უფლება"
+      ]
+    },
+    {
+      "id": 944,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "ეკრძალება თუ არა თეთრი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+      "answers": [
+        "1\nეკრძალება",
+        "2\nარ ეკრძალება"
+      ]
+    },
+    {
+      "id": 945,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "ეკრძალება თუ არა რუხი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
+      "answers": [
+        "1\nეკრძალება",
+        "2\nარ ეკრძალება"
+      ]
+    },
+    {
+      "id": 946,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "აქვს თუ არა მწვანე მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრების უფლება?",
+      "answers": [
+        "1\nაქვს უფლება",
+        "2\nარ აქვს უფლება"
+      ]
+    },
+    {
+      "id": 947,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "აქვს თუ არა რუხი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრების უფლება?",
+      "answers": [
+        "1\nაქვს უფლება",
+        "2\nარ აქვს უფლება"
+      ]
+    },
+    {
+      "id": 948,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "აქვს თუ არა წითელი ავტომობილის მძღოლს ისრის მიმართულებით გასწრების უფლება?",
+      "answers": [
+        "1\nაქვს უფლება",
+        "2\nარ აქვს უფლება"
+      ]
+    },
+    {
+      "id": 949,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "აქვს თუ არა თეთრი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრების უფლება?",
+      "answers": [
+        "1\nაქვს უფლება",
+        "2\nარ აქვს უფლება"
+      ]
+    }
+  ]
+  

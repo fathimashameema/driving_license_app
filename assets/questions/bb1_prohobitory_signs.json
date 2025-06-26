@@ -1,0 +1,136 @@
+[
+    {
+      "id": 925,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "მოცემული საგზაო ნიშნის მოქმედების ზონაში AM კატეგორიის სატრანსპორტო საშუალებით მოძრაობა ნებადართულია არაუმეტეს:",
+      "answers": [
+        "1\n45 კმ/სთ სიჩქარით",
+        "2\n50 კმ/სთ სიჩქარი",
+        "3\n20 კმ/სთ სიჩქარით"
+      ]
+    },
+    {
+      "id": 926,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "მოცემული საგზაო ნიშანი:",
+      "answers": [
+        "1\nკრძალავს მოძრაობას ნიშანზე მითითებულზე მეტი სიჩქარით",
+        "2\nაღნიშნავს მაქსიმალური სიჩქარის შემზღუდავი საგზაო ნიშნის მოქმედების ზონის დასასრულს",
+        "3\nმიუთითებს სიჩქარეს, რომლითაც რეკომენდირებულია მოძრაობა გზის მოცემულ მონაკვეთზე"
+      ]
+    },
+    {
+      "id": 927,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "აქვს თუ არა მსუბუქი ავტომობილის მძღოლს, სურათზე მითითებულ ადგილას, ავტომობილის სადგომზე დაყენების უფლება, თვის ლუწ რიცხვებში 19.00 საათიდან 21.00 საათამდე?",
+      "answers": [
+        "1\nაქვს უფლება",
+        "2\nარ აქვს უფლება"
+      ]
+    },
+    {
+      "id": 928,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "მოცემულ სიტუაციაში, რომელი ავტომობილის მძღოლს არ ეკრძალება ისრის მიმართულებით მოძრაობა, თუ სატვირთო ავტომობილის ფაქტობრივი მასა 7 ტონაა?",
+      "answers": [
+        "1\nმხოლოდ სატვირთო ავტომობილის მძღოლს",
+        "2\nმხოლოდ წითელი მსუბუქი ავტომობილის მძღოლს",
+        "3\nარცერთი ავტომობილის მძღოლს"
+      ]
+    },
+    {
+      "id": 929,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "მოცემული საგზაო ნიშანი:",
+      "answers": [
+        "1\nუკრძალავს მძღოლს მოძრაობის გაგრძელებას გაუჩერებლად",
+        "2\nკრძალავს ყველა სახის სატრანსპორტო საშუალების შესვლას მოცემული მიმართულებით",
+        "3\nკრძალავს სატრანსპორტო საშუალებების გაჩერებას და დგომას"
+      ]
+    },
+    {
+      "id": 930,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "მოცემული საგზაო ნიშანი:",
+      "answers": [
+        "1\nუკრძალავს მძღოლს მოძრაობის გაგრძელებას გაუჩერებლად",
+        "2\nკრძალავს სატრანსპორტო საშუალებების გაჩერებას და დგომას",
+        "3\nკრძალავს ყველა სახის სატრანსპორტო საშუალებით მოძრაობას"
+      ]
+    },
+    {
+      "id": 931,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან, რომელი კრძალავს მის მოქმედების ზონაში ყველა სახის მექანიკური სატრანსპორტო საშუალებით მოძრაობას?",
+      "answers": [
+        "1\nმხოლოდ I და III",
+        "2\nმხოლოდ II და IV",
+        "3\nმხოლოდ II",
+        "4\nმხოლოდ III"
+      ]
+    },
+    {
+      "id": 932,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედების ზონაში იკრძალება ყველა სახის მოტოციკლით მოძრაობა?",
+      "answers": [
+        "1\nმხოლოდ I და IV",
+        "2\nმხოლოდ II და III",
+        "3\nმხოლოდ III",
+        "4\nმხოლოდ IV"
+      ]
+    },
+    {
+      "id": 933,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან, რომლის მოქმედების ზონაში იკრძალება ტრაქტორითა და თვითმავალი მანქანით მოძრაობა?",
+      "answers": [
+        "1\nმხოლოდ I და III",
+        "2\nმხოლოდ II და IV",
+        "3\nმხოლოდ III",
+        "4\nმხოლოდ I"
+      ]
+    },
+    {
+      "id": 934,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_video.mp4",
+      "wrongVideo": "assets/videos/2.mp4",
+      "previewVideo": "assets/videos/3.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს ყველა სახის მისაბმელიანი სატვირთო ავტომობილითა და მისაბმელიანი ტრაქტორით მოძრაობას, აგრეთვე მექანიკური სატრანსპორტო საშუალების ბუქსირებას?",
+      "answers": [
+        "1\nII",
+        "2\nI",
+        "3\nIV",
+        "4\nIII"
+      ]
+    }
+  ]
+  

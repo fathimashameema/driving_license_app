@@ -12,6 +12,18 @@ class SubjectDetailScreen extends StatelessWidget {
     final questions = Get.arguments as List<QuestionModel>;
     controller.loadQuestions(questions);
 
+    if (questions.isEmpty) {
+      return Scaffold(
+        backgroundColor: Colors.black,
+        body: Center(
+          child: Text(
+            'No questions available for this subject.',
+            style: TextStyle(color: Colors.red, fontSize: 18),
+          ),
+        ),
+      );
+    }
+
     return Scaffold(
       backgroundColor: Colors.black,
       body: SafeArea(

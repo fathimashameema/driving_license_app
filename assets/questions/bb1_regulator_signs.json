@@ -1,0 +1,189 @@
+[
+    {
+      "id": 31,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_31.mp4",
+      "wrongVideo": "assets/videos/wrong_31.mp4",
+      "previewVideo": "assets/videos/preview_31.mp4",
+      "question": "რომელი სატრანსპორტო საშუალების მძღოლს ეკრძალებათ ისრის მიმართულებით მოძრაობა მარეგულირებლის ამ სიგნალზე?",
+      "answers": [
+        "1\nტრამვაისა და მსუბუქი ავტომობილის მძღოლებს",
+        "2\nავტობუსისა და მსუბუქი ავტომობილის მძღოლებს",
+        "3\nტრამვაისა და ავტობუსის მძღოლებს"
+      ]
+    },
+    {
+      "id": 32,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_32.mp4",
+      "wrongVideo": "assets/videos/wrong_32.mp4",
+      "previewVideo": "assets/videos/preview_32.mp4",
+      "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში მარეგულირებლის ამ სიგნალზე?",
+      "answers": [
+        "1\nწითელი მსუბუქი ავტომობილის მძღოლი",
+        "2\nლურჯი მსუბუქი ავტომობილის მძღოლი",
+        "3\nთეთრი მსუბუქი ავტომობილის მძღოლი"
+      ]
+    },
+    {
+      "id": 33,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_33.mp4",
+      "wrongVideo": "assets/videos/wrong_33.mp4",
+      "previewVideo": "assets/videos/preview_33.mp4",
+      "question": "რომელი სატრანსპორტო საშუალების მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა მარეგულირებლის ამ სიგნალზე?",
+      "answers": [
+        "1\nმოტოციკლის მძღოლს",
+        "2\nავტობუსის მძღოლს",
+        "3\nმსუბუქი ავტომობილის მძღოლს"
+      ]
+    },
+    {
+      "id": 34,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_34.mp4",
+      "wrongVideo": "assets/videos/wrong_34.mp4",
+      "previewVideo": "assets/videos/preview_34.mp4",
+      "question": "სასწრაფო სამედიცინო დახმარების ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები. რომელი ავტომობილების მძღოლებმა შეიძლება გააგრძელონ მოძრაობა ისრის მიმართულებით მარეგულირებლის ამ სიგნალზე?",
+      "answers": [
+        "1\nსასწრაფო სამედიცინო დახმარების, სატვირთო და წითელი მსუბუქი ავტომობილის მძღოლებმა",
+        "2\nსატვირთო და წითელი მსუბუქი ავტომობილის მძღოლებმა",
+        "3\nსასწრაფო სამედიცინო დახმარების, სატვირთო და ლურჯი მსუბუქი ავტომობილის მძღოლებმა"
+      ]
+    },
+    {
+      "id": 35,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_35.mp4",
+      "wrongVideo": "assets/videos/wrong_35.mp4",
+      "previewVideo": "assets/videos/preview_35.mp4",
+      "question": "რა მიმართულებით შეიძლება გააგრძელოს მოძრაობა მსუბუქი ავტომობილის მძღოლმა მარეგულირებლის ამ სიგნალზე?",
+      "answers": [
+        "1\nმხოლოდ A, B და C მიმართულებით",
+        "2\nმხოლოდ B და D მიმართულებით",
+        "3\nმხოლოდ A, C და D მიმართულებით",
+        "4\nA, B, C და D მიმართულებით"
+      ]
+    },
+    {
+      "id": 36,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_36.mp4",
+      "wrongVideo": "assets/videos/wrong_36.mp4",
+      "previewVideo": "assets/videos/preview_36.mp4",
+      "question": "რომელი ავტომობილის მძღოლმა შეიძლება გააგრძელოს მოძრაობა ისრის მიმართულებით მარეგულირებლის ამ სიგნალზე?",
+      "answers": [
+        "1\nსატვირთო, ყვითელი და წითელი ავტომობილების მძღოლებმა",
+        "2\nყვითელი და ლურჯი ავტომობილების მძღოლებმა",
+        "3\nყვითელი და წითელი ავტომობილების მძღოლებმა"
+      ]
+    },
+    {
+      "id": 37,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_37.mp4",
+      "wrongVideo": "assets/videos/wrong_37.mp4",
+      "previewVideo": "assets/videos/preview_37.mp4",
+      "question": "რომელი სატრანსპორტო საშუალების მძღოლი არ დაარღვევს საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში მარეგულირებლის ამ სიგნალზე?",
+      "answers": [
+        "1\nმხოლოდ მსუბუქი ავტომობილის მძღოლი",
+        "2\nმხოლოდ ავტობუსისა და პირველი ტრამვაის მძღოლები",
+        "3\nმხოლოდ მსუბუქი ავტომობილისა და მეორე ტრამვაის მძღოლები",
+        "4\nმხოლოდ პირველი და მეორე ტრამვაის მძღოლები"
+      ]
+    },
+    {
+      "id": 38,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_38.mp4",
+      "wrongVideo": "assets/videos/wrong_38.mp4",
+      "previewVideo": "assets/videos/preview_38.mp4",
+      "question": "მოცემულ სიტუაციაში, რომელი ავტომობილის მძღოლს ენიჭება გავლის უპირატესობა, თუ მარეგულირებლის ამ სიგნალზე მათი მოძრაობის ტრაექტორიები იკვეთება?",
+      "answers": [
+        "1\nსატვირთო ავტომობილის მძღოლს",
+        "2\nმსუბუქი ავტომობილის მძღოლს"
+      ]
+    },
+    {
+      "id": 39,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_39.mp4",
+      "wrongVideo": "assets/videos/wrong_39.mp4",
+      "previewVideo": "assets/videos/preview_39.mp4",
+      "question": "რომელი ავტომობილის მძღოლს აქვს უფლება გააგრძელოს მოძრაობა ისრის მიმართულებით, მარეგულირებლის ამ სიგნალზე?",
+      "answers": [
+        "1\nმხოლოდ თეთრი ავტომობილის მძღოლს",
+        "2\nმხოლოდ წითელი ავტომობილის მძღოლს",
+        "3\nარცერთი ავტომობილის მძღოლს",
+        "4\nორივე ავტომობილის მძღოლს"
+      ]
+    },
+    {
+      "id": 40,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_40.mp4",
+      "wrongVideo": "assets/videos/wrong_40.mp4",
+      "previewVideo": "assets/videos/preview_40.mp4",
+      "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გააგრძელოს მოძრაობა გზაჯვარედინზე მარჯვნივ, მარეგულირებლის ამ სიგნალზე?",
+      "answers": [
+        "1\nაქვს უფლება",
+        "2\nარ აქვს უფლება"
+      ]
+    },
+    {
+      "id": 41,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_41.mp4",
+      "wrongVideo": "assets/videos/wrong_41.mp4",
+      "previewVideo": "assets/videos/preview_41.mp4",
+      "question": "რომელი მიმართულებით აქვს მოძრაობის გაგრძელების უფლება თეთრი ავტომობილის მძღოლს მარეგულირებლის ამ სიგნალზე?",
+      "answers": [
+        "1\nმხოლოდ მარცხნივ",
+        "2\nმხოლოდ მარცხნივ და უკუმიმართულებით (მობრუნება)",
+        "3\nმხოლოდ პირდაპირ და მარჯვნივ",
+        "4\nმხოლოდ პირდაპირ"
+      ]
+    },
+    {
+      "id": 42,
+      "correctAnswer": 4,
+      "correctVideo": "assets/videos/correct_42.mp4",
+      "wrongVideo": "assets/videos/wrong_42.mp4",
+      "previewVideo": "assets/videos/preview_42.mp4",
+      "question": "რომელი მიმართულებით აქვს მოძრაობის გაგრძელების უფლება ავტომობილის მძღოლს მარეგულირებლის ამ სიგნალზე?",
+      "answers": [
+        "1\nმხოლოდ მარცხნივ",
+        "2\nმხოლოდ მარცხნივ და უკუმიმართულებით (მობრუნება)",
+        "3\nყველა მიმართულებით",
+        "4\nმხოლოდ პირდაპირ და მარჯვნივ"
+      ]
+    },
+    {
+      "id": 43,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_43.mp4",
+      "wrongVideo": "assets/videos/wrong_43.mp4",
+      "previewVideo": "assets/videos/preview_43.mp4",
+      "question": "რომელი ავტომობილის მძღოლს აქვს უფლება გააგრძელოს მოძრაობა ისრის მიმართულებით მარეგულირებლის ამ სიგნალზე?",
+      "answers": [
+        "1\nმხოლოდ ყვითელი ავტომობილის მძღოლს",
+        "2\nმხოლოდ თეთრი ავტომობილის მძღოლს",
+        "3\nორივე ავტომობილის მძღოლს",
+        "4\nარცერთი ავტომობილის მძღოლს"
+      ]
+    },
+    {
+      "id": 44,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_44.mp4",
+      "wrongVideo": "assets/videos/wrong_44.mp4",
+      "previewVideo": "assets/videos/preview_44.mp4",
+      "question": "ისრის მიმართულებით მოძრაობის უფლება აქვს:",
+      "answers": [
+        "1\nმხოლოდ ავტომობილის მძღოლს",
+        "2\nმხოლოდ მოტოციკლისა და ავტომობილის მძღოლებს",
+        "3\nმხოლოდ ტრამვაის მძღოლს",
+        "4\nყველა სატრანსპორტო საშუალების მძღოლს"
+      ]
+    }
+]

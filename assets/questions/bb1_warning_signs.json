@@ -1,0 +1,277 @@
+[
+    {
+      "id": 2001,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_1.mp4",
+      "wrongVideo": "assets/videos/wrong_1.mp4",
+      "previewVideo": "assets/videos/preview_1.mp4",
+      "question": "მოცემული საგზაო ნიშნების კომბინაციიდან რომელი იდგმება დაუსახლებელ პუნქტში, რკინიგზის უშლაგბაუმო გადასასვლელამდე 150-300 მეტრის მანძილზე, გზის მარცხენა მხარეს?",
+      "answers": [
+        "1\nIV",
+        "2\nIII",
+        "3\nII",
+        "4\nI"
+      ]
+    },
+    {
+      "id": 2002,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_2.mp4",
+      "wrongVideo": "assets/videos/wrong_2.mp4",
+      "previewVideo": "assets/videos/preview_2.mp4",
+      "question": "მოცემული საცნობი ნიშნებიდან რომელია „საავარიო გაჩერების ნიშანი“?",
+      "answers": [
+        "1\nIII",
+        "2\nI",
+        "3\nII"
+      ]
+    },
+    {
+      "id": 2003,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_3.mp4",
+      "wrongVideo": "assets/videos/wrong_3.mp4",
+      "previewVideo": "assets/videos/preview_3.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს შლაგბაუმიან რკინიგზის გადასასვლელთან მიახლოების თაობაზე?",
+      "answers": [
+        "1\nIII",
+        "2\nIV",
+        "3\nI",
+        "4\nII"
+      ]
+    },
+    {
+      "id": 2004,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_4.mp4",
+      "wrongVideo": "assets/videos/wrong_4.mp4",
+      "previewVideo": "assets/videos/preview_4.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი იდგმება განმეორებით დაუსახლებელ პუნქტში?",
+      "answers": [
+        "1\nმხოლოდ I და II",
+        "2\nმხოლოდ I და III",
+        "3\nყველა",
+        "4\nმხოლოდ II და IV"
+      ]
+    },
+    {
+      "id": 2005,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_5.mp4",
+      "wrongVideo": "assets/videos/wrong_5.mp4",
+      "previewVideo": "assets/videos/preview_5.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი იდგმება განმეორებით დაუსახლებელ პუნქტში?",
+      "answers": [
+        "1\nმხოლოდ I და II",
+        "2\nმხოლოდ II და III",
+        "3\nყველა",
+        "4\nმხოლოდ II და IV"
+      ]
+    },
+    {
+      "id": 2006,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_6.mp4",
+      "wrongVideo": "assets/videos/wrong_6.mp4",
+      "previewVideo": "assets/videos/preview_6.mp4",
+      "question": "რომელი საგზაო ნიშანი აფრთხილებს უშლაგბაუმო რკინიგზის გადასასვლელთან მიახლოების თაობაზე?",
+      "answers": [
+        "1\nმხოლოდ I",
+        "2\nმხოლოდ II",
+        "3\nმხოლოდ III",
+        "4\nმხოლოდ III და IV"
+      ]
+    },
+    {
+      "id": 2007,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_7.mp4",
+      "wrongVideo": "assets/videos/wrong_7.mp4",
+      "previewVideo": "assets/videos/preview_7.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს ორი ან მეტი ლიანდაგიანი რკინიგზის უშლაგბაუმო გადასასვლელთან მიახლოების შესახებ?",
+      "answers": [
+        "1\nმხოლოდ I და II",
+        "2\nყველა",
+        "3\nმხოლოდ II და II",
+        "4\nმხოლოდ IV"
+      ]
+    },
+    {
+      "id": 2008,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_8.mp4",
+      "wrongVideo": "assets/videos/wrong_8.mp4",
+      "previewVideo": "assets/videos/preview_8.mp4",
+      "question": "მოცემული საგზაო ნიშნები, 8.1.1 (მანძილი ობიექტამდე) დაფის გარეშე დაუსახლებელი პუნქტში სახიფათო მონაკვეთის დასაწყისამდე იდგმება:",
+      "answers": [
+        "1\n50-100 მეტრის მანძილზე",
+        "2\n100-150 მეტრის მანძილზე",
+        "3\n150-300 მეტრის მანძილზე"
+      ]
+    },
+    {
+      "id": 2009,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_9.mp4",
+      "wrongVideo": "assets/videos/wrong_9.mp4",
+      "previewVideo": "assets/videos/preview_9.mp4",
+      "question": "მოცემული საგზაო ნიშნები დაუსახლებელ პუნქტში განმეორებით იდგმება სახიფათო მონაკვეთის დასაწყისამდე, არანაკლებ:",
+      "answers": [
+        "1\n150 მეტრის მანძილზე",
+        "2\n100 მეტრის მანძილზე",
+        "3\n50 მეტრის მანძილზე"
+      ]
+    },
+    {
+      "id": 2010,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_10.mp4",
+      "wrongVideo": "assets/videos/wrong_10.mp4",
+      "previewVideo": "assets/videos/preview_10.mp4",
+      "question": "შეიძლება თუ არა, მოცემული საგზაო ნიშნები, 8.1.1 „მანძილი ობიექტამდე“ დაფის გარეშე, დაიდგას უშუალოდ აღმართის ან დაღმართის (ან დაღმართის და აღმართის) წინ, თუ ისინი ერთმანეთს მიჰყვება?",
+      "answers": [
+        "1\nარ შეიძლება",
+        "2\nშეიძლება"
+      ]
+    },
+    {
+      "id": 2011,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_11.mp4",
+      "wrongVideo": "assets/videos/wrong_11.mp4",
+      "previewVideo": "assets/videos/preview_11.mp4",
+      "question": "მოცემული საგზაო ნიშნების კომბინაციიდან რომელი იდგმება დაუსახლებელ პუნქტში რკინიგზის შლაგბაუმიან გადასასვლელამდე 150-300 მეტრის მანძილზე, გზის მარჯვენა მხარეს?",
+      "answers": [
+        "1\nII",
+        "2\nIII",
+        "3\nIV",
+        "4\nI"
+      ]
+    },
+    {
+      "id": 2012,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_12.mp4",
+      "wrongVideo": "assets/videos/wrong_12.mp4",
+      "previewVideo": "assets/videos/preview_12.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზაჯვარედინს თანაბარმნიშვნელოვანი გზების გადაკვეთით?",
+      "answers": [
+        "1\nII",
+        "2\nI",
+        "3\nIV",
+        "4\nIII"
+      ]
+    },
+    {
+      "id": 2013,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_13.mp4",
+      "wrongVideo": "assets/videos/wrong_13.mp4",
+      "previewVideo": "assets/videos/preview_13.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს მძღოლს გასახსნელ ხიდთან ან საბორნე გადასასვლელთან მიახლოების თაობაზე?",
+      "answers": [
+        "1\nმხოლოდ I და II",
+        "2\nმხოლოდ II და III",
+        "3\nმხოლოდ III",
+        "4\nმხოლოდ IV"
+      ]
+    },
+    {
+      "id": 2014,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_14.mp4",
+      "wrongVideo": "assets/videos/wrong_14.mp4",
+      "previewVideo": "assets/videos/preview_14.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს მცირერადიუსიან ან შეზღუდულ ხილვადობის მქონე გზის სახიფათო მოსახვევს?",
+      "answers": [
+        "1\nIV",
+        "2\nIII",
+        "3\nII",
+        "4\nI"
+      ]
+    },
+    {
+      "id": 2015,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_15.mp4",
+      "wrongVideo": "assets/videos/wrong_15.mp4",
+      "previewVideo": "assets/videos/preview_15.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს ციცაბოდაღმართიან გზის მონაკვეთთან მიახლოების თაობაზე?",
+      "answers": [
+        "1\nIV",
+        "2\nIII",
+        "3\nII",
+        "4\nI"
+      ]
+    },
+    {
+      "id": 2016,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_16.mp4",
+      "wrongVideo": "assets/videos/wrong_16.mp4",
+      "previewVideo": "assets/videos/preview_16.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მოლიპულ მონაკვეთს, რომლზედაც საბურავის გზის საფართან ჩაჭიდების კოეფიციენტი 0,4-ზე ნაკლებია?",
+      "answers": [
+        "1\nIII",
+        "2\nIV",
+        "3\nI",
+        "4\nII"
+      ]
+    },
+    {
+      "id": 2017,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_17.mp4",
+      "wrongVideo": "assets/videos/wrong_17.mp4",
+      "previewVideo": "assets/videos/preview_17.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომლის სავალი ნაწილი დაზიანებულია?",
+      "answers": [
+        "1\nმხოლოდ II და III",
+        "2\nმხოლოდ III",
+        "3\nმხოლოდ I",
+        "4\nმხოლოდ I და IV"
+      ]
+    },
+    {
+      "id": 2018,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_18.mp4",
+      "wrongVideo": "assets/videos/wrong_18.mp4",
+      "previewVideo": "assets/videos/preview_18.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომელზედაც შესაძლებელია სატრანსპორტო საშუალების თვლებიდან ღორღის, ხრეშისა და ა. შ. ასხლეტა?",
+      "answers": [
+        "1\nმხოლოდ I და III",
+        "2\nმხოლოდ IV",
+        "3\nმხოლოდ II",
+        "4\nმხოლოდ II და IV"
+      ]
+    },
+    {
+      "id": 2019,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_19.mp4",
+      "wrongVideo": "assets/videos/wrong_19.mp4",
+      "previewVideo": "assets/videos/preview_19.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომლის სავალი ნაწილის სიგანე ვიწროვდება ორივე მხრიდან?",
+      "answers": [
+        "1\nII",
+        "2\nI",
+        "3\nIV",
+        "4\nIII"
+      ]
+    },
+    {
+      "id": 2020,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_20.mp4",
+      "wrongVideo": "assets/videos/wrong_20.mp4",
+      "previewVideo": "assets/videos/preview_20.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომლის სავალი ნაწილის სიგანე ვიწროვდება მარჯვენა მხრიდან?",
+      "answers": [
+        "1\nII",
+        "2\nI",
+        "3\nIV",
+        "4\nIII"
+      ]
+    }
+  ]

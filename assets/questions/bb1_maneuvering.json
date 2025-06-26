@@ -1,0 +1,220 @@
+[
+    {
+      "id": 1,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_1.mp4",
+      "wrongVideo": "assets/videos/wrong_1.mp4",
+      "previewVideo": "assets/videos/preview_1.mp4",
+      "question": "ვალდებულია თუ არა წითელი ავტომობილის მძღოლი, მიმდებარე ტერიტორიიდან გზაზე გასვლისას გზა დაუთმოს ქვეითებს?",
+      "answers": [
+        "1\nვალდებულია",
+        "2\nარ არის ვალდებული"
+      ]
+    },
+    {
+      "id": 2,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_2.mp4",
+      "wrongVideo": "assets/videos/wrong_2.mp4",
+      "previewVideo": "assets/videos/preview_2.mp4",
+      "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს მობრუნების მანევრი შეასრულოს:",
+      "answers": [
+        "1\nმხოლოდ A მიმართულებით",
+        "2\nმხოლოდ B მიმართულებით",
+        "3\nროგორც A, ასევე B მიმართულებით"
+      ]
+    },
+    {
+      "id": 3,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_3.mp4",
+      "wrongVideo": "assets/videos/wrong_3.mp4",
+      "previewVideo": "assets/videos/preview_3.mp4",
+      "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+      "answers": [
+        "1\nშავი ავტომობილის მძღოლს",
+        "2\nწითელი ავტომობილის მძღოლს"
+      ]
+    },
+    {
+      "id": 4,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_4.mp4",
+      "wrongVideo": "assets/videos/wrong_4.mp4",
+      "previewVideo": "assets/videos/preview_4.mp4",
+      "question": "მსუბუქი ავტომობილის მძღოლს მოძრაობა ეკრძალება:",
+      "answers": [
+        "1\nA მიმართულებით",
+        "2\nB მიმართულებით",
+        "3\nC მიმართულებით"
+      ]
+    },
+    {
+      "id": 5,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_5.mp4",
+      "wrongVideo": "assets/videos/wrong_5.mp4",
+      "previewVideo": "assets/videos/preview_5.mp4",
+      "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+      "answers": [
+        "1\nყვითელი ავტომობილის მძღოლი",
+        "2\nთეთრი ავტომობილის მძღოლი",
+        "3\nწითელი ავტომობილის მძღოლი",
+        "4\nმწვანე ავტომობილის მძღოლი"
+      ]
+    },
+    {
+      "id": 6,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_6.mp4",
+      "wrongVideo": "assets/videos/wrong_6.mp4",
+      "previewVideo": "assets/videos/preview_6.mp4",
+      "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+      "answers": [
+        "1\nყვითელი ავტომობილის მძღოლს",
+        "2\nთეთრი ავტომობილის მძღოლს"
+      ]
+    },
+    {
+      "id": 7,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_7.mp4",
+      "wrongVideo": "assets/videos/wrong_7.mp4",
+      "previewVideo": "assets/videos/preview_7.mp4",
+      "question": "რომელი სატრანსპორტო საშუალების მძღოლის მიმართ წარმოექმნება გზის დათმობის ვალდებულება ტრაქტორის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+      "answers": [
+        "1\nმხოლოდ მსუბუქი ავტომობილის მძღოლის მიმართ",
+        "2\nმხოლოდ მეხრეს მიმართ",
+        "3\nროგორც მსუბუქი ავტომობილის, ასევე მეხრეს მიმართ"
+      ]
+    },
+    {
+      "id": 8,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_8.mp4",
+      "wrongVideo": "assets/videos/wrong_8.mp4",
+      "previewVideo": "assets/videos/preview_8.mp4",
+      "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+      "answers": [
+        "1\nთეთრი ავტომობილის მძღოლს",
+        "2\nლურჯი ავტომობილის მძღოლს"
+      ]
+    },
+    {
+      "id": 9,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_9.mp4",
+      "wrongVideo": "assets/videos/wrong_9.mp4",
+      "previewVideo": "assets/videos/preview_9.mp4",
+      "question": "რომელი სატრანსპორტო საშუალების მძღოლის მიმართ წარმოიქმნება გზის დათმობის ვალდებულება თეთრი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+      "answers": [
+        "1\nმხოლოდ მოტოციკლის მძღოლის მიმართ",
+        "2\nმხოლოდ ტრამვაის მძღოლის მიმართ",
+        "3\nროგორც მოტოციკლის მძღოლის, ასევე ტრამვაის მძღოლის მიმართ"
+      ]
+    },
+    {
+      "id": 10,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_10.mp4",
+      "wrongVideo": "assets/videos/wrong_10.mp4",
+      "previewVideo": "assets/videos/preview_10.mp4",
+      "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ავტობუსი მოძრაობს დადგენილი მარშრუტით?",
+      "answers": [
+        "1\nმხოლოდ მსუბუქი ავტომობილის მძღოლი",
+        "2\nმხოლოდ ავტობუსის მძღოლი",
+        "3\nარცერთი ავტომობილის მძღოლი",
+        "4\nორივე ავტომობილის მძღოლი"
+      ]
+    },
+    {
+      "id": 11,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_11.mp4",
+      "wrongVideo": "assets/videos/wrong_11.mp4",
+      "previewVideo": "assets/videos/preview_11.mp4",
+      "question": "ისრის მიმართულებით მოძრავი რომელი სატრანსპორტო საშუალების მძღოლი არღვევს საგზაო მოძრაობის წესებს?",
+      "answers": [
+        "1\nმხოლოდ ტრაქტორის მძღოლი",
+        "2\nმხოლოდ \"CE\" კატეგორიის ავტომობილის მძღოლი",
+        "3\nმხოლოდ ტრაქტორისა და \"CE\" კატეგორიის ავტომობილის მძღოლები",
+        "4\nმხოლოდ \"CE\" და \"B\" კატეგორიების ავტომობილების მძღოლები"
+      ]
+    },
+    {
+      "id": 12,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_12.mp4",
+      "wrongVideo": "assets/videos/wrong_12.mp4",
+      "previewVideo": "assets/videos/preview_12.mp4",
+      "question": "რომელი სატრასპორტო საშუალების მძღოლს არ ეკრძალება ისრის მიმართულებით მოძრაობა, თუ მოცემული გზა მიმდებარე ტერიტორიებს არ ემსახურება?",
+      "answers": [
+        "1\nმოპედის მძღოლს",
+        "2\n\"B\" კატეგორიის ავტომობილის მძღოლს",
+        "3\n\"C\" კატეგორიის ავტომობილის მძღოლს"
+      ]
+    },
+    {
+      "id": 13,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_13.mp4",
+      "wrongVideo": "assets/videos/wrong_13.mp4",
+      "previewVideo": "assets/videos/preview_13.mp4",
+      "question": "თუ სამი მოძრაობის ზოლის მქონე ორმხრივ მოძრაობიანი გზის შუა ზოლი ორივე მიმართულებით მოძრაობისათვის გამოიყენება, თანმხვედრი მიმართულების მოძრაობის მხარედ ითვლება:",
+      "answers": [
+        "1\nშუა და მარჯვენა მოძრაობის ზოლები",
+        "2\nმხოლოდ მარჯვენა მხარეს მდებარე მოძრაობის ზოლი"
+      ]
+    },
+    {
+      "id": 14,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_14.mp4",
+      "wrongVideo": "assets/videos/wrong_14.mp4",
+      "previewVideo": "assets/videos/preview_14.mp4",
+      "question": "რომელი სატრანსპორტო საშუალების მძღოლის მიმართ ენიჭება უპირატესობა რუხი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+      "answers": [
+        "1\nმხოლოდ მოტოციკლის მიმართ",
+        "2\nმხოლოდ თეთრი ავტომობილის მძღოლის მიმართ",
+        "3\nროგორც მოტოციკლის, ასევე თეთრი ავტომობილის მძღოლის მიმართ",
+        "4\nარცერთი სატრანსპორტო საშუალების მძღოლის მიმართ"
+      ]
+    },
+    {
+      "id": 15,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_15.mp4",
+      "wrongVideo": "assets/videos/wrong_15.mp4",
+      "previewVideo": "assets/videos/preview_15.mp4",
+      "question": "ისრის მიმართულებით მოძრაობის შემთხვევაში უპირატესობით სარგებლობს:",
+      "answers": [
+        "1\nლურჯი ავტომობილის მძღოლი",
+        "2\nწითელი ავტომობილის მძღოლი"
+      ]
+    },
+    {
+      "id": 16,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_16.mp4",
+      "wrongVideo": "assets/videos/wrong_16.mp4",
+      "previewVideo": "assets/videos/preview_16.mp4",
+      "question": "მოცემულ სიტუაციაში, სატრანსპორტო საშუალებების მიერ, მოძრაობის ზოლების ერთდროულად შეცვლისას, გავლის უპირატესობა ენიჭება:",
+      "answers": [
+        "1\nმსუბუქი ავტომობილის მძღოლს",
+        "2\nსატვირთო ავტომობილის მძღოლს"
+      ]
+    },
+    {
+      "id": 17,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_17.mp4",
+      "wrongVideo": "assets/videos/wrong_17.mp4",
+      "previewVideo": "assets/videos/preview_17.mp4",
+      "question": "გზიდან გასასვლელად მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
+      "answers": [
+        "1\nმხოლოდ A მიმართულებით",
+        "2\nმხოლოდ B მიმართულებით",
+        "3\nროგორც A, ასევე B მიმართულებით"
+      ]
+    }
+]

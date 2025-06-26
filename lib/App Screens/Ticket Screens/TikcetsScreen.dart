@@ -16,6 +16,11 @@ class TikcetsScreen extends StatelessWidget {
       backgroundColor: Colors.black,
       body: SafeArea(
         child: Obx(() {
+          if (controller.questions.isEmpty) {
+            return const Center(
+              child: CircularProgressIndicator(color: Colors.red),
+            );
+          }
           final question = controller.questions[controller.currentIndex.value];
 
           return Column(
