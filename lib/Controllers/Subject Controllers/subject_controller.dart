@@ -29,7 +29,7 @@ class SubjectController extends GetxController {
     SubjectModel(id: 17, title: '17.Movement speed'),
     SubjectModel(id: 18, title: '18.Brake distance, distance'),
     SubjectModel(id: 19, title: '19.stop standing'),
-    SubjectModel(id: 20, title: '20.Passing the intersection'),
+    SubjectModel(id: 20, title: '20.Passing the intersection'), 
     SubjectModel(id: 21, title: '21.Railway crossing'),
     SubjectModel(id: 22, title: '22.Traffic on the highway'),
     SubjectModel(id: 23, title: '23.Residential zone, bus priority'),

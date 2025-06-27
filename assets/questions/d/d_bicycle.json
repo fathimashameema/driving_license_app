@@ -1,169 +1,264 @@
 [
+  {
+    "id": 8231,
+    "correctAnswer": 0,
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ მსუბუქი ავტომობილი გამოდის ავტოგასამართი სადგურის ტერიტორიიდან?",
+    "answers": [
+      "მსუბუქი ავტომობილის მძღოლს",
+      "მოპედის მძღოლს"
+    ]
+  },
+  {
+    "id": 8232,
+    "correctAnswer": 0,
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აქვს თუ არა უფლება ქვეითს გადაადგილდეს ველობილიკზე ქვეითთა ბილიკის, ტროტუარისა და გზისპირის არარსებობის ან მათი გამოყენების შეუძლებლობის შემთხვევაში, თუ მოძრაობის ინტენსივობა ამის საშუალებას იძლევა?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 8233,
+    "correctAnswer": 1,
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ველოსიპედისა და მოპედის კოლონების გზის სავალ ნაწილზე მოძრაობის შემთხვევაში ერთ ჯგუფში უნდა იყოს არა უმეტეს:",
+    "answers": [
+      "5 ერთეულისა",
+      "10 ერთეულისა",
+      "15 ერთეულისა"
+    ]
+  },
+  {
+    "id": 8234,
+    "correctAnswer": 2,
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ქვემოთ ჩამოთვლილი, რომელ გზაზეა აკრძალული ველოსიპედისა და მოპედის მარცხნივ მოხვევა ან მობრუნება?",
+    "answers": [
+      "მხოლოდ იმ გზებზე, სადაც ტრამვაის ლიანდაგია",
+      "მხოლოდ იმ გზებზე, რომლებზედაც თანხვედრი მიმართულებით მოძრაობისათვის ერთ ზოლზე მეტია",
+      "გზებზე, სადაც ტრამვაის ლიანდაგია, აგრეთვე იმ გზებზე, რომლებზედაც თანხვედრი მიმართულებით მოძრაობისათვის ერთ ზოლზე მეტია"
+    ]
+  },
+  {
+    "id": 8235,
+    "correctAnswer": 1,
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია თუ არა ავტომობილით ეტლიანი მოტოციკლის გასწრება რეგულირებულ გზაჯვარედინზე საპირისპირო მოძრაობის ზოლზე გაუსვლელად?",
+    "answers": [
+      "აკრძალულია",
+      "არ არის აკრძალული"
+    ]
+  },
+  {
+    "id": 8236,
+    "correctAnswer": 2,
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "გაჩერებული სატრანსპორტო საშუალების კარი გზის სავალი ნაწილის, ველობილიკის ან ველოსიპედის ზოლის მხარეს არ უნდა იყოს გაღებული:",
+    "answers": [
+      "5 წუთზე მეტი ხნით",
+      "15 წუთზე მეტი ხნით",
+      "მგზავრთა ჩასხდომა-გადმოსხდომისთვის საჭირო დროზე მეტი ხნით",
+      "20 წუთზე მეტი ხნით"
+    ]
+  },
+  {
+    "id": 8237,
+    "correctAnswer": 0,
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი მიუთითებს:",
+    "answers": [
+      "გზას, რომელიც განკუთვნილია მხოლოდ ავტომობილისა და მოტოციკლის მოძრაობისათვის",
+      "მოძრაობის ზოლს, რომელიც განკუთვნილია მხოლოდ მსუბუქი ავტომობილებით მოძრაობისათვის",
+      "სატრანსპორტო საშუალებების დგომის ადგილს"
+    ]
+  },
+  {
+    "id": 8238,
+    "correctAnswer": 1,
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი მიუთითებს:",
+    "answers": [
+      "ორმხრივმოძრაობიანი გზის დასასრულს",
+      "რევერსული მოძრაობიანი გზის მონაკვეთის დასასრულს",
+      "გაქანების ზოლის დასასრულს"
+    ]
+  },
+  {
+    "id": 8239,
+    "correctAnswer": 1,
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს გზას, რომელზედაც სამარშრუტო სატრანსპორტო საშუალება მოძრაობს სპეციალურად გამოყოფილ ზოლზე სატრანსპორტო საშუალებათა საერთო ნაკადის საპირისპირო მიმართულებით?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "id": 8240,
+    "correctAnswer": 0,
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს ტერიტორიას (ზონას), სადაც მოქმედებს საცხოვრებელ ზონაში მოძრაობისათვის დამდგენი წესები?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
     {
-      "id": 61,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ მსუბუქი ავტომობილი გამოდის ავტოგასამართი სადგურის ტერიტორიიდან?",
-      "answers": [
-        "მსუბუქი ავტომობილის მძღოლს",
-        "მოპედის მძღოლს"
-      ]
-    },
-    {
-      "id": 62,
+      "id": 8241,
       "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "გზებზე მოპედის მართვა ნებადართულია:",
+      "correctVideo": "assets/videos/correct_19.mp4",
+      "wrongVideo": "assets/videos/wrong_19.mp4",
+      "previewVideo": "assets/videos/preview_19.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს იმ დასახლებული პუნქტის დასაწყისს, სადაც მოქმედებს დასახლებულ პუნქტებში მოძრაობის წესრიგის დამდგენი წესების მოთხოვნები?",
       "answers": [
-        "12 წლის ასაკიდან",
-        "14 წლის ასაკიდან",
-        "16 წლის ასაკიდან",
-        "18 წლის ასაკიდან"
+        "1\nმხოლოდ I და III",
+        "2\nმხოლოდ II და III",
+        "3\nმხოლოდ I და II"
       ]
     },
     {
-      "id": 63,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "ველოსიპედისა და მოპედის ჯგუფების გზის სავალ ნაწილზე მოძრაობის შემთხვევაში, გასწრების გასაადვილებლად, ჯგუფებს შორის მანძილი უნდა შეადგენდეს:",
-      "answers": [
-        "40-60 მეტრს",
-        "60-80 მეტრს",
-        "80-100 მეტრს"
-      ]
-    },
-    {
-      "id": 64,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "ველოსიპედის მოძრაობის ზოლის ან ველობილიკის ან გვერდულას არარსებობისას, გზის სავალ ნაწილზე გართულებული მოძრაობის შემთხვევაში, თუ არ შეფერხებს ქვეითთა მოძრაობას, ტროტუარზე გადაადგილების უფლება აქვს:",
-      "answers": [
-        "ველოსიპედის მძღოლს",
-        "მოპედის მძღოლს",
-        "ამ ბილეთში ჩამოთვლილი ორივე სატრანსპორტო საშუალების მძღოლს",
-        "ამ ბილეთში ჩამოთვლილი არცერთი სატრანსპორტო საშუალების მძღოლს"
-      ]
-    },
-    {
-      "id": 65,
+      "id": 8242,
       "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "აკრძალულია თუ არა ავტომობილით მოპედის გასწრება რეგულირებულ გზაჯვარედინზე საპირისპირო მოძრაობის ზოლზე გაუსვლელად",
+      "correctVideo": "assets/videos/correct_19.mp4",
+      "wrongVideo": "assets/videos/wrong_19.mp4",
+      "previewVideo": "assets/videos/preview_19.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს დასახლებული პუნქტის დასაწყისს, რომელიც არ შედის რომელიმე დასახლებულ პუნქტში და რომელშიც მოქმედებს დასახლებულ პუნქტებში მოძრაობისათვის დადგენილი წესები (სააგარაკო დაბები, ცალკე მდგომი დაწესებულებები და ა. შ.)?",
       "answers": [
-        "არ არის აკრძალული",
-        "აკრძალულია"
+        "1\nI",
+        "2\nII",
+        "3\nIII"
       ]
     },
     {
-      "id": 66,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "აკრძალულია თუ არა ავტომობილით ეტლიანი მოტოციკლის გასწრება რეგულირებულ გზაჯვარედინზე საპირისპირო მოძრაობის ზოლზე გაუსვლელად?",
+      "id": 8243,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_19.mp4",
+      "wrongVideo": "assets/videos/wrong_19.mp4",
+      "previewVideo": "assets/videos/preview_19.mp4",
+      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ტერიტორიას, რომლის ფარგლებში შეზღუდულია მოძრაობის მაქსიმალური სიჩქარე?",
       "answers": [
-        "აკრძალულია",
-        "არ არის აკრძალული"
+        "1\nI",
+        "2\nII",
+        "3\nIII",
+        "4\nIV"
       ]
     },
     {
-      "id": 67,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "გაჩერებული სატრანსპორტო საშუალების კარი გზის სავალი ნაწილის, ველობილიკის ან ველოსიპედის ზოლის მხარეს არ უნდა იყოს გაღებული:",
+      "id": 8244,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_19.mp4",
+      "wrongVideo": "assets/videos/wrong_19.mp4",
+      "previewVideo": "assets/videos/preview_19.mp4",
+      "question": "საცნობი ნიშნი „ავტომატარებელი” სავალდებულოა დამაგრდეს:",
       "answers": [
-        "5 წუთზე მეტი ხნით",
-        "15 წუთზე მეტი ხნით",
-        "მგზავრთა ჩასხდომა-გადმოსხდომისთვის საჭირო დროზე მეტი ხნით",
-        "20 წუთზე მეტი ხნით"
+        "1\nმხოლოდ ავტომატარებელზე",
+        "2\nმხოლოდ შესახსრებულ ავტობუსზე",
+        "3\nროგორც ავტომატარებელზე, ასევე შესახსრებულ ავტობუსზე"
       ]
     },
     {
-      "id": 68,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "აქვს თუ არა უფლება მოპედის, მოტოციკლის, ორბორბლიანი ელექტროთვითმგორავისა და ველოსიპედის მძღოლს გზაზე იმოძრაოს ისე, რომ სატრანსპორტო საშუალების ყველა თვალი არ ეხებოდეს გზის ზედაპირს?",
-      "answers": [
-        "არ აქვს უფლება",
-        "აქვს უფლება"
-      ]
-    },
-    {
-      "id": 69,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "სამთვლიანი მოპედის მძღოლმა გზაზე ისე უნდა იმოძრაოს, რომ მისი სატრანსპორტო საშუალების:",
-      "answers": [
-        "ყველა თვალი ეხებოდეს გზის ზედაპირს",
-        "ერთი თვალი მაინც ეხებოდეს გზის ზედაპირს",
-        "ორი თვალი მაინც ეხებოდეს გზის ზედაპირს"
-      ]
-    },
-    {
-      "id": 70,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
+      "id": 8245,
+      "correctAnswer": 2,
+      "correctVideo": "assets/videos/correct_19.mp4",
+      "wrongVideo": "assets/videos/wrong_19.mp4",
+      "previewVideo": "assets/videos/preview_19.mp4",
       "question": "სავალ ნაწილზე ღამის საათებში მოძრაობისას შესაბმელი, სასაპალნე ან საჯდომი პირუტყვის ან ნახირის მეხრეებმა, მოძრაობის მარცხენა მხრიდან უნდა იქონიონ:",
       "answers": [
-        "მხოლოდ წინ -სულ მცირე ერთი თეთრი ან ყვითელი სელექციური სინათლე",
-        "მხოლოდ უკან - სულ მცირე ერთი წითელი სინათლე",
-        "წინ -სულ მცირე ერთი თეთრი ან ყვითელი სელექციური სინათლე, ხოლო უკან - სულ მცირე ერთი წითელი სინათლე"
+        "1\nმხოლოდ წინ -სულ მცირე ერთი თეთრი ან ყვითელი სელექციური სინათლე",
+        "2\nმხოლოდ უკან - სულ მცირე ერთი წითელი სინათლე",
+        "3\nწინ -სულ მცირე ერთი თეთრი ან ყვითელი სელექციური სინათლე, ხოლო უკან - სულ მცირე ერთი წითელი სინათლე"
       ]
     },
     {
-      "id": 71,
+      "id": 8246,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_19.mp4",
+      "wrongVideo": "assets/videos/wrong_19.mp4",
+      "previewVideo": "assets/videos/preview_19.mp4",
+      "question": "რომელი საცნობი ნიშანი მაგრდება ავტომატარებელზე და შესახსრებულ ავტობუსზე?",
+      "answers": [
+        "1\nმხოლოდ I",
+        "2\nმხოლოდ II",
+        "3\nმხოლოდ III",
+        "4\nსამივე"
+      ]
+    },
+    {
+      "id": 8247,
       "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
+      "correctVideo": "assets/videos/correct_19.mp4",
+      "wrongVideo": "assets/videos/wrong_19.mp4",
+      "previewVideo": "assets/videos/preview_19.mp4",
+      "question": "რომელი საცნობი ნიშანი მაგრდება იმ სატრანსპორტო საშუალების უკანა მხარეს, რომლის სიგრძე ტვირთით ან უმისოდ აღემატება 20 მეტრს, და ავტომატარებელზე ორი ან მეტი მისაბმელით?",
+      "answers": [
+        "1\nმხოლოდ III",
+        "2\nმხოლოდ II",
+        "3\nმხოლოდ I"
+      ]
+    },
+    {
+      "id": 8248,
+      "correctAnswer": 0,
+      "correctVideo": "assets/videos/correct_19.mp4",
+      "wrongVideo": "assets/videos/wrong_19.mp4",
+      "previewVideo": "assets/videos/preview_19.mp4",
       "question": "რომელ სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
       "answers": [
-        "ველოსიპედის მძღოლს",
-        "მსუბუქი ავტომობილის მძღოლს"
+        "1\nველოსიპედის მძღოლს",
+        "2\nმსუბუქი ავტომობილის მძღოლს"
       ]
     },
     {
-      "id": 72,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
+      "id": 8249,
+      "correctAnswer": 1,
+      "correctVideo": "assets/videos/correct_19.mp4",
+      "wrongVideo": "assets/videos/wrong_19.mp4",
+      "previewVideo": "assets/videos/preview_19.mp4",
       "question": "თუ სატრანსპორტო საშუალების წინ გზის სავალ ნაწილზე გადადის საქონლის ჯოგი, მძღოლმა უნდა გაითვალისწინოს, რომ:",
       "answers": [
-        "ჯოგის გადასვლის შემდეგ გზის სავალ ნაწილზე აღარ შეიძლება გამოვიდეს ცალკეული საქონელი",
-        "ჯოგის გადასვლის შემდეგ გზის სავალ ნაწილზე კიდე შეიძლება გამოვიდეს ჯოგს ჩამორჩენილი ცალკეული საქონელი"
+        "1\nჯოგის გადასვლის შემდეგ გზის სავალ ნაწილზე აღარ შეიძლება გამოვიდეს ცალკეული საქონელი",
+        "2\nჯოგის გადასვლის შემდეგ გზის სავალ ნაწილზე კიდე შეიძლება გამოვიდეს ჯოგს ჩამორჩენილი ცალკეული საქონელი"
       ]
     },
     {
-      "id": 73,
-      "correctAnswer": 4,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
+      "id": 8250,
+      "correctAnswer": 3,
+      "correctVideo": "assets/videos/correct_19.mp4",
+      "wrongVideo": "assets/videos/wrong_19.mp4",
+      "previewVideo": "assets/videos/preview_19.mp4",
       "question": "თუ სატრანსპორტო საშუალების წინ ქვეითთა გადასასვლელზე გადაადგილდება მოხუცი ქვეითი, მძღოლმა უნდა გაითვალისწინოს:",
       "answers": [
-        "მხოლოდ გარემოება, რომ ის სავალ ნაწილზე მოძრაობს უფრო ნელა ვიდრე სხვა საგზაო მოძრაობის მონაწილეები",
-        "მხოლოდ გარემოება, რომ ის შეიძლება ნახევარი გზიდან მობრუნდეს უკან",
-        "მხოლოდ გარემოება, რომ მან შეიძლება დაკარგოს წონასწორობა და წაიქცეს",
-        "რომ შეიძლება წარმოიშვას ამ ბილეთში ჩამოთვლილი ნებისმიერი გარემოება"
+        "1\nმხოლოდ გარემოება, რომ ის სავალ ნაწილზე მოძრაობს უფრო ნელა ვიდრე სხვა საგზაო მოძრაობის მონაწილეები",
+        "2\nმხოლოდ გარემოება, რომ ის შეიძლება ნახევარი გზიდან მობრუნდეს უკან",
+        "3\nმხოლოდ გარემოება, რომ მან შეიძლება დაკარგოს წონასწორობა და წაიქცეს",
+        "4\nრომ შეიძლება წარმოიშვას ამ ბილეთში ჩამოთვლილი ნებისმიერი გარემოება"
       ]
     }
-  ]
+  
+]
