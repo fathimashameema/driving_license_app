@@ -66,10 +66,10 @@ flutter:
     - assets/images/
     - assets/videos/
     - assets/questions/
-    - assets/questions/b-b1
-    - assets/questions/c
-    - assets/questions/d
-    - assets/questions/t-s
+    - assets/questions/b-b1/
+    - assets/questions/c/
+    - assets/questions/d/
+    - assets/questions/t-s/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
