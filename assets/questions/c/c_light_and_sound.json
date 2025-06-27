@@ -129,7 +129,7 @@
   },
     {
       "id": 71,
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "correctVideo": "assets/videos/correct_19.mp4",
       "wrongVideo": "assets/videos/wrong_19.mp4",
       "previewVideo": "assets/videos/preview_19.mp4",
@@ -157,7 +157,7 @@
     },
     {
       "id": 73,
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "correctVideo": "assets/videos/correct_19.mp4",
       "wrongVideo": "assets/videos/wrong_19.mp4",
       "previewVideo": "assets/videos/preview_19.mp4",

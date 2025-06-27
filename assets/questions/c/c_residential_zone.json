@@ -1,118 +1,135 @@
 [
-    {
-      "id": 16,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "რომელი საგზაო მოძრაობის მონაწილეს მიმართ წარმოექმნება გზის დათმობის ვალდებულება მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში:",
-      "answers": [
-        "მხოლოდ მოტოციკლის მძღოლის მიმართ",
-        "მხოლოდ ქვეითის მიმართ",
-        "როგორც მოტოციკლის მძღოლის, ასევე ქვეითის მიმართ"
-      ]
-    },
-    {
-      "id": 17,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "თუ ხილვადობის ზონაში არ არის ქვეითთა გადასასვლელი ან გზაჯვარედინი, ქვეითის გზაზე გადასვლა ნებადართულია გზის სავალი ნაწილის ღერძის პერპენდიკულარულად, იმ მონაკვეთში, სადაც:",
-      "answers": [
-        "გამყოფი ზოლია და გზა ორივე მხრიდან კარგად ჩანს",
-        "არ არის გამყოფი ზოლი ან ღობურა და გზა ორივე მხრიდან კარგად ჩანს"
-      ]
-    },
-    {
-      "id": 18,
-      "correctAnswer": 4,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "რომელი საგზაო მოძრაობის მონაწილეს მიმართ წარმოექმნება გზის დათმობის ვალდებულება მსუბუქი ავტომობის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-      "answers": [
-        "მხოლოდ ქვეითების მიმართ",
-        "მხოლოდ ველოსიპედის მძღოლის მიმართ",
-        "მხოლოდ სატვირთო ავტომობილის მძღოლის მიმართ",
-        "როგორც ქვეითების, ასევე ველოსიპედისა და სატვირთო ავტომობილის მძღოლების მიმართ"
-      ]
-    },
-    {
-      "id": 19,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "აქვთ თუ არა უფლება საცხოვრებელ ზონაში მოძრავ ქვეითებს უსაფუძვლოდ შეაფერხონ თეთრი ავტომობილის მოძრაობა?",
-      "answers": [
-        "აქვთ უფლება, ვინაიდან საცხოვრებელ ზონაში ქვეითს უპირატესობა აქვს სხვა საგზაო მოძრაობის მონაწილეების მიმართ",
-        "არ აქვთ უფლება"
-      ]
-    },
-    {
-      "id": 20,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "საცხოვრებელ ზონაში მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს არაუმეტეს:",
-      "answers": [
-        "20 კმ/სთ სიჩქარით",
-        "40 კმ/სთ სიჩქარით",
-        "60 კმ/სთ სიჩქარით"
-      ]
-    },
-    {
-      "id": 21,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "რომელი ავტომობილს მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-      "answers": [
-        "მსუბუქი ავტომობილის მძღოლს",
-        "ავტობუსის მძღოლს"
-      ]
-    },
-    {
-      "id": 22,
-      "correctAnswer": 4,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "რომელი საგზაო მოძრაობის მონაწილეს მიმართ წარმოექმნება გზის დათმობის ვალდებულება მსუბუქი ავტომობის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-      "answers": [
-        "მხოლოდ ქვეითების მიმართ",
-        "მხოლოდ ველოსიპედის მძღოლის მიმართ",
-        "მხოლოდ მოპედის მძღოლის მიმართ",
-        "როგორც ქვეითების, ასევე ველოსიპედისა და მოპედის მძღოლების მიმართ"
-      ]
-    },
-    {
-      "id": 23,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "ქვემოთ ჩამოთვლილი რომელი ქმედების განხორციელება არ არის აკრძალული ქვეითთა ზონებად გამოცხადებულ ადგილებში და საცხოვრებელ ზონებში?",
-      "answers": [
-        "ავტოსატრანსპორტო საშუალებათა გამჭოლი მოძრაობა",
-        "სასწავლო სვლა",
-        "ჩართული ძრავით სატრანსპორტო საშუალების დგომა",
-        "იმ ავტომობილით გადაადგილება, რომლის კონსტრუქციული სიჩქარე აღემატება 120 კმ/სთ"
-      ]
-    },
-    {
-      "id": 24,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "ქვეითთა ზონებად გამოცხადებულ ადგილებში და საცხოვრებელ ზონებში სხვა საგზაო მოძრაობის მონაწილეთა მიმართ მოძრაობის უპირატესობა ენიჭებათ:",
-      "answers": [
-        "მძღოლებს",
-        "ქვეითებს"
-      ]
-    }
-  ]
+  {
+    "id": 171,
+    "correctAnswer": 1,
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "თუ ხილვადობის ზონაში არ არის ქვეითთა გადასასვლელი ან გზაჯვარედინი, ქვეითის გზაზე გადასვლა ნებადართულია გზის სავალი ნაწილის ღერძის პერპენდიკულარულად, იმ მონაკვეთში, სადაც:",
+    "answers": [
+      "გამყოფი ზოლია და გზა ორივე მხრიდან კარგად ჩანს",
+      "არ არის გამყოფი ზოლი ან ღობურა და გზა ორივე მხრიდან კარგად ჩანს"
+    ]
+  },
+  {
+    "id": 172,
+    "correctAnswer": 3,
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "რომელი საგზაო მოძრაობის მონაწილეს მიმართ წარმოექმნება გზის დათმობის ვალდებულება მსუბუქი ავტომობის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "მხოლოდ ქვეითების მიმართ",
+      "მხოლოდ ველოსიპედის მძღოლის მიმართ",
+      "მხოლოდ სატვირთო ავტომობილის მძღოლის მიმართ",
+      "როგორც ქვეითების, ასევე ველოსიპედისა და სატვირთო ავტომობილის მძღოლების მიმართ"
+    ]
+  },
+  {
+    "id": 173,
+    "correctAnswer": 1,
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "აქვთ თუ არა უფლება საცხოვრებელ ზონაში მოძრავ ქვეითებს უსაფუძვლოდ შეაფერხონ თეთრი ავტომობილის მოძრაობა?",
+    "answers": [
+      "აქვთ უფლება, ვინაიდან საცხოვრებელ ზონაში ქვეითს უპირატესობა აქვს სხვა საგზაო მოძრაობის მონაწილეების მიმართ",
+      "არ აქვთ უფლება"
+    ]
+  },
+  {
+    "id": 174,
+    "correctAnswer": 0,
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "საცხოვრებელ ზონაში მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს არაუმეტეს:",
+    "answers": [
+      "20 კმ/სთ სიჩქარით",
+      "40 კმ/სთ სიჩქარით",
+      "60 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 175,
+    "correctAnswer": 3,
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "სატვირთო ავტომობილის მძღოლს უფლება აქვს იმოძრაოს არა უმეტეს:",
+    "answers": [
+      "50 კმ სთ სიჩქარით",
+      "40 კმ/სთ სიჩქარით",
+      "30 კმ/სთ სიჩქარით",
+      "20 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 176,
+    "correctAnswer": 1,
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ქვეითთა ზონებად გამოცხადებულ ადგილებში და საცხოვრებელ ზონებში სხვა საგზაო მოძრაობის მონაწილეთა მიმართ მოძრაობის უპირატესობა ენიჭებათ:",
+    "answers": [
+      "მძღოლებს",
+      "ქვეითებს"
+    ]
+  },
+  {
+    "id": 177,
+    "correctAnswer": 2,
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს მცირერადიუსიან ან შეზღუდულ ხილვადობის მქონე გზის სახიფათო მოსახვევს?",
+    "answers": [
+      "III",
+      "IV",
+      "I",
+      "II"
+    ]
+  },
+  {
+    "id": 178,
+    "correctAnswer": 3,
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომელზედაც სიჩქარის იძულებით შემცირებისათვის მოწყობილია ხელოვნური უსწორმასწორობა?",
+    "answers": [
+      "მხოლოდ II და III",
+      "მხოლოდ I და IV",
+      "მხოლოდ III",
+      "მხოლოდ II"
+    ]
+  },
+  {
+    "id": 179,
+    "correctAnswer": 1,
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომლის გზისპირის მდგომარეობა არ შეესაბამება არსებულ სტანდარტებს?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "id": 180,
+    "correctAnswer": 1,
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომელიც გადის პირუტყვის (საქონლის) სადგომთან, ფერმებთან ან/და პირუტყვის (საქონლის) მუდმივი გადარეკვის ადგილთან, სადაც მოსალოდნელია მათი სავალ ნაწილზე გამოჩენა?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  }
+]
