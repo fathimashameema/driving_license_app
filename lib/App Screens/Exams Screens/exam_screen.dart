@@ -1,6 +1,5 @@
 import 'package:avtoskola_varketilshi/App Screens/Exams Screens/unanswered_review_screen.dart';
 import 'package:avtoskola_varketilshi/App Widegts/exam_option_tile.dart';
-import 'package:avtoskola_varketilshi/App Widegts/showTestPassedDialog.dart';
 import 'package:avtoskola_varketilshi/App%20Widegts/VideoPlayerBox.dart';
 import 'package:avtoskola_varketilshi/Controllers/Exams Controllers/exam_controller.dart';
 import 'package:avtoskola_varketilshi/Models/unanswered_questions_model.dart';
@@ -38,10 +37,10 @@ class _ExamScreenState extends State<ExamScreen> {
   Widget build(BuildContext context) {
     final controller = Get.put(ExamController());
     final unansweredController = Get.put(UnansweredQuestionsServices());
-    
+
     // Sync answered questions from review screen
     controller.syncAnsweredQuestionsFromReview();
-    
+
     return Scaffold(
       backgroundColor: Colors.black,
       body: SafeArea(
@@ -272,11 +271,6 @@ class _ExamScreenState extends State<ExamScreen> {
                             ? null
                             : unansweredController.addUnansweredQuestion(
                                 question: unansweredQstn);
-
-                        if (controller.currentIndex.value ==
-                            controller.questions.length - 1) {
-                          showTestPassedDialog(context);
-                        }
                       },
                       icon: const Icon(Icons.arrow_forward_ios,
                           color: Colors.red),

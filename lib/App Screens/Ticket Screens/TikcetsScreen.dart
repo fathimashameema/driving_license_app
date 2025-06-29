@@ -140,7 +140,12 @@ class TikcetsScreen extends StatelessWidget {
                         controller.nextQuestion();
                         if (controller.currentIndex.value ==
                             controller.questions.length - 1) {
-                          showTestPassedDialog(context);
+                          showTestPassedDialog(
+                            context,
+                            totalQuestions: controller.questions.length,
+                            answeredQuestions: controller.selectedAnswers.length,
+                            correctAnswers: controller.correctAnswersCount.value,
+                          );
                         }
                       },
                       icon: const Icon(Icons.arrow_forward_ios,

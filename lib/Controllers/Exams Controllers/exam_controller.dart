@@ -4,6 +4,7 @@ import 'dart:developer';
 
 import 'package:avtoskola_varketilshi/Models/exam_question_model.dart';
 import 'package:avtoskola_varketilshi/Utils%20&%20Services/unanswered_questions_services.dart';
+import 'package:avtoskola_varketilshi/App%20Widegts/showTestPassedDialog.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 
@@ -149,6 +150,14 @@ class ExamController extends GetxController {
     if (currentIndex.value < questions.length - 1) {
       currentIndex.value++;
       _updateCurrentVideoForQuestion(currentIndex.value);
+    } else if (currentIndex.value == questions.length - 1) {
+      // User is on the last question and clicked next - show test passed dialog
+      showTestPassedDialog(
+        Get.context!,
+        totalQuestions: questions.length,
+        answeredQuestions: selectedAnswers.length,
+        correctAnswers: correctAnswersCount.value,
+      );
     }
   }
 
@@ -203,12 +212,10 @@ class ExamController extends GetxController {
     return previousIndex >= 0 && answeredQuestions.contains(previousIndex);
   }
 
-  /// Check if a specific question is answered
   bool isQuestionAnswered(int questionIndex) {
     return answeredQuestions.contains(questionIndex);
   }
 
-  /// Sync answered questions from review screen
   void syncAnsweredQuestionsFromReview() {
     final unansweredController = Get.find<UnansweredQuestionsServices>();
     final unansweredQuestions = unansweredController.unansweredQuestions;
@@ -218,11 +225,9 @@ class ExamController extends GetxController {
       if (question != null && question.selectedIndex != null) {
         final questionIndex = questions.indexWhere((q) => q.id == question.id);
         if (questionIndex != -1) {
-          // Update the selectedAnswers map
           selectedAnswers[questionIndex] = question.selectedIndex!;
           answeredQuestions.add(questionIndex);
           
-          // Update the question in the questions list
           questions[questionIndex].selectedIndex = question.selectedIndex;
         }
       }
@@ -248,5 +253,17 @@ class ExamController extends GetxController {
         _updateCurrentVideoForQuestion(currentIndex.value);
       }
     }
+  }
+
+  /// Check if the exam is completed (all questions answered)
+  bool get isExamCompleted {
+    return selectedAnswers.length == questions.length;
+  }
+
+  /// Check if we're on the last question and it's been answered
+  bool get isLastQuestionCompleted {
+    final isLastQuestion = currentIndex.value == questions.length - 1;
+    final isLastQuestionAnswered = selectedAnswers.containsKey(currentIndex.value);
+    return isLastQuestion && isLastQuestionAnswered;
   }
 }
