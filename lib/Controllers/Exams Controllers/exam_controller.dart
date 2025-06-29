@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'dart:developer';
 
 import 'package:avtoskola_varketilshi/Models/exam_question_model.dart';
+import 'package:avtoskola_varketilshi/Utils%20&%20Services/unanswered_questions_services.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 
@@ -48,19 +49,19 @@ class ExamController extends GetxController {
 
     switch (category) {
       case 'B, B1':
-        questionFile = 'assets/questions/starti_ge_questions.json';
+        questionFile = 'assets/questions/b_b1_category.json';
         break;
       case 'C':
-        questionFile = 'assets/questions/starti_ge_questions1.json';
+        questionFile = 'assets/questions/c_category.json';
         break;
       case 'D':
-        questionFile = 'assets/questions/starti_ge_questions2.json';
+        questionFile = 'assets/questions/d_category.json';
         break;
       case 'T, S':
-        questionFile = 'assets/questions/starti_ge_questions3.json';
+        questionFile = 'assets/questions/t_s_category.json';
         break;
       default:
-        questionFile = 'assets/questions/starti_ge_questions.json'; // fallback
+        questionFile = 'assets/questions/b_b1_category.json'; // fallback
     }
 
     final loadedQuestions = await loadExamQuestions(questionFile);
@@ -93,6 +94,10 @@ class ExamController extends GetxController {
   void selectOption(int optionIndex) {
     final currentQuestion = questions[currentIndex.value];
     selectedAnswers[currentIndex.value] = optionIndex;
+    answeredQuestions.add(currentIndex.value);
+
+    // Update the selectedIndex on the current question
+    currentQuestion.selectedIndex = optionIndex;
 
     if (optionIndex == currentQuestion.correctAnswer) {
       correctAnswersCount.value++;
@@ -191,4 +196,57 @@ class ExamController extends GetxController {
   bool get canGoNext => selectedAnswers[currentIndex.value] != null;
   bool get canGoPrev =>
       currentIndex.value > 0 && !answeredQuestions.contains(currentIndex.value);
+
+  /// Check if the previous question is answered or not
+  bool isPreviousQuestionAnswered() {
+    final previousIndex = currentIndex.value - 1;
+    return previousIndex >= 0 && answeredQuestions.contains(previousIndex);
+  }
+
+  /// Check if a specific question is answered
+  bool isQuestionAnswered(int questionIndex) {
+    return answeredQuestions.contains(questionIndex);
+  }
+
+  /// Sync answered questions from review screen
+  void syncAnsweredQuestionsFromReview() {
+    final unansweredController = Get.find<UnansweredQuestionsServices>();
+    final unansweredQuestions = unansweredController.unansweredQuestions;
+    
+    for (var unansweredQ in unansweredQuestions) {
+      final question = unansweredQ.unansweredQuestions;
+      if (question != null && question.selectedIndex != null) {
+        final questionIndex = questions.indexWhere((q) => q.id == question.id);
+        if (questionIndex != -1) {
+          // Update the selectedAnswers map
+          selectedAnswers[questionIndex] = question.selectedIndex!;
+          answeredQuestions.add(questionIndex);
+          
+          // Update the question in the questions list
+          questions[questionIndex].selectedIndex = question.selectedIndex;
+        }
+      }
+    }
+    
+    // Update the current question's video if needed
+    _updateCurrentVideoForQuestion(currentIndex.value);
+  }
+
+  /// Update a specific question when answered from review screen
+  void updateQuestion(ExamQuestionModel updatedQuestion) {
+    final questionIndex = questions.indexWhere((q) => q.id == updatedQuestion.id);
+    if (questionIndex != -1 && updatedQuestion.selectedIndex != null) {
+      // Update the selectedAnswers map
+      selectedAnswers[questionIndex] = updatedQuestion.selectedIndex!;
+      answeredQuestions.add(questionIndex);
+      
+      // Update the question in the questions list
+      questions[questionIndex].selectedIndex = updatedQuestion.selectedIndex;
+      
+      // Update the current question's video if this is the current question
+      if (questionIndex == currentIndex.value) {
+        _updateCurrentVideoForQuestion(currentIndex.value);
+      }
+    }
+  }
 }

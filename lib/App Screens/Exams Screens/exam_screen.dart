@@ -3,6 +3,8 @@ import 'package:avtoskola_varketilshi/App Widegts/exam_option_tile.dart';
 import 'package:avtoskola_varketilshi/App Widegts/showTestPassedDialog.dart';
 import 'package:avtoskola_varketilshi/App%20Widegts/VideoPlayerBox.dart';
 import 'package:avtoskola_varketilshi/Controllers/Exams Controllers/exam_controller.dart';
+import 'package:avtoskola_varketilshi/Models/unanswered_questions_model.dart';
+import 'package:avtoskola_varketilshi/Utils%20&%20Services/unanswered_questions_services.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:video_thumbnail/video_thumbnail.dart';
@@ -35,6 +37,11 @@ class _ExamScreenState extends State<ExamScreen> {
   @override
   Widget build(BuildContext context) {
     final controller = Get.put(ExamController());
+    final unansweredController = Get.put(UnansweredQuestionsServices());
+    
+    // Sync answered questions from review screen
+    controller.syncAnsweredQuestionsFromReview();
+    
     return Scaffold(
       backgroundColor: Colors.black,
       body: SafeArea(
@@ -140,35 +147,49 @@ class _ExamScreenState extends State<ExamScreen> {
                         color: Colors.black,
                         child: Builder(
                           builder: (context) {
-                            final hasAnswered = controller.hasAnsweredCurrentQuestion.value;
+                            final hasAnswered =
+                                controller.hasAnsweredCurrentQuestion.value;
                             final currentVideo = controller.currentVideo.value;
-                            final question = controller.questions[controller.currentIndex.value];
+                            final question = controller
+                                .questions[controller.currentIndex.value];
                             final qIndex = controller.currentIndex.value;
                             if (!hasAnswered) {
                               final videoPath = question.correctVideo;
                               if (videoPath == null || videoPath.isEmpty) {
-                                return const Center(child: Text('No preview available', style: TextStyle(color: Colors.grey)));
+                                return const Center(
+                                    child: Text('No preview available',
+                                        style: TextStyle(color: Colors.grey)));
                               }
                               if (_thumbnailCache.containsKey(qIndex)) {
                                 final thumb = _thumbnailCache[qIndex];
                                 if (thumb != null) {
                                   return Image.memory(thumb, fit: BoxFit.cover);
                                 } else {
-                                  return const Center(child: Text('No preview available', style: TextStyle(color: Colors.grey)));
+                                  return const Center(
+                                      child: Text('No preview available',
+                                          style:
+                                              TextStyle(color: Colors.grey)));
                                 }
                               }
                               return FutureBuilder<Uint8List?>(
                                 future: getVideoThumbnail(videoPath),
                                 builder: (context, snapshot) {
-                                  if (snapshot.connectionState == ConnectionState.waiting) {
-                                    return const Center(child: CircularProgressIndicator());
+                                  if (snapshot.connectionState ==
+                                      ConnectionState.waiting) {
+                                    return const Center(
+                                        child: CircularProgressIndicator());
                                   }
-                                  if (snapshot.hasData && snapshot.data != null) {
+                                  if (snapshot.hasData &&
+                                      snapshot.data != null) {
                                     _thumbnailCache[qIndex] = snapshot.data;
-                                    return Image.memory(snapshot.data!, fit: BoxFit.cover);
+                                    return Image.memory(snapshot.data!,
+                                        fit: BoxFit.cover);
                                   } else {
                                     _thumbnailCache[qIndex] = null;
-                                    return const Center(child: Text('No preview available', style: TextStyle(color: Colors.grey)));
+                                    return const Center(
+                                        child: Text('No preview available',
+                                            style:
+                                                TextStyle(color: Colors.grey)));
                                   }
                                 },
                               );
@@ -215,26 +236,26 @@ class _ExamScreenState extends State<ExamScreen> {
                             return Padding(
                               padding:
                                   const EdgeInsets.symmetric(horizontal: 4),
-                              child: GestureDetector(
-                                onTap: () => controller.goToQuestion(i),
-                                child: Container(
-                                  width: 36,
-                                  height: 36,
-                                  decoration: BoxDecoration(
-                                    border: Border.all(color: Colors.red),
-                                    color: isSel ? Colors.red : Colors.white,
-                                    borderRadius: BorderRadius.circular(6),
-                                  ),
-                                  alignment: Alignment.center,
-                                  child: Text(
-                                    '${i + 1}',
-                                    style: TextStyle(
-                                      color: isSel ? Colors.white : Colors.red,
-                                      fontWeight: FontWeight.bold,
-                                    ),
+                              // child: GestureDetector(
+                              //   onTap: () => controller.goToQuestion(i),
+                              child: Container(
+                                width: 36,
+                                height: 36,
+                                decoration: BoxDecoration(
+                                  border: Border.all(color: Colors.red),
+                                  color: isSel ? Colors.red : Colors.white,
+                                  borderRadius: BorderRadius.circular(6),
+                                ),
+                                alignment: Alignment.center,
+                                child: Text(
+                                  '${i + 1}',
+                                  style: TextStyle(
+                                    color: isSel ? Colors.white : Colors.red,
+                                    fontWeight: FontWeight.bold,
                                   ),
                                 ),
                               ),
+                              // ),
                             );
                           }),
                         ),
@@ -245,6 +266,13 @@ class _ExamScreenState extends State<ExamScreen> {
                     IconButton(
                       onPressed: () {
                         controller.nextQuestion();
+                        final unansweredQstn = UnansweredQuestionsModel(
+                            unansweredQuestions: question);
+                        controller.isPreviousQuestionAnswered()
+                            ? null
+                            : unansweredController.addUnansweredQuestion(
+                                question: unansweredQstn);
+
                         if (controller.currentIndex.value ==
                             controller.questions.length - 1) {
                           showTestPassedDialog(context);
