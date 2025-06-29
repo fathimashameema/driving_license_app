@@ -61,6 +61,21 @@ class SubjectDetailScreen extends StatelessWidget {
               const SizedBox(height: 20),
 
               /// Question
+
+              Padding(
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 16, vertical: 0),
+                child: Container(
+                  width: double.infinity,
+                  decoration: BoxDecoration(
+                    border: Border.all(color: Colors.white),
+                  ),
+                  child: question.imageUrl != null
+                      ? Image.asset(question.imageUrl!)
+                      : SizedBox.shrink(),
+                ),
+              ),
+
               Padding(
                 padding: const EdgeInsets.all(16.0),
                 child: Text(

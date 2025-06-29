@@ -45,9 +45,19 @@ class _ExamScreenState extends State<ExamScreen> {
       backgroundColor: Colors.black,
       body: SafeArea(
         child: Obx(() {
-          if (controller.questions.isEmpty) {
+          if (controller.isLoading.value || controller.questions.isEmpty) {
             return const Center(
-              child: CircularProgressIndicator(color: Colors.red),
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  CircularProgressIndicator(color: Colors.red),
+                  SizedBox(height: 16),
+                  Text(
+                    'Loading questions...',
+                    style: TextStyle(color: Colors.white, fontSize: 16),
+                  ),
+                ],
+              ),
             );
           }
           final q = controller.questions[controller.currentIndex.value];
@@ -98,13 +108,22 @@ class _ExamScreenState extends State<ExamScreen> {
                     const EdgeInsets.symmetric(horizontal: 16, vertical: 18),
                 child: Container(
                   width: double.infinity,
-                  padding: const EdgeInsets.all(14),
                   decoration: BoxDecoration(
                     border: Border.all(color: Colors.white),
                   ),
-                  child: Text(
-                    question.question,
-                    style: const TextStyle(color: Colors.white),
+                  child: Column(
+                    children: [
+                      question.imageUrl != null
+                          ? Image.asset(question.imageUrl!)
+                          : SizedBox.shrink(),
+                      Padding(
+                        padding: const EdgeInsets.all(15.0),
+                        child: Text(
+                          question.question,
+                          style: const TextStyle(color: Colors.white),
+                        ),
+                      ),
+                    ],
                   ),
                 ),
               ),

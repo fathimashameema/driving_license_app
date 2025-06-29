@@ -2,6 +2,7 @@
   {
     "id": 8206,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -16,6 +17,7 @@
   {
     "id": 8207,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -30,6 +32,7 @@
   {
     "id": 8208,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -44,6 +47,7 @@
   {
     "id": 8209,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -57,6 +61,7 @@
   {
     "id": 8210,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -70,6 +75,7 @@
   {
     "id": 8211,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -83,6 +89,7 @@
   {
     "id": 8212,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -96,6 +103,7 @@
   {
     "id": 8213,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -110,6 +118,7 @@
   {
     "id": 8214,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -124,6 +133,7 @@
   {
     "id": 8215,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -138,6 +148,7 @@
   {
     "id": 8216,
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -149,197 +160,209 @@
       "IV"
     ]
   },
-    {
-      "id": 8217,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს იმ სატრანსპორტო საშუალებით, აგრეთვე სატრანსპორტო საშუალებათა შემადგენლობით მოძრაობას, რომელთა გაბარიტული სიგრძე (ტვირთიანად ან უტვირთოდ) აღემატება ნიშანზე აღნიშნულს?",
-      "answers": [
-        "I",
-        "II",
-        "III",
-        "IV"
-      ]
-    },
-    {
-      "id": 8218,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს ყველა იმ სატრანსპორტო საშუალებით, აგრეთვე სატრანსპორტო საშუალებათა შემადგენლობებით მოძრაობას, რომელთა ნებადართული მაქსიმალური მასა აღემატება ნიშანზე აღნიშნულ ნებადართული მაქსიმალური მასის ზღვარს?",
-      "answers": [
-        "I",
-        "II",
-        "III",
-        "IV"
-      ]
-    },
-    {
-      "id": 8219,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს სატრანსპორტო საშუალებების მოძრაობას, ნიშანზე აღნიშნულზე ნაკლები დისტანციით?",
-      "answers": [
-        "I",
-        "II",
-        "III",
-        "IV"
-      ]
-    },
-    {
-      "id": 8220,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს 3,5 ტონაზე მეტი ნებადართული მაქსიმალური მასის მქონე სატვირთო ავტომობილით სხვა სატრანსპორტო საშუალების გასწრებას (გარდა 30 კმ/სთ-ზე ნაკლები სიჩქარით მოძრავისა), აგრეთვე - ტრაქტორით სხვა სატრანსპორტო საშუალების გასწრებას (გარდა საჭაპნე ტრანსპორტისა და ველოსიპედისა)?",
-      "answers": [
-        "I",
-        "II",
-        "III",
-        "IV"
-      ]
-    },
-    {
-      "id": 8221,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს საგზაო ნიშნის 3.22-ის („სატვირთო ავტომობილით გასწრება აკრძალულია”) მოქმედების ზონის დასასრულს?",
-      "answers": [
-        "I",
-        "II",
-        "III",
-        "IV"
-      ]
-    },
-    {
-      "id": 8222,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს საგზაო ნიშნის 3.24-ის („მაქსიმალური სიჩქარის შეზღუდვა”) მოქმედების ზონის დასასრულს?",
-      "answers": [
-        "I",
-        "II",
-        "III",
-        "IV"
-      ]
-    },
-    {
-      "id": 8223,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედების ზონაში იკრძალება სატრანსპორტო საშუალებით დგომას?",
-      "answers": [
-        "მხოლოდ II",
-        "მხოლოდ IV",
-        "მხოლოდ I და III",
-        "მხოლოდ I და IV"
-      ]
-    },
-    {
-      "id": 8224,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს სატრანსპორტო საშუალებების დგომას თვის კენტ რიცხვებში?",
-      "answers": [
-        "I",
-        "II",
-        "III",
-        "IV"
-      ]
-    },
-    {
-      "id": 8225,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სამარშრუტო სატრანსპორტო საშუალებაზე?",
-      "answers": [
-        "მხოლოდ I",
-        "მხოლოდ II",
-        "მხოლოდ III",
-        "სამივე საგზაო ნიშნის"
-      ]
-    },
-      {
-        "id": 8226,
-        "correctAnswer": 0,
-        "correctVideo": "assets/videos/correct_19.mp4",
-        "wrongVideo": "assets/videos/wrong_19.mp4",
-        "previewVideo": "assets/videos/preview_19.mp4",
-        "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სამარშრუტო სატრანსპორტო საშუალებაზე?",
-        "answers": [
-          "მხოლოდ I და III",
-          "მხოლოდ II და IV",
-          "მხოლოდ II და III",
-          "მხოლოდ III და IV"
-        ]
-      },
-      {
-        "id": 8227,
-        "correctAnswer": 2,
-        "correctVideo": "assets/videos/correct_19.mp4",
-        "wrongVideo": "assets/videos/wrong_19.mp4",
-        "previewVideo": "assets/videos/preview_19.mp4",
-        "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სამარშრუტო სატრანსპორტო საშუალებაზე?",
-        "answers": [
-          "მხოლოდ I და III",
-          "მხოლოდ II და IV",
-          "მხოლოდ II, III და IV",
-          "მხოლოდ I და IV"
-        ]
-      },
-      {
-        "id": 8228,
-        "correctAnswer": 2,
-        "correctVideo": "assets/videos/correct_19.mp4",
-        "wrongVideo": "assets/videos/wrong_19.mp4",
-        "previewVideo": "assets/videos/preview_19.mp4",
-        "question": "რომელი მიმართულებით არის აკრძალული სასწავლო ავტომობილის მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
-        "answers": [
-          "მხოლოდ A მიმართულებით",
-          "მხოლოდ B მიმართულებით",
-          "როგორც A, ასევე B მიმართულებით"
-        ]
-      },
-      {
-        "id": 8229,
-        "correctAnswer": 0,
-        "correctVideo": "assets/videos/correct_19.mp4",
-        "wrongVideo": "assets/videos/wrong_19.mp4",
-        "previewVideo": "assets/videos/preview_19.mp4",
-        "question": "აკრძალულია თუ არა სასწავლო ავტომობილის ისრის მიმართულებით მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
-        "answers": [
-          "აკრძალულია",
-          "არ არის აკრძალული"
-        ]
-      },
-      {
-        "id": 8230,
-        "correctAnswer": 0,
-        "correctVideo": "assets/videos/correct_19.mp4",
-        "wrongVideo": "assets/videos/wrong_19.mp4",
-        "previewVideo": "assets/videos/preview_19.mp4",
-        "question": "აკრძალულია თუ არა სასწავლო ავტომობილის ისრის მიმართულებით მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
-        "answers": [
-          "აკრძალულია",
-          "არ არის აკრძალული"
-        ]
-      }
-    
-  
+  {
+    "id": 8217,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს იმ სატრანსპორტო საშუალებით, აგრეთვე სატრანსპორტო საშუალებათა შემადგენლობით მოძრაობას, რომელთა გაბარიტული სიგრძე (ტვირთიანად ან უტვირთოდ) აღემატება ნიშანზე აღნიშნულს?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "id": 8218,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს ყველა იმ სატრანსპორტო საშუალებით, აგრეთვე სატრანსპორტო საშუალებათა შემადგენლობებით მოძრაობას, რომელთა ნებადართული მაქსიმალური მასა აღემატება ნიშანზე აღნიშნულ ნებადართული მაქსიმალური მასის ზღვარს?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "id": 8219,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს სატრანსპორტო საშუალებების მოძრაობას, ნიშანზე აღნიშნულზე ნაკლები დისტანციით?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "id": 8220,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს 3,5 ტონაზე მეტი ნებადართული მაქსიმალური მასის მქონე სატვირთო ავტომობილით სხვა სატრანსპორტო საშუალების გასწრებას (გარდა 30 კმ/სთ-ზე ნაკლები სიჩქარით მოძრავისა), აგრეთვე - ტრაქტორით სხვა სატრანსპორტო საშუალების გასწრებას (გარდა საჭაპნე ტრანსპორტისა და ველოსიპედისა)?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "id": 8221,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს საგზაო ნიშნის 3.22-ის („სატვირთო ავტომობილით გასწრება აკრძალულია”) მოქმედების ზონის დასასრულს?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "id": 8222,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს საგზაო ნიშნის 3.24-ის („მაქსიმალური სიჩქარის შეზღუდვა”) მოქმედების ზონის დასასრულს?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "id": 8223,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედების ზონაში იკრძალება სატრანსპორტო საშუალებით დგომას?",
+    "answers": [
+      "მხოლოდ II",
+      "მხოლოდ IV",
+      "მხოლოდ I და III",
+      "მხოლოდ I და IV"
+    ]
+  },
+  {
+    "id": 8224,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს სატრანსპორტო საშუალებების დგომას თვის კენტ რიცხვებში?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "id": 8225,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სამარშრუტო სატრანსპორტო საშუალებაზე?",
+    "answers": [
+      "მხოლოდ I",
+      "მხოლოდ II",
+      "მხოლოდ III",
+      "სამივე საგზაო ნიშნის"
+    ]
+  },
+  {
+    "id": 8226,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სამარშრუტო სატრანსპორტო საშუალებაზე?",
+    "answers": [
+      "მხოლოდ I და III",
+      "მხოლოდ II და IV",
+      "მხოლოდ II და III",
+      "მხოლოდ III და IV"
+    ]
+  },
+  {
+    "id": 8227,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სამარშრუტო სატრანსპორტო საშუალებაზე?",
+    "answers": [
+      "მხოლოდ I და III",
+      "მხოლოდ II და IV",
+      "მხოლოდ II, III და IV",
+      "მხოლოდ I და IV"
+    ]
+  },
+  {
+    "id": 8228,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი მიმართულებით არის აკრძალული სასწავლო ავტომობილის მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
+    "answers": [
+      "მხოლოდ A მიმართულებით",
+      "მხოლოდ B მიმართულებით",
+      "როგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 8229,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია თუ არა სასწავლო ავტომობილის ისრის მიმართულებით მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
+    "answers": [
+      "აკრძალულია",
+      "არ არის აკრძალული"
+    ]
+  },
+  {
+    "id": 8230,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "აკრძალულია თუ არა სასწავლო ავტომობილის ისრის მიმართულებით მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
+    "answers": [
+      "აკრძალულია",
+      "არ არის აკრძალული"
+    ]
+  }
 ]

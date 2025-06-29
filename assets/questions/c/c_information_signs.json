@@ -9,6 +9,7 @@
       "არცერთი სატრანსპორტო საშუალების მძღოლი"
     ],
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_6001.mp4",
     "wrongVideo": "assets/videos/wrong_6001.mp4",
     "previewVideo": "assets/videos/preview_6001.mp4"
@@ -23,6 +24,7 @@
       "არცერთი ავტომობილის მძღოლი"
     ],
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_6002.mp4",
     "wrongVideo": "assets/videos/wrong_6002.mp4",
     "previewVideo": "assets/videos/preview_6002.mp4"
@@ -37,6 +39,7 @@
       "არცერთი ავტომობილის მძღოლს"
     ],
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_6003.mp4",
     "wrongVideo": "assets/videos/wrong_6003.mp4",
     "previewVideo": "assets/videos/preview_6003.mp4"
@@ -51,6 +54,7 @@
       "მხოლოდ A მიმართულებით"
     ],
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_6004.mp4",
     "wrongVideo": "assets/videos/wrong_6004.mp4",
     "previewVideo": "assets/videos/preview_6004.mp4"
@@ -65,6 +69,7 @@
       "მხოლოდ პირდაპირ, მარცხნივ და უკუმიმართულებით (მობრუნება)"
     ],
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_6005.mp4",
     "wrongVideo": "assets/videos/wrong_6005.mp4",
     "previewVideo": "assets/videos/preview_6005.mp4"
@@ -79,6 +84,7 @@
       "მხოლოდ III"
     ],
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_6006.mp4",
     "wrongVideo": "assets/videos/wrong_6006.mp4",
     "previewVideo": "assets/videos/preview_6006.mp4"
@@ -92,155 +98,182 @@
       "რევერსული გზის მონაკვეთის დასასრულს"
     ],
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_6007.mp4",
     "wrongVideo": "assets/videos/wrong_6007.mp4",
     "previewVideo": "assets/videos/preview_6007.mp4"
   },
-    {
-      "id": 7001,
-      "question": "მოცემული საგზაო ნიშანი მიუთითებს:",
-      "answers": [
-        "რევერსული გზის მონაკვეთის დასასრულს",
-        "ავომობილების მოძრაობისათვის განკუთვნილი ზოლის დასასრულს",
-        "საავტომობილო გზის დასასრულს"
-      ],
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_7001.mp4",
-      "wrongVideo": "assets/videos/wrong_7001.mp4",
-      "previewVideo": "assets/videos/preview_7001.mp4"
-    },
-    {
-      "id": 7002,
-      "question": "მოცემული საგზაო ნიშანი მიუთითებს:",
-      "answers": [
-        "ზოლზე მოძრაობის ნებადართულ მიმართულებას",
-        "განშტოებებზე და გადაკვეთებზე დამუხრუჭების ზოლის დასაწყისს",
-        "გზას ან სავალ ნაწილს, რომელზედაც სატრანსპორტო საშუალებების მოძრაობა მთელ სიგანეზე ხორციელდება ერთი მიმართულებით"
-      ],
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_7002.mp4",
-      "wrongVideo": "assets/videos/wrong_7002.mp4",
-      "previewVideo": "assets/videos/preview_7002.mp4"
-    },
-    {
-      "id": 7003,
-      "question": "მოცემული საგზაო ნიშნები:",
-      "answers": [
-        "მიუთითებენ ცალმხრივმოძრაობიან გზაზე ან სავალ ნაწილზე გასვლას",
-        "აღნიშნავენ მოძრაობის ზოლის დასაწყისს",
-        "აღნიშნავენ ავტობუსების მოძრაობისათვის გამოყოფილ ზოლს"
-      ],
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_7003.mp4",
-      "wrongVideo": "assets/videos/wrong_7003.mp4",
-      "previewVideo": "assets/videos/preview_7003.mp4"
-    },
-    {
-      "id": 7004,
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს რევერსული მოძრაობის მქონე გზის მონაკვეთის დასაწყისს?",
-      "answers": ["IV", "III", "II", "I"],
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct_7004.mp4",
-      "wrongVideo": "assets/videos/wrong_7004.mp4",
-      "previewVideo": "assets/videos/preview_7004.mp4"
-    },
-    {
-      "id": 7005,
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს სამარშრუტო სატრანსპორტო საშუალებისათვის განკუთვნილი ზოლის მქონე გზაზე გასვლას?",
-      "answers": ["IV", "III", "II", "I"],
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_7005.mp4",
-      "wrongVideo": "assets/videos/wrong_7005.mp4",
-      "previewVideo": "assets/videos/preview_7005.mp4"
-    },
-    {
-      "id": 7006,
-      "question": "მოძრაობის ზოლზე დადგმული მოცემული საგზაო ნიშნების მოქმედება ვრცელდება:",
-      "answers": [
-        "მხოლოდ მოძრაობის ზოლზე, რომელზედაც ის დგას",
-        "სავალი ნაწილის მთელ სიგანეზე"
-      ],
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_7006.mp4",
-      "wrongVideo": "assets/videos/wrong_7006.mp4",
-      "previewVideo": "assets/videos/preview_7006.mp4"
-    },
-    {
-      "id": 7007,
-      "question": "მოცემული საგზაო ნიშანი მიუთითებს:",
-      "answers": [
-        "მხოლოდ მოძრაობის ზოლების რაოდენობაზე",
-        "მხოლოდ ზოლებზე მოძრაობისათვის დადგენილ რეჟიმებზე",
-        "როგორც მოძრაობის ზოლების რაოდენობაზე, ასევე ზოლებზე მოძრაობისათვის დადგენილ რეჟიმებზე"
-      ],
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_7007.mp4",
-      "wrongVideo": "assets/videos/wrong_7007.mp4",
-      "previewVideo": "assets/videos/preview_7007.mp4"
-    },
-    {
-      "id": 7008,
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ტერიტორიას, რომლის ფარგლებში რეგლამენტირებულია დგომა?",
-      "answers": [
-        "მხოლოდ II და IV",
-        "მხოლოდ IV",
-        "მხოლოდ I და II",
-        "მხოლოდ III"
-      ],
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_7008.mp4",
-      "wrongVideo": "assets/videos/wrong_7008.mp4",
-      "previewVideo": "assets/videos/preview_7008.mp4"
-    },
-    {
-      "id": 7009,
-      "question": "მოცემულ სიტუაციაში, რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა?",
-      "answers": [
-        "მსუბუქი ავტომობილის მძღოლს",
-        "სატვირთო ავტომობილის მძღოლს",
-        "ორივე ავტომობილის მძღოლს",
-        "არცერთი ავტომობილის მძღოლს"
-      ],
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_7009.mp4",
-      "wrongVideo": "assets/videos/wrong_7009.mp4",
-      "previewVideo": "assets/videos/preview_7009.mp4"
-    },
-    {
-      "id": 7010,
-      "question": "მოცემულ სიტუაციაში, რომელი ავტომობილის მძღოლს არ ეკრძალება ისრის მიმართულებით მობრუნების მანევრის შესრულება?",
-      "answers": [
-        "არცერთს",
-        "ორივე მძღოლს ეკრძალება",
-        "მხოლოდ წითელი ავტომობილის მძღოლს",
-        "მხოლოდ მწვანე ავტომობილის მძღოლს"
-      ],
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_7010.mp4",
-      "wrongVideo": "assets/videos/wrong_7010.mp4",
-      "previewVideo": "assets/videos/preview_7010.mp4"
-    },
-    {
-      "id": 7011,
-      "question": "“საცხოვრებელი ზონა” არის:",
-      "answers": [
-        "ნებისმიერი ტერიტორია, რომელზეც დასახლებულია ხალხი",
-        "განაშენიანებული ტერიტორია, სადაც მოქმედებს სპეციალური საგზაო მოძრაობის წესები და სადაც შესასვლელი და გამოსასვლელი აღნიშნულია შესაბამისი საგზაო ნიშნებით",
-        "ნებისმიერი გზა, რომელიც განკუთვნილია ქვეითთა ინტენსიური მოძრაობისათვის"
-      ],
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_7011.mp4",
-      "wrongVideo": "assets/videos/wrong_7011.mp4",
-      "previewVideo": "assets/videos/preview_7011.mp4"
-    },
-    {
-      "id": 7012,
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს ციცაბო დაღმართებზე ავარიული გაჩერების ზოლის არსებობის შესახებ?",
-      "answers": ["IV", "III", "II", "I"],
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_7012.mp4",
-      "wrongVideo": "assets/videos/wrong_7012.mp4",
-      "previewVideo": "assets/videos/preview_7012.mp4"
-    }
-    
+  {
+    "id": 7001,
+    "question": "მოცემული საგზაო ნიშანი მიუთითებს:",
+    "answers": [
+      "რევერსული გზის მონაკვეთის დასასრულს",
+      "ავომობილების მოძრაობისათვის განკუთვნილი ზოლის დასასრულს",
+      "საავტომობილო გზის დასასრულს"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7001.mp4",
+    "wrongVideo": "assets/videos/wrong_7001.mp4",
+    "previewVideo": "assets/videos/preview_7001.mp4"
+  },
+  {
+    "id": 7002,
+    "question": "მოცემული საგზაო ნიშანი მიუთითებს:",
+    "answers": [
+      "ზოლზე მოძრაობის ნებადართულ მიმართულებას",
+      "განშტოებებზე და გადაკვეთებზე დამუხრუჭების ზოლის დასაწყისს",
+      "გზას ან სავალ ნაწილს, რომელზედაც სატრანსპორტო საშუალებების მოძრაობა მთელ სიგანეზე ხორციელდება ერთი მიმართულებით"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7002.mp4",
+    "wrongVideo": "assets/videos/wrong_7002.mp4",
+    "previewVideo": "assets/videos/preview_7002.mp4"
+  },
+  {
+    "id": 7003,
+    "question": "მოცემული საგზაო ნიშნები:",
+    "answers": [
+      "მიუთითებენ ცალმხრივმოძრაობიან გზაზე ან სავალ ნაწილზე გასვლას",
+      "აღნიშნავენ მოძრაობის ზოლის დასაწყისს",
+      "აღნიშნავენ ავტობუსების მოძრაობისათვის გამოყოფილ ზოლს"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7003.mp4",
+    "wrongVideo": "assets/videos/wrong_7003.mp4",
+    "previewVideo": "assets/videos/preview_7003.mp4"
+  },
+  {
+    "id": 7004,
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს რევერსული მოძრაობის მქონე გზის მონაკვეთის დასაწყისს?",
+    "answers": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ],
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7004.mp4",
+    "wrongVideo": "assets/videos/wrong_7004.mp4",
+    "previewVideo": "assets/videos/preview_7004.mp4"
+  },
+  {
+    "id": 7005,
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს სამარშრუტო სატრანსპორტო საშუალებისათვის განკუთვნილი ზოლის მქონე გზაზე გასვლას?",
+    "answers": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7005.mp4",
+    "wrongVideo": "assets/videos/wrong_7005.mp4",
+    "previewVideo": "assets/videos/preview_7005.mp4"
+  },
+  {
+    "id": 7006,
+    "question": "მოძრაობის ზოლზე დადგმული მოცემული საგზაო ნიშნების მოქმედება ვრცელდება:",
+    "answers": [
+      "მხოლოდ მოძრაობის ზოლზე, რომელზედაც ის დგას",
+      "სავალი ნაწილის მთელ სიგანეზე"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7006.mp4",
+    "wrongVideo": "assets/videos/wrong_7006.mp4",
+    "previewVideo": "assets/videos/preview_7006.mp4"
+  },
+  {
+    "id": 7007,
+    "question": "მოცემული საგზაო ნიშანი მიუთითებს:",
+    "answers": [
+      "მხოლოდ მოძრაობის ზოლების რაოდენობაზე",
+      "მხოლოდ ზოლებზე მოძრაობისათვის დადგენილ რეჟიმებზე",
+      "როგორც მოძრაობის ზოლების რაოდენობაზე, ასევე ზოლებზე მოძრაობისათვის დადგენილ რეჟიმებზე"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7007.mp4",
+    "wrongVideo": "assets/videos/wrong_7007.mp4",
+    "previewVideo": "assets/videos/preview_7007.mp4"
+  },
+  {
+    "id": 7008,
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ტერიტორიას, რომლის ფარგლებში რეგლამენტირებულია დგომა?",
+    "answers": [
+      "მხოლოდ II და IV",
+      "მხოლოდ IV",
+      "მხოლოდ I და II",
+      "მხოლოდ III"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7008.mp4",
+    "wrongVideo": "assets/videos/wrong_7008.mp4",
+    "previewVideo": "assets/videos/preview_7008.mp4"
+  },
+  {
+    "id": 7009,
+    "question": "მოცემულ სიტუაციაში, რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "answers": [
+      "მსუბუქი ავტომობილის მძღოლს",
+      "სატვირთო ავტომობილის მძღოლს",
+      "ორივე ავტომობილის მძღოლს",
+      "არცერთი ავტომობილის მძღოლს"
+    ],
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7009.mp4",
+    "wrongVideo": "assets/videos/wrong_7009.mp4",
+    "previewVideo": "assets/videos/preview_7009.mp4"
+  },
+  {
+    "id": 7010,
+    "question": "მოცემულ სიტუაციაში, რომელი ავტომობილის მძღოლს არ ეკრძალება ისრის მიმართულებით მობრუნების მანევრის შესრულება?",
+    "answers": [
+      "არცერთს",
+      "ორივე მძღოლს ეკრძალება",
+      "მხოლოდ წითელი ავტომობილის მძღოლს",
+      "მხოლოდ მწვანე ავტომობილის მძღოლს"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7010.mp4",
+    "wrongVideo": "assets/videos/wrong_7010.mp4",
+    "previewVideo": "assets/videos/preview_7010.mp4"
+  },
+  {
+    "id": 7011,
+    "question": "“საცხოვრებელი ზონა” არის:",
+    "answers": [
+      "ნებისმიერი ტერიტორია, რომელზეც დასახლებულია ხალხი",
+      "განაშენიანებული ტერიტორია, სადაც მოქმედებს სპეციალური საგზაო მოძრაობის წესები და სადაც შესასვლელი და გამოსასვლელი აღნიშნულია შესაბამისი საგზაო ნიშნებით",
+      "ნებისმიერი გზა, რომელიც განკუთვნილია ქვეითთა ინტენსიური მოძრაობისათვის"
+    ],
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7011.mp4",
+    "wrongVideo": "assets/videos/wrong_7011.mp4",
+    "previewVideo": "assets/videos/preview_7011.mp4"
+  },
+  {
+    "id": 7012,
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს ციცაბო დაღმართებზე ავარიული გაჩერების ზოლის არსებობის შესახებ?",
+    "answers": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ],
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_7012.mp4",
+    "wrongVideo": "assets/videos/wrong_7012.mp4",
+    "previewVideo": "assets/videos/preview_7012.mp4"
+  }
 ]

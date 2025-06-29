@@ -2,6 +2,7 @@
   {
     "id": 417,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -14,6 +15,7 @@
   {
     "id": 418,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -26,6 +28,7 @@
   {
     "id": 419,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -38,6 +41,7 @@
   {
     "id": 420,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -50,6 +54,7 @@
   {
     "id": 421,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -62,6 +67,7 @@
   {
     "id": 422,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -74,6 +80,7 @@
   {
     "id": 423,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -86,6 +93,7 @@
   {
     "id": 424,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -98,6 +106,7 @@
   {
     "id": 425,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -111,6 +120,7 @@
   {
     "id": 426,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -123,6 +133,7 @@
   {
     "id": 427,
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -137,6 +148,7 @@
   {
     "id": 428,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -150,6 +162,7 @@
   {
     "id": 429,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -162,6 +175,7 @@
   {
     "id": 430,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -174,6 +188,7 @@
   {
     "id": 431,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -186,6 +201,7 @@
   {
     "id": 432,
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -200,6 +216,7 @@
   {
     "id": 433,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -212,6 +229,7 @@
   {
     "id": 434,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -225,6 +243,7 @@
   {
     "id": 435,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -238,6 +257,7 @@
   {
     "id": 436,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -256,6 +276,7 @@
       "შეძლებისდაგვარად მიუახლოვდეს გზის სავალი ნაწილის მარჯვენა კიდეს და არ გაზარდოს სიჩქარე"
     ],
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -268,6 +289,7 @@
       "არ ეკრძალება"
     ],
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -281,6 +303,7 @@
       "მეზობელ მოძრაობის ზოლში საპირისპირო მიმართულებით მოძრავი ერთი ან რამდენიმე სატრანსპორტო საშუალების გვერდის აქცევას"
     ],
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -295,6 +318,7 @@
       "ანიჭებს უპირატესობას საგზაო მოძრაობის იმ კონკრეტულ მონაწილესთან შედარებით, ვის მიმართაც გამოიყენება აღნიშნული ხმოვანი და მანათობელი სიგნალები"
     ],
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
@@ -308,118 +332,126 @@
       "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
     ],
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4"
   },
-    {
-      "id": 442,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "თუ გასწრებისას აღმოჩნდა დაბრკოლება ან საფრთხე, რომელიც გასწრების დაწყებამდე მძღოლს არ შეეძლო გაეთვალისწინებინა, მძღოლი ვალდებულია:",
-      "answers": [
-        "1\nგაზარდოს სისწრაფე, რათა დროულად დაასრულოს გასწრების მანევრი",
-        "2\nმისცეს ხმოვანი სიგნალი და გააგრძელოს გასწრების მანევრის შესრულება",
-        "3\nშეწყვიტოს გასწრება"
-      ]
-    },
-    {
-      "id": 443,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "რას ეწოდება ფრეზის კინემატიკური რეჟიმი?",
-      "answers": [
-        "1\nფრეზის წრიული სიჩქარის ფარდობას მანქანის გადაადგილების სიჩქარესთან",
-        "2\nმანქანის გადაადგილების სიჩქარის ფარდობას ფრეზის წრიულ სიჩქარესთან",
-        "3\nფრეზის წრიული სიჩქარის კვადრატის ფარდობას მანქანის სამუშაო სიჩქარესთან",
-        "4\nმანქანის გადაადგილების სიჩქარის კვადრატის ფარდობას ფრეზის წრიულ სიჩქარესთან"
-      ]
-    },
-    {
-      "id": 444,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "როგორი ტიპისაა თავთავიანი კულტურების სათესების გამომთესი აპარატი?",
-      "answers": [
-        "1\nფრთებიანი",
-        "2\nდისკოსებური",
-        "3\nკოჭისებური",
-        "4\nთეფშისებური"
-      ]
-    },
-    {
-      "id": 445,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "როგორი გამომთესი აპარატი გამოიყენება სიმინდი, მზესუმზირა, სოიო, ლობიო და სხვა სათოხნი კულტურების სათესებში?",
-      "answers": [
-        "1\nკოჭისებური",
-        "2\nდისკოსებური",
-        "3\nთეფშისებური",
-        "4\nფრთებიანი"
-      ]
-    },
-    {
-      "id": 446,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "რა პრინციპით ხორციელდება პნევმატურ სათესებში თესლის გამოთესვა?",
-      "answers": [
-        "1\nვაკუუმის საშუალებით",
-        "2\nსათესი თვლის ბრუნთა რიცხვის საშუალებით",
-        "3\nძალამრთმევი ლილვის საშუალებით"
-      ]
-    },
-    {
-      "id": 447,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "რომელია სასოფლო-სამეურნეო კულტურების მოვლა-მოყვანის ტექნოლოგია?",
-      "answers": [
-        "1\nქვების აკრეფა და ნიადაგის ზედაპირის მოშანდაკება",
-        "2\nორმოების ამოთხრა",
-        "3\nსასუქის მოფანტვა, ხვნა, ფარცხვა, თესვისწინა მოსწორება, თესვა, კულტივაცია, მოსავლის აღება",
-        "4\nბორცვების მოჭრა და დატერასება"
-      ]
-    },
-    {
-      "id": 448,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "რა დანიშნულება აქვს სათიბელას?",
-      "answers": [
-        "1\nთივის ან ჩალის ღვარეულებიდან აკრეფა, დაწნეხვა და დაწნეხილი მასის შეკვრა",
-        "2\nგამშრალი და ახლადმოთიბული ბალახის ზოლებად და ღვარეულებად მოგროვება",
-        "3\nბუნებრივი და ნათესი ბალახების მოთიბვა"
-      ]
-    },
-    {
-      "id": 449,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "რა არის სათიბელას ძირითადი მუშა ორგანო?",
-      "answers": [
-        "1\nჩარჩო",
-        "2\nმჭრელი აპარატი",
-        "3\nთითებიანი ძელი",
-        "4\nჭრის საწინააღმდეგო ფირფიტა"
-      ]
-    }
-    
+  {
+    "id": 442,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ გასწრებისას აღმოჩნდა დაბრკოლება ან საფრთხე, რომელიც გასწრების დაწყებამდე მძღოლს არ შეეძლო გაეთვალისწინებინა, მძღოლი ვალდებულია:",
+    "answers": [
+      "1\nგაზარდოს სისწრაფე, რათა დროულად დაასრულოს გასწრების მანევრი",
+      "2\nმისცეს ხმოვანი სიგნალი და გააგრძელოს გასწრების მანევრის შესრულება",
+      "3\nშეწყვიტოს გასწრება"
+    ]
+  },
+  {
+    "id": 443,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რას ეწოდება ფრეზის კინემატიკური რეჟიმი?",
+    "answers": [
+      "1\nფრეზის წრიული სიჩქარის ფარდობას მანქანის გადაადგილების სიჩქარესთან",
+      "2\nმანქანის გადაადგილების სიჩქარის ფარდობას ფრეზის წრიულ სიჩქარესთან",
+      "3\nფრეზის წრიული სიჩქარის კვადრატის ფარდობას მანქანის სამუშაო სიჩქარესთან",
+      "4\nმანქანის გადაადგილების სიჩქარის კვადრატის ფარდობას ფრეზის წრიულ სიჩქარესთან"
+    ]
+  },
+  {
+    "id": 444,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "როგორი ტიპისაა თავთავიანი კულტურების სათესების გამომთესი აპარატი?",
+    "answers": [
+      "1\nფრთებიანი",
+      "2\nდისკოსებური",
+      "3\nკოჭისებური",
+      "4\nთეფშისებური"
+    ]
+  },
+  {
+    "id": 445,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "როგორი გამომთესი აპარატი გამოიყენება სიმინდი, მზესუმზირა, სოიო, ლობიო და სხვა სათოხნი კულტურების სათესებში?",
+    "answers": [
+      "1\nკოჭისებური",
+      "2\nდისკოსებური",
+      "3\nთეფშისებური",
+      "4\nფრთებიანი"
+    ]
+  },
+  {
+    "id": 446,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა პრინციპით ხორციელდება პნევმატურ სათესებში თესლის გამოთესვა?",
+    "answers": [
+      "1\nვაკუუმის საშუალებით",
+      "2\nსათესი თვლის ბრუნთა რიცხვის საშუალებით",
+      "3\nძალამრთმევი ლილვის საშუალებით"
+    ]
+  },
+  {
+    "id": 447,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელია სასოფლო-სამეურნეო კულტურების მოვლა-მოყვანის ტექნოლოგია?",
+    "answers": [
+      "1\nქვების აკრეფა და ნიადაგის ზედაპირის მოშანდაკება",
+      "2\nორმოების ამოთხრა",
+      "3\nსასუქის მოფანტვა, ხვნა, ფარცხვა, თესვისწინა მოსწორება, თესვა, კულტივაცია, მოსავლის აღება",
+      "4\nბორცვების მოჭრა და დატერასება"
+    ]
+  },
+  {
+    "id": 448,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა დანიშნულება აქვს სათიბელას?",
+    "answers": [
+      "1\nთივის ან ჩალის ღვარეულებიდან აკრეფა, დაწნეხვა და დაწნეხილი მასის შეკვრა",
+      "2\nგამშრალი და ახლადმოთიბული ბალახის ზოლებად და ღვარეულებად მოგროვება",
+      "3\nბუნებრივი და ნათესი ბალახების მოთიბვა"
+    ]
+  },
+  {
+    "id": 449,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა არის სათიბელას ძირითადი მუშა ორგანო?",
+    "answers": [
+      "1\nჩარჩო",
+      "2\nმჭრელი აპარატი",
+      "3\nთითებიანი ძელი",
+      "4\nჭრის საწინააღმდეგო ფირფიტა"
+    ]
+  }
 ]

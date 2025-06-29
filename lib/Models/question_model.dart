@@ -2,11 +2,13 @@ class QuestionModel {
   final String question;
   final List<String> options;
   final int correctAnswer;
+  String? imageUrl;
 
   QuestionModel({
     required this.question,
     required this.options,
     required this.correctAnswer,
+    this.imageUrl,
   });
 
   factory QuestionModel.fromJson(Map<String, dynamic> json) {
@@ -16,12 +18,12 @@ class QuestionModel {
         .toList();
 
     return QuestionModel(
-      question: json['question'] as String,
-      options: options,
-      correctAnswer: json['correctAnswer'] is int
-          ? json['correctAnswer']
-          : int.tryParse(json['correctAnswer'].toString()) ?? 0,
-    );
+        question: json['question'] as String,
+        options: options,
+        correctAnswer: json['correctAnswer'] is int
+            ? json['correctAnswer']
+            : int.tryParse(json['correctAnswer'].toString()) ?? 0,
+        imageUrl: json['imageUrl'] as String);
   }
 }
 

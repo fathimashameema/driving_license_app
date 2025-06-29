@@ -2,6 +2,7 @@
   {
     "id": 41,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -14,6 +15,7 @@
   {
     "id": 42,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -26,6 +28,7 @@
   {
     "id": 43,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -39,6 +42,7 @@
   {
     "id": 44,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -51,6 +55,7 @@
   {
     "id": 45,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -64,6 +69,7 @@
   {
     "id": 46,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -77,6 +83,7 @@
   {
     "id": 47,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -90,6 +97,7 @@
   {
     "id": 48,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -102,6 +110,7 @@
   {
     "id": 49,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -115,6 +124,7 @@
   {
     "id": 50,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -128,6 +138,7 @@
   {
     "id": 51,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -142,6 +153,7 @@
   {
     "id": 52,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -151,69 +163,73 @@
       "არ არის ვალდებული"
     ]
   },
-    {
-      "id": 53,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "ოპერატიული სამსახურის ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები. წითელი ავტომობილის მძღოლი არ დაარღვევს საგზაო მოძრაობის წესებს, თუ:",
-      "answers": [
-        "გაატარებს ყვითელ ავტომობილს და გადავა მარჯვნივ მდებარე ზოლში",
-        "არ დაუთმობს გზას ყვითელ ავტომობილს და გადავა მარჯვნივ მდებარე ზოლში",
-        "გააგრძელებს მოძრაობას დაკავებულ ზოლში"
-      ]
-    },
-    {
-      "id": 54,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "ოპერატიული სამსახურის ავტომობილი გაჩერებულია ჩართული ლურჯი მოელვარე სპეციალური ციმციმა სიგნალით. მსუბუქი ავტომობილის მძღოლმა უნდა იმოძრაოს არა უმეტეს:",
-      "answers": [
-        "90 კმ/სთ სიჩქარით",
-        "70 კმ/სთ სიჩქარით",
-        "იმ სიჩქარით, რომლითაც აუცილებლობის შემთხვევაში ავტომობილის დაუყონებლივ გაჩერების შესაძლებლობა ექნება"
-      ]
-    },
-    {
-      "id": 55,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "რომელი მიმართულებით მოძრაობის გაგრძელების უფლება აქვს ოპერატიული სამსახურის ავტომობილის მძღოლს შუქნიშნის ამ სიგნალზე, თუ ავტომობილს ჩართული არა აქვს ლურჯი მოელვარე სპეციალური ციმციმა სიგნალი?",
-      "answers": [
-        "მხოლოდ პირდაპირ და მარჯვნივ",
-        "მხოლოდ პირდაპირ მარცხნივ",
-        "ყველა მიმართულებით",
-        "მხოლოდ პირდაპირ"
-      ]
-    },
-    {
-      "id": 56,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "სატვირთო ავტომობილი ავტომაგისტრალზე ასრულებს დასასუფთავებელ სამუშაოებს. აქვს თუ არა უფლება სატვირთო ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ ავტომობილს ჩართული აქვს ყვითელი მოელვარე სპეციალური ციმციმა სიგნალი?",
-      "answers": [
-        "აქვს უფლება",
-        "არ აქვს უფლება"
-      ]
-    },
-    {
-      "id": 57,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ოპერეტიული სამსახურის ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები?",
-      "answers": [
-        "მსუბუქი ავტომობილის მძღოლს",
-        "ოპერატიული სამსახურის ავტომობილის მძღოლს"
-      ]
-    }
-  
+  {
+    "id": 53,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ოპერატიული სამსახურის ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები. წითელი ავტომობილის მძღოლი არ დაარღვევს საგზაო მოძრაობის წესებს, თუ:",
+    "answers": [
+      "გაატარებს ყვითელ ავტომობილს და გადავა მარჯვნივ მდებარე ზოლში",
+      "არ დაუთმობს გზას ყვითელ ავტომობილს და გადავა მარჯვნივ მდებარე ზოლში",
+      "გააგრძელებს მოძრაობას დაკავებულ ზოლში"
+    ]
+  },
+  {
+    "id": 54,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ოპერატიული სამსახურის ავტომობილი გაჩერებულია ჩართული ლურჯი მოელვარე სპეციალური ციმციმა სიგნალით. მსუბუქი ავტომობილის მძღოლმა უნდა იმოძრაოს არა უმეტეს:",
+    "answers": [
+      "90 კმ/სთ სიჩქარით",
+      "70 კმ/სთ სიჩქარით",
+      "იმ სიჩქარით, რომლითაც აუცილებლობის შემთხვევაში ავტომობილის დაუყონებლივ გაჩერების შესაძლებლობა ექნება"
+    ]
+  },
+  {
+    "id": 55,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი მიმართულებით მოძრაობის გაგრძელების უფლება აქვს ოპერატიული სამსახურის ავტომობილის მძღოლს შუქნიშნის ამ სიგნალზე, თუ ავტომობილს ჩართული არა აქვს ლურჯი მოელვარე სპეციალური ციმციმა სიგნალი?",
+    "answers": [
+      "მხოლოდ პირდაპირ და მარჯვნივ",
+      "მხოლოდ პირდაპირ მარცხნივ",
+      "ყველა მიმართულებით",
+      "მხოლოდ პირდაპირ"
+    ]
+  },
+  {
+    "id": 56,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატვირთო ავტომობილი ავტომაგისტრალზე ასრულებს დასასუფთავებელ სამუშაოებს. აქვს თუ არა უფლება სატვირთო ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ ავტომობილს ჩართული აქვს ყვითელი მოელვარე სპეციალური ციმციმა სიგნალი?",
+    "answers": [
+      "აქვს უფლება",
+      "არ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 57,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ოპერეტიული სამსახურის ავტომობილს ჩართული აქვს ლურჯი მოელვარე სპეციალური ციმციმა და ხმოვანი სიგნალები?",
+    "answers": [
+      "მსუბუქი ავტომობილის მძღოლს",
+      "ოპერატიული სამსახურის ავტომობილის მძღოლს"
+    ]
+  }
 ]

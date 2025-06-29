@@ -2,6 +2,7 @@
   {
     "id": 901,
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -16,6 +17,7 @@
   {
     "id": 902,
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -30,6 +32,7 @@
   {
     "id": 903,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -43,6 +46,7 @@
   {
     "id": 904,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -56,6 +60,7 @@
   {
     "id": 905,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -68,6 +73,7 @@
   {
     "id": 906,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -81,6 +87,7 @@
   {
     "id": 907,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -94,6 +101,7 @@
   {
     "id": 908,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -107,6 +115,7 @@
   {
     "id": 909,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -120,6 +129,7 @@
   {
     "id": 910,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -133,6 +143,7 @@
   {
     "id": 911,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -146,6 +157,7 @@
   {
     "id": 912,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -159,6 +171,7 @@
   {
     "id": 913,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -172,6 +185,7 @@
   {
     "id": 914,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -185,6 +199,7 @@
   {
     "id": 915,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -198,6 +213,7 @@
   {
     "id": 916,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -211,6 +227,7 @@
   {
     "id": 917,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -224,6 +241,7 @@
   {
     "id": 918,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -236,6 +254,7 @@
   {
     "id": 919,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -248,6 +267,7 @@
   {
     "id": 920,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -258,215 +278,229 @@
       "მისაბმელი, რომლის სრული მასა არ აღემატება 950 კგ-ს"
     ]
   },
-    {
-      "id": 921,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "სატრანსპორტო საშუალების \"სრული მასა\" არის:",
-      "answers": [
-        "სატრანსპორტო საშუალების მასა ეკიპაჟის, მგზავრებისა და ტვირთის გარეშე",
-        "მოცემული დროის მონაკვეთში დატვირთული სატრანსპორტო საშუალების, ეკიპაჟისა და მგზავრების მასა",
-        "ტვირთით, ეკიპაჟითა და მგზავრებით შევსებული, აღჭურვილ მდგომარეობაში მყოფი სატრანსპორტო საშუალების მასა, რომლის ზღვარს ადგენს სატრანსპორტო საშუალების ქარხანა-დამამზადებელი",
-        "სატრანსპორტო საშუალების მასის ნაწილი, რომელიც ღერძზე დაწოლის შედეგად წარმოშობს გზაზე დატვირთვას"
-      ]
-    },
-    {
-      "id": 922,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "თითოეულ წამყვან ან არაწამყვან ღერძზე დატვირთვის განსაზღვრისას, სატრანსპორტო საშუალების განივ ჭრილში ერთ ხაზზე განლაგებული, კონსტრუქციულად განცალკევებული ღერძები განიხილება, როგორც:",
-      "answers": [
-        "დამოუკიდებელი ღერძები",
-        "ერთი მთლიანი ღერძი",
-        "ერთი მთლიანი ღერძი - არაწამყვანი ღერძის შემთხვევაში, დამოუკიდებელი ღერძები - წამყვანი ღერძის შემთხვევაში"
-      ]
-    },
-    {
-      "id": 923,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "იმ ორმხრივმოძრაობიან გზაზე, რომელსაც აქვს გამყოფი ზოლი, საპირისპირო მიმართულების მოძრაობის მხარედ ითვლება:",
-      "answers": [
-        "გამყოფი ზოლის მარცხნივ არსებული სავალი ნაწილი",
-        "გამყოფი ზოლის მარჯვნივ არსებული სავალი ნაწილი",
-        "ამ ბილეთში ჩამოთვლილი არცერთი"
-      ]
-    },
-    {
-      "id": 924,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "თუ მძღოლი ვერ განსაზღვრავს გზაზე საფარის არსებობას (სიბნელის, თოვლის, ტალახის გამო ან სხვა მიზეზით) და არც პრიორიტეტის ნიშნებია, ითვლება, რომ ის იმყოფება:",
-      "answers": [
-        "მეორეხარისხოვან გზაზე",
-        "მთავარ გზაზე",
-        "ავტომაგისტრალთან გათანაბრებულ გზაზე"
-      ]
-    },
-    {
-      "id": 925,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "თუ გზაზე საგზაო სამუშაოების მწარმოებელი ორგანიზაციის ავტომობილზე დაყენებული დროებითი საგზაო ნიშნის მოთხოვნები ეწინააღმდეგება იმავე გზის მონაკვეთზე სტაციონარულად დაყენებულ საგზაო ნიშნის მოთხოვნებს მძღოლი ვალდებულია შეასრულოს:",
-      "answers": [
-        "სტაციონარულად დაყენებული საგზაო ნიშნის მოთხოვნები",
-        "საგზაო სამუშაოების მწარმოებელი ორგანიზაციის ავტომობილზე დაყენებული დროებითი საგზაო ნიშნის მოთხოვნები"
-      ]
-    },
-    {
-      "id": 926,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოტოციკლის, ავტობუსის, მსუბუქი და სატვირთო ავტომობილების მართვა შეუძლია მხოლოდ იმ პირს:",
-      "answers": [
-        "რომლის ჯანმრთელობის მდგომარეობაც შეესაბამება საქართველოს კანონმდებლობით განსაზღვრულ სატრანსპორტო საშუალებათა მართვისთვის საჭირო ჯანმრთელობის მდგომარეობისადმი მოთხოვნებს",
-        "რომელსაც საქართველოს კანონმდებლობით დადგენილი წესით მიენიჭა შესაბამისი კატეგორიის ან/და ქვეკატეგორიის სატრანსპორტო საშუალების მართვის უფლება და ეს უფლება არ არის შეჩერებული ან შეწყვეტილი",
-        "რომელიც აკმაყოფილებს ამ ბილეთში ჩამოთვლილ ყველა პირობას"
-      ]
-    },
-    {
-      "id": 927,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "რომელი საცნობი ნიშანი მაგრდება სახიფათო ტვირთის გადამზიდი სატრანსპორტო საშუალების წინა და უკანა მხარეს?",
-      "answers": [
-        "მხოლოდ I",
-        "მხოლოდ II",
-        "მხოლოდ III",
-        "მხოლოდ I და II"
-      ]
-    },
-    {
-      "id": 928,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "რომელი საცნობი ნიშანი მაგრდება იმ მექანიკური სატრანსპორტო საშუალების წინა და უკანა მხარეს, რომელსაც სმენადაქვეითებული მძღოლი მართავს?",
-      "answers": [
-        "მხოლოდ III",
-        "მხოლოდ II",
-        "მხოლოდ I"
-      ]
-    },
-    {
-      "id": 929,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "რომელი საცნობი ნიშანი მაგრდება იმ სატრანსპორტო საშუალებაზე, რომლის სიჩქარე ტვირთის გათვალისწინებით და ტექნიკური მახასიათებლებით კანონმდებლობით დადგენილზე ნაკლებია?",
-      "answers": [
-        "მხოლოდ III",
-        "მხოლოდ II",
-        "მხოლოდ I"
-      ]
-    },
-    {
-      "id": 930,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მძღოლის სურვილისამებრ რომელი საცნობი ნიშანი შეიძლება დამაგრდეს იმ სატრანსპორტო საშუალებაზე, რომელსაც ექიმი მძღოლი მართავს?",
-      "answers": [
-        "მხოლოდ III",
-        "მხოლოდ II",
-        "მხოლოდ I"
-      ]
-    },
-      {
-        "id": 931,
-        "correctAnswer": 1,
-        "correctVideo": "assets/videos/correct_19.mp4",
-        "wrongVideo": "assets/videos/wrong_19.mp4",
-        "previewVideo": "assets/videos/preview_19.mp4",
-        "question": "მოცემული საგზაო ნიშანი იდგმება:",
-        "answers": [
-          "საპატრულო პოლიციის საგუშაგოებთან",
-          "საქართველოს ტერიტორიაზე, შემოსასვლელებში, საკონტროლო გამშვებ პუნქტებთან",
-          "ავტომაგისტრალის დასაწყისში"
-        ]
-      },
-      {
-        "id": 932,
-        "correctAnswer": 0,
-        "correctVideo": "assets/videos/correct_19.mp4",
-        "wrongVideo": "assets/videos/wrong_19.mp4",
-        "previewVideo": "assets/videos/preview_19.mp4",
-        "question": "თუ გაზონზე ან ტროტუარზე მყოფ მოთამაშე ბავშვებს სატრანსპორტო საშუალების წინ გზის სავალ ნაწილზე გადმოუვარდათ ბურთი, მძღოლმა უნდა გაითვალისწინოს, რომ:",
-        "answers": [
-          "ბავშვები შეიძლება გამოიქცნენ გზის სავალ ნაწილზე ბურთის ასაღებად",
-          "ბავშვების სავალ ნაწილზე გამოსვლის საფრთხე არ არსებობს, ვინაიდან ისინი ვალდებულები არიან მოიცადონ გზის სავალი ნაწილის კიდესთან და დაელოდონ ავტომობილის გავლას"
-        ]
-      },
-      {
-        "id": 933,
-        "correctAnswer": 2,
-        "correctVideo": "assets/videos/correct_19.mp4",
-        "wrongVideo": "assets/videos/wrong_19.mp4",
-        "previewVideo": "assets/videos/preview_19.mp4",
-        "question": "თუ სატრანსპორტო საშუალება უახლოვდება ტროტუარზე მოთამაშე ბავშვებს, მძღოლმა უნდა:",
-        "answers": [
-          "ბავშვებზე ყურადღების მიუქცევლად გააგრძელოს მოძრაობა რათა არ შეუმნას დაბრკოლება მის უკან მოძრავ სატრანსპორტო საშუალებებს",
-          "მისცეს მხოლოდ ხმოვანი სიგნალი და შეუფერხებლად გააგრძლოს მოძრაობა",
-          "შეანელოს სიჩქარე და მზად იყოს დამუხრუჭებისთვის"
-        ]
-      },
-      {
-        "id": 934,
-        "correctAnswer": 2,
-        "correctVideo": "assets/videos/correct_19.mp4",
-        "wrongVideo": "assets/videos/wrong_19.mp4",
-        "previewVideo": "assets/videos/preview_19.mp4",
-        "question": "სპეციალური საბავშვო ეტლის, სავარძლის ან დამჭერი მოწყობილობის გამოყენების შემთხვევაში მძღოლი უნდა დარწმუნდეს:",
-        "answers": [
-          "მხოლოდ, რომ ეტლი, სავარძლი ან დამჭერი მოწყობილობა შეესაბამება ბავშვის სიმაღლეს და წონას",
-          "მხოლოდ, რომ სატრანსპორტო საშუალების კონსტრუქციიდან გამომდინარე შესაძლებელია ბავშვის გადაყვანისას სპეციალური საბავშვო ეტლის, სავარძლის ან შესაბამისი დამჭერი მოწყობილობის გამოყენება",
-          "ამ ბილეთში ჩამოთვლილ ყველა გარემოებაში"
-        ]
-      },
-      {
-        "id": 935,
-        "correctAnswer": 2,
-        "correctVideo": "assets/videos/correct_19.mp4",
-        "wrongVideo": "assets/videos/wrong_19.mp4",
-        "previewVideo": "assets/videos/preview_19.mp4",
-        "question": "სხვა პირისათვის მექანიკური სატრანსპორტო საშუალების სამართავად გადაცემა აკრძალულია:",
-        "answers": [
-          "მხოლოდ იმ შემთხვევაში, თუ იგი იმყოფება ალკოჰოლური, ნარკოტიკული ან ფსიქოტროპული სიმთვრალის მდგომარეობაში",
-          "მხოლოდ იმ შემთხვევაში, თუ მას არ აქვს შესაბამისი კატეგორიის ან ქვეკატეგორიის სატრანსპორტო საშუალების მართვის უფლება ან ეს უფლება შეჩერებული, ჩამორთმეული ან შეწყვეტილი (გაუქმებული) აქვს საქართველოს კანონმდებლობით დადგენილი წესით.",
-          "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
-        ]
-      },
-      {
-        "id": 936,
-        "correctAnswer": 0,
-        "correctVideo": "assets/videos/correct_19.mp4",
-        "wrongVideo": "assets/videos/wrong_19.mp4",
-        "previewVideo": "assets/videos/preview_19.mp4",
-        "question": "დღე-ღამის ბნელ დროს ან არასაკმარისი ხილვადობის პირობებში, სატრანსპორტო საშუალების მოძრაობის სიჩქარის შერჩევისას მძღოლმა გადამწყვეტი მნიშვნელობა უნდა მიანიჭოს:",
-        "answers": [
-          "მხედველობის პირობებს",
-          "მოცემულ გზის მონაკვეთზე საგზაო მონიშვნით განსაზღვრულ მოთხოვნებს",
-          "თანმხვედრი მიმართულებით მოძრაობის ზოლების რაოდენობას",
-          "ამ ბილეთში ჩამოთვლილი არცერთი გარემოება გასათვალისწინებელი არ არის"
-        ]
-      }
-    
-  
+  {
+    "id": 921,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალების \"სრული მასა\" არის:",
+    "answers": [
+      "სატრანსპორტო საშუალების მასა ეკიპაჟის, მგზავრებისა და ტვირთის გარეშე",
+      "მოცემული დროის მონაკვეთში დატვირთული სატრანსპორტო საშუალების, ეკიპაჟისა და მგზავრების მასა",
+      "ტვირთით, ეკიპაჟითა და მგზავრებით შევსებული, აღჭურვილ მდგომარეობაში მყოფი სატრანსპორტო საშუალების მასა, რომლის ზღვარს ადგენს სატრანსპორტო საშუალების ქარხანა-დამამზადებელი",
+      "სატრანსპორტო საშუალების მასის ნაწილი, რომელიც ღერძზე დაწოლის შედეგად წარმოშობს გზაზე დატვირთვას"
+    ]
+  },
+  {
+    "id": 922,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თითოეულ წამყვან ან არაწამყვან ღერძზე დატვირთვის განსაზღვრისას, სატრანსპორტო საშუალების განივ ჭრილში ერთ ხაზზე განლაგებული, კონსტრუქციულად განცალკევებული ღერძები განიხილება, როგორც:",
+    "answers": [
+      "დამოუკიდებელი ღერძები",
+      "ერთი მთლიანი ღერძი",
+      "ერთი მთლიანი ღერძი - არაწამყვანი ღერძის შემთხვევაში, დამოუკიდებელი ღერძები - წამყვანი ღერძის შემთხვევაში"
+    ]
+  },
+  {
+    "id": 923,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "იმ ორმხრივმოძრაობიან გზაზე, რომელსაც აქვს გამყოფი ზოლი, საპირისპირო მიმართულების მოძრაობის მხარედ ითვლება:",
+    "answers": [
+      "გამყოფი ზოლის მარცხნივ არსებული სავალი ნაწილი",
+      "გამყოფი ზოლის მარჯვნივ არსებული სავალი ნაწილი",
+      "ამ ბილეთში ჩამოთვლილი არცერთი"
+    ]
+  },
+  {
+    "id": 924,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ მძღოლი ვერ განსაზღვრავს გზაზე საფარის არსებობას (სიბნელის, თოვლის, ტალახის გამო ან სხვა მიზეზით) და არც პრიორიტეტის ნიშნებია, ითვლება, რომ ის იმყოფება:",
+    "answers": [
+      "მეორეხარისხოვან გზაზე",
+      "მთავარ გზაზე",
+      "ავტომაგისტრალთან გათანაბრებულ გზაზე"
+    ]
+  },
+  {
+    "id": 925,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ გზაზე საგზაო სამუშაოების მწარმოებელი ორგანიზაციის ავტომობილზე დაყენებული დროებითი საგზაო ნიშნის მოთხოვნები ეწინააღმდეგება იმავე გზის მონაკვეთზე სტაციონარულად დაყენებულ საგზაო ნიშნის მოთხოვნებს მძღოლი ვალდებულია შეასრულოს:",
+    "answers": [
+      "სტაციონარულად დაყენებული საგზაო ნიშნის მოთხოვნები",
+      "საგზაო სამუშაოების მწარმოებელი ორგანიზაციის ავტომობილზე დაყენებული დროებითი საგზაო ნიშნის მოთხოვნები"
+    ]
+  },
+  {
+    "id": 926,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოტოციკლის, ავტობუსის, მსუბუქი და სატვირთო ავტომობილების მართვა შეუძლია მხოლოდ იმ პირს:",
+    "answers": [
+      "რომლის ჯანმრთელობის მდგომარეობაც შეესაბამება საქართველოს კანონმდებლობით განსაზღვრულ სატრანსპორტო საშუალებათა მართვისთვის საჭირო ჯანმრთელობის მდგომარეობისადმი მოთხოვნებს",
+      "რომელსაც საქართველოს კანონმდებლობით დადგენილი წესით მიენიჭა შესაბამისი კატეგორიის ან/და ქვეკატეგორიის სატრანსპორტო საშუალების მართვის უფლება და ეს უფლება არ არის შეჩერებული ან შეწყვეტილი",
+      "რომელიც აკმაყოფილებს ამ ბილეთში ჩამოთვლილ ყველა პირობას"
+    ]
+  },
+  {
+    "id": 927,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი საცნობი ნიშანი მაგრდება სახიფათო ტვირთის გადამზიდი სატრანსპორტო საშუალების წინა და უკანა მხარეს?",
+    "answers": [
+      "მხოლოდ I",
+      "მხოლოდ II",
+      "მხოლოდ III",
+      "მხოლოდ I და II"
+    ]
+  },
+  {
+    "id": 928,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი საცნობი ნიშანი მაგრდება იმ მექანიკური სატრანსპორტო საშუალების წინა და უკანა მხარეს, რომელსაც სმენადაქვეითებული მძღოლი მართავს?",
+    "answers": [
+      "მხოლოდ III",
+      "მხოლოდ II",
+      "მხოლოდ I"
+    ]
+  },
+  {
+    "id": 929,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რომელი საცნობი ნიშანი მაგრდება იმ სატრანსპორტო საშუალებაზე, რომლის სიჩქარე ტვირთის გათვალისწინებით და ტექნიკური მახასიათებლებით კანონმდებლობით დადგენილზე ნაკლებია?",
+    "answers": [
+      "მხოლოდ III",
+      "მხოლოდ II",
+      "მხოლოდ I"
+    ]
+  },
+  {
+    "id": 930,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მძღოლის სურვილისამებრ რომელი საცნობი ნიშანი შეიძლება დამაგრდეს იმ სატრანსპორტო საშუალებაზე, რომელსაც ექიმი მძღოლი მართავს?",
+    "answers": [
+      "მხოლოდ III",
+      "მხოლოდ II",
+      "მხოლოდ I"
+    ]
+  },
+  {
+    "id": 931,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი იდგმება:",
+    "answers": [
+      "საპატრულო პოლიციის საგუშაგოებთან",
+      "საქართველოს ტერიტორიაზე, შემოსასვლელებში, საკონტროლო გამშვებ პუნქტებთან",
+      "ავტომაგისტრალის დასაწყისში"
+    ]
+  },
+  {
+    "id": 932,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ გაზონზე ან ტროტუარზე მყოფ მოთამაშე ბავშვებს სატრანსპორტო საშუალების წინ გზის სავალ ნაწილზე გადმოუვარდათ ბურთი, მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "answers": [
+      "ბავშვები შეიძლება გამოიქცნენ გზის სავალ ნაწილზე ბურთის ასაღებად",
+      "ბავშვების სავალ ნაწილზე გამოსვლის საფრთხე არ არსებობს, ვინაიდან ისინი ვალდებულები არიან მოიცადონ გზის სავალი ნაწილის კიდესთან და დაელოდონ ავტომობილის გავლას"
+    ]
+  },
+  {
+    "id": 933,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "თუ სატრანსპორტო საშუალება უახლოვდება ტროტუარზე მოთამაშე ბავშვებს, მძღოლმა უნდა:",
+    "answers": [
+      "ბავშვებზე ყურადღების მიუქცევლად გააგრძელოს მოძრაობა რათა არ შეუმნას დაბრკოლება მის უკან მოძრავ სატრანსპორტო საშუალებებს",
+      "მისცეს მხოლოდ ხმოვანი სიგნალი და შეუფერხებლად გააგრძლოს მოძრაობა",
+      "შეანელოს სიჩქარე და მზად იყოს დამუხრუჭებისთვის"
+    ]
+  },
+  {
+    "id": 934,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სპეციალური საბავშვო ეტლის, სავარძლის ან დამჭერი მოწყობილობის გამოყენების შემთხვევაში მძღოლი უნდა დარწმუნდეს:",
+    "answers": [
+      "მხოლოდ, რომ ეტლი, სავარძლი ან დამჭერი მოწყობილობა შეესაბამება ბავშვის სიმაღლეს და წონას",
+      "მხოლოდ, რომ სატრანსპორტო საშუალების კონსტრუქციიდან გამომდინარე შესაძლებელია ბავშვის გადაყვანისას სპეციალური საბავშვო ეტლის, სავარძლის ან შესაბამისი დამჭერი მოწყობილობის გამოყენება",
+      "ამ ბილეთში ჩამოთვლილ ყველა გარემოებაში"
+    ]
+  },
+  {
+    "id": 935,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სხვა პირისათვის მექანიკური სატრანსპორტო საშუალების სამართავად გადაცემა აკრძალულია:",
+    "answers": [
+      "მხოლოდ იმ შემთხვევაში, თუ იგი იმყოფება ალკოჰოლური, ნარკოტიკული ან ფსიქოტროპული სიმთვრალის მდგომარეობაში",
+      "მხოლოდ იმ შემთხვევაში, თუ მას არ აქვს შესაბამისი კატეგორიის ან ქვეკატეგორიის სატრანსპორტო საშუალების მართვის უფლება ან ეს უფლება შეჩერებული, ჩამორთმეული ან შეწყვეტილი (გაუქმებული) აქვს საქართველოს კანონმდებლობით დადგენილი წესით.",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
+    ]
+  },
+  {
+    "id": 936,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღე-ღამის ბნელ დროს ან არასაკმარისი ხილვადობის პირობებში, სატრანსპორტო საშუალების მოძრაობის სიჩქარის შერჩევისას მძღოლმა გადამწყვეტი მნიშვნელობა უნდა მიანიჭოს:",
+    "answers": [
+      "მხედველობის პირობებს",
+      "მოცემულ გზის მონაკვეთზე საგზაო მონიშვნით განსაზღვრულ მოთხოვნებს",
+      "თანმხვედრი მიმართულებით მოძრაობის ზოლების რაოდენობას",
+      "ამ ბილეთში ჩამოთვლილი არცერთი გარემოება გასათვალისწინებელი არ არის"
+    ]
+  }
 ]

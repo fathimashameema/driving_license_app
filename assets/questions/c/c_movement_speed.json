@@ -2,6 +2,7 @@
   {
     "id": 21,
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -16,6 +17,7 @@
   {
     "id": 22,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -30,6 +32,7 @@
   {
     "id": 23,
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -44,6 +47,7 @@
   {
     "id": 24,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -58,6 +62,7 @@
   {
     "id": 25,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -70,6 +75,7 @@
   {
     "id": 26,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -84,6 +90,7 @@
   {
     "id": 27,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -98,6 +105,7 @@
   {
     "id": 28,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -110,6 +118,7 @@
   {
     "id": 29,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -124,6 +133,7 @@
   {
     "id": 30,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -138,6 +148,7 @@
   {
     "id": 31,
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -149,111 +160,118 @@
       "ამ ბილეთში ჩამოთვლილი ყველა საგზაო პირობა"
     ]
   },
-    {
-      "id": 32,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "რა მაქსიმალური სიჩქარით შეუძლია იმოძრაოს ძარით მგზავრების გადამყვან „C“ კატეგორიის სატრანსპორტო საშუალებას მოცემული საგზაო ნიშნით აღნიშნულ გზაზე?",
-      "answers": [
-        "50 კმ/სთ სიჩქარით",
-        "60 კმ/სთ სიჩქარით",
-        "80 კმ/სთ სიჩქარით",
-        "90 კმ/სთ სიჩქარით"
-      ]
-    },
-    {
-      "id": 33,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნის მოქმედების ზონაში „C“ და „CE“ კატეგორიის სატრანსპორტო საშუალებებით მოძრაობა ნებადართულია არაუმეტეს:",
-      "answers": [
-        "70 კმ/სთ სიჩქარით",
-        "80 კმ/სთ სიჩქარით",
-        "90 კმ/სთ სიჩქარით",
-        "110 კმ/სთ სიჩქარით"
-      ]
-    },
-    {
-      "id": 34,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "რა მაქსიმალური სიჩქარით მოძრაობის უფლება აქვს არაგაბარიტული (მსხვილგაბარიტიანი) ან ზენორმატიული (მძიმეწონიანი) სატრანსპორტო საშუალების მძღოლს დასახლებულ ან დაუსახლებელ პუნქტში?",
-      "answers": [
-        "40 კმ/სთ სიჩქარით",
-        "60 კმ/სთ სიჩქარით",
-        "არა უმეტეს იმ სიჩქარით, რომელიც მითითებულია საქართველოს კანონმდებლობით დადგენილი წესით უფლებამოსილი ორგანოს (უწყების) მიერ გაცემულ შეთანხმებაში"
-      ]
-    },
-    {
-      "id": 35,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "რა მაქსიმალური სიჩქარით შეუძლია მოძრაობის გაგრძელება სატვირთო ავტომობილის მძღოლს,თუ ბუქსირება ხდება ხისტი გადაბმით?",
-      "answers": [
-        "50 კმ/სთ სიჩქარით",
-        "60 კმ/სთ სიჩქარით",
-        "80 კმ/სთ სიჩქარით"
-      ]
-    },
-    {
-      "id": 36,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "ხიდის, ესტაკადის, მაღალი ძაბვის გადამცემი ხაზის ქვეშ, აგრეთვე გვირაბში გავლამდე, ავტობუსისა და სატვირთო ავტომობილის მძღოლი ვალდებულია:",
-      "answers": [
-        "გზა დაუთმოს მსუბუქი ავტომობილის მძღოლებს",
-        "ჩართოს საავარიო შუქსიგნალიზაცია",
-        "დარწმუნდეს სატრანსპორტო საშუალების გავლის უსაფრთხოებაში"
-      ]
-    },
-    {
-      "id": 37,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "საცნობი ნიშანი „ავტომატარებელი“ უნდა ჩაირთოს:",
-      "answers": [
-        "მხოლოდ დღე-ღამის ბნელ დროს ავტომატარებლის მოძრაობისას",
-        "ავტომატარებლის მოძრაობისას, ხოლო დღე-ღამის ბნელ დროს და არასაკმარისი ხილვადობის პირობებში – მისი გაჩერებისა და დგომის პერიოდშიც",
-        "მხოლოდ ავტომატარებლის მოძრაობისას არასაკმარისი ხილვადობის პერიოდში"
-      ]
-    },
-    {
-      "id": 38,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "დღის ნათელ დროს გზაზე მოძრავი სახიფათო ტვირთის გადამზიდავი მექანიკური სატრანსპორტო საშუალების აღნიშვნის მიზნით, სავალდებულოა:",
-      "answers": [
-        "მხოლოდ წინა საგაბარიტო სინათლეების ჩართვა",
-        "მხოლოდ უკანა საგაბარიტო სინათლეების ჩართვა",
-        "ახლო განათების ფარებისა და უკანა საგაბარიტო სინათლეების ჩართვა"
-      ]
-    },
-    {
-      "id": 39,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "დღის ნათელ დროს გზაზე მოძრავი არაგაბარიტულ (მსხვილგაბარიტიანი) ან ზენორმატიულ (მძიმეწონიანი) მექანიკური სატრანსპორტო საშუალების აღნიშვნის მიზნით სავალდებულოა ჩაირთოს:",
-      "answers": [
-        "ახლო განათების ფარები და უკანა საგაბარიტო სინათლეები",
-        "ნისლსაწინააღმდეგო ფარები",
-        "შორი განათების ფარები"
-      ]
-    }
-  
+  {
+    "id": 32,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მაქსიმალური სიჩქარით შეუძლია იმოძრაოს ძარით მგზავრების გადამყვან „C“ კატეგორიის სატრანსპორტო საშუალებას მოცემული საგზაო ნიშნით აღნიშნულ გზაზე?",
+    "answers": [
+      "50 კმ/სთ სიჩქარით",
+      "60 კმ/სთ სიჩქარით",
+      "80 კმ/სთ სიჩქარით",
+      "90 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 33,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნის მოქმედების ზონაში „C“ და „CE“ კატეგორიის სატრანსპორტო საშუალებებით მოძრაობა ნებადართულია არაუმეტეს:",
+    "answers": [
+      "70 კმ/სთ სიჩქარით",
+      "80 კმ/სთ სიჩქარით",
+      "90 კმ/სთ სიჩქარით",
+      "110 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 34,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მაქსიმალური სიჩქარით მოძრაობის უფლება აქვს არაგაბარიტული (მსხვილგაბარიტიანი) ან ზენორმატიული (მძიმეწონიანი) სატრანსპორტო საშუალების მძღოლს დასახლებულ ან დაუსახლებელ პუნქტში?",
+    "answers": [
+      "40 კმ/სთ სიჩქარით",
+      "60 კმ/სთ სიჩქარით",
+      "არა უმეტეს იმ სიჩქარით, რომელიც მითითებულია საქართველოს კანონმდებლობით დადგენილი წესით უფლებამოსილი ორგანოს (უწყების) მიერ გაცემულ შეთანხმებაში"
+    ]
+  },
+  {
+    "id": 35,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "რა მაქსიმალური სიჩქარით შეუძლია მოძრაობის გაგრძელება სატვირთო ავტომობილის მძღოლს,თუ ბუქსირება ხდება ხისტი გადაბმით?",
+    "answers": [
+      "50 კმ/სთ სიჩქარით",
+      "60 კმ/სთ სიჩქარით",
+      "80 კმ/სთ სიჩქარით"
+    ]
+  },
+  {
+    "id": 36,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ხიდის, ესტაკადის, მაღალი ძაბვის გადამცემი ხაზის ქვეშ, აგრეთვე გვირაბში გავლამდე, ავტობუსისა და სატვირთო ავტომობილის მძღოლი ვალდებულია:",
+    "answers": [
+      "გზა დაუთმოს მსუბუქი ავტომობილის მძღოლებს",
+      "ჩართოს საავარიო შუქსიგნალიზაცია",
+      "დარწმუნდეს სატრანსპორტო საშუალების გავლის უსაფრთხოებაში"
+    ]
+  },
+  {
+    "id": 37,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "საცნობი ნიშანი „ავტომატარებელი“ უნდა ჩაირთოს:",
+    "answers": [
+      "მხოლოდ დღე-ღამის ბნელ დროს ავტომატარებლის მოძრაობისას",
+      "ავტომატარებლის მოძრაობისას, ხოლო დღე-ღამის ბნელ დროს და არასაკმარისი ხილვადობის პირობებში – მისი გაჩერებისა და დგომის პერიოდშიც",
+      "მხოლოდ ავტომატარებლის მოძრაობისას არასაკმარისი ხილვადობის პერიოდში"
+    ]
+  },
+  {
+    "id": 38,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღის ნათელ დროს გზაზე მოძრავი სახიფათო ტვირთის გადამზიდავი მექანიკური სატრანსპორტო საშუალების აღნიშვნის მიზნით, სავალდებულოა:",
+    "answers": [
+      "მხოლოდ წინა საგაბარიტო სინათლეების ჩართვა",
+      "მხოლოდ უკანა საგაბარიტო სინათლეების ჩართვა",
+      "ახლო განათების ფარებისა და უკანა საგაბარიტო სინათლეების ჩართვა"
+    ]
+  },
+  {
+    "id": 39,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღის ნათელ დროს გზაზე მოძრავი არაგაბარიტულ (მსხვილგაბარიტიანი) ან ზენორმატიულ (მძიმეწონიანი) მექანიკური სატრანსპორტო საშუალების აღნიშვნის მიზნით სავალდებულოა ჩაირთოს:",
+    "answers": [
+      "ახლო განათების ფარები და უკანა საგაბარიტო სინათლეები",
+      "ნისლსაწინააღმდეგო ფარები",
+      "შორი განათების ფარები"
+    ]
+  }
 ]

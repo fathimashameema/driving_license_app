@@ -2,6 +2,7 @@
   {
     "id": 1223,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -15,6 +16,7 @@
   {
     "id": 1224,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -29,6 +31,7 @@
   {
     "id": 1225,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -43,6 +46,7 @@
   {
     "id": 1226,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -57,6 +61,7 @@
   {
     "id": 1227,
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -71,6 +76,7 @@
   {
     "id": 1228,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -84,6 +90,7 @@
   {
     "id": 1229,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -97,6 +104,7 @@
   {
     "id": 1230,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -108,110 +116,117 @@
       "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
     ]
   },
-    {
-      "id": 1231,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "მექანიკური გადაცემათა კოლოფის მქონე სატრანსპორტო საშუალების ციცაბო დაღმართზე მოძრაობისას დამუხრუჭების ეფექტური ხერხია:",
-      "answers": [
-        "პერიოდული მკვეთრი დამუხრუჭება გამორთული გადაბმულობით",
-        "პერიოდული მდორე დამუხრუჭება ჩართული გადაბმულობითა და გადაცემათა კოლოფით",
-        "დამუხუჭება ძრავით"
-      ]
-    },
-    {
-      "id": 1232,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "მექანიკური გადაცემათა კოლოფის მქონე ავტომობილის მკვეთრ დაღმართზე ძრავით დამუხრუჭებისას მძღოლმა გადაცემის შერჩევისას უნდა გაითვალისწინოს რომ:",
-      "answers": [
-        "რაც უფრო მკვეთრია დაღმართი, მით უფრო მაღალი უნდა იყოს გადაცემა",
-        "რაც უფრო მკვეთრია დაღმართი, მით უფრო დაბალი უნდა იყოს გადაცემა",
-        "გადაცემის შერჩევა დამოკიდებული არ არის დაღმართის სიმკვეთრეზე"
-      ]
-    },
-    {
-      "id": 1233,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "ექსტრემალურ სიტუაციაში სატრანსპორტო საშუალების გაჩერებისას სამუხრუჭე მანძილის შემცირება მძღოლმა უნდა მოახდინოს:",
-      "answers": [
-        "ერთჯერადი მკვეთრი დამუხრუჭებით თვლების სრულ ბლოკირებამდე",
-        "თვლების ბლოკირების ზღვარზე მრავალჯერადი მკვეთრი ზემოქმედებით მუხრუჭის სატერფულზე"
-      ]
-    },
-    {
-      "id": 1234,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "სატრანსპორტო საშუალების მოძრაობის სიჩქარის გაზრდისას საბურავის გზასთან ჩაჭიდების ძალა:",
-      "answers": [
-        "იზრდება",
-        "მცირდება",
-        "არ იცვლება"
-      ]
-    },
-    {
-      "id": 1235,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "რაზეა დამოკიდებული სატრანსპორტო საშუალების სამუხრუჭო მანძილი?",
-      "answers": [
-        "მხოლოდ სატრანსპორტო საშუალების სიჩქარეზე",
-        "მხოლოდ გზის საფარის მდგომარეობაზე",
-        "მხოლოდ სატრანსპორტო საშუალების საბურავების ცვეთაზე",
-        "ამ ბილეთში ჩამოთვლილ ნებისმიერ გარემოებაზე"
-      ]
-    },
-    {
-      "id": 1236,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "ციცაბო დაღმართზე მოძრაობისას, მექანიკური გადაცემათა კოლოფის მქონე სატრანსპორტო საშუალების ხანგრძლივმა დამუხრუჭებამ გამორთული გადაბმულობით შეიძლება გამოიწვიოს:",
-      "answers": [
-        "საჭით მართვის მექანიზმის მწყობრიდან გამოსვლა",
-        "სამუხრუჭე სისტემის გადახურება და დამუხრუჭების ეფექტურობის შემცირება",
-        "სამუხრუჭო მანძილის შემცირება",
-        "ამ ბილეთში ჩამოთვლილი ნებისმიერი გარემოება"
-      ]
-    },
-    {
-      "id": 1237,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "თუ ავტომობილის მარჯვენა თვლები გადავიდა არამდგრადი და სველი საფარის მქონე გვერდულზე, მიზანშეწონილია:",
-      "answers": [
-        "ავტომობილის მკვეთრი დამუხრუჭება მის სრულ გაჩერებამდე",
-        "დამუხრუჭების გარეშე ავტომობილის მდორედ დაბრუნება გზის სავალ ნაწილზე",
-        "სიჩქარის გაზრდა და ავტომობილის მიმართვა მარცხენა მხარეს"
-      ]
-    },
-    {
-      "id": 1238,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "თუ ავტომობილი აღჭურვილია მუხრუჭების ბლოკირების საწინააღმდეგო სისტემით (ABS):",
-      "answers": [
-        "მძღოლს შეუძლია დამუხრუჭება დაიწყოს მოგვიანებით, რადგან სამუხრუჭო მანძილი მცირდება",
-        "მატულობს სამუხრუჭო სისტემის სიმძლავრე",
-        "ასეთი ავტომობილი დამუხრუჭებისას უკეთ მართვადია"
-      ]
-    }
-  
+  {
+    "id": 1231,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მექანიკური გადაცემათა კოლოფის მქონე სატრანსპორტო საშუალების ციცაბო დაღმართზე მოძრაობისას დამუხრუჭების ეფექტური ხერხია:",
+    "answers": [
+      "პერიოდული მკვეთრი დამუხრუჭება გამორთული გადაბმულობით",
+      "პერიოდული მდორე დამუხრუჭება ჩართული გადაბმულობითა და გადაცემათა კოლოფით",
+      "დამუხუჭება ძრავით"
+    ]
+  },
+  {
+    "id": 1232,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "მექანიკური გადაცემათა კოლოფის მქონე ავტომობილის მკვეთრ დაღმართზე ძრავით დამუხრუჭებისას მძღოლმა გადაცემის შერჩევისას უნდა გაითვალისწინოს რომ:",
+    "answers": [
+      "რაც უფრო მკვეთრია დაღმართი, მით უფრო მაღალი უნდა იყოს გადაცემა",
+      "რაც უფრო მკვეთრია დაღმართი, მით უფრო დაბალი უნდა იყოს გადაცემა",
+      "გადაცემის შერჩევა დამოკიდებული არ არის დაღმართის სიმკვეთრეზე"
+    ]
+  },
+  {
+    "id": 1233,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ექსტრემალურ სიტუაციაში სატრანსპორტო საშუალების გაჩერებისას სამუხრუჭე მანძილის შემცირება მძღოლმა უნდა მოახდინოს:",
+    "answers": [
+      "ერთჯერადი მკვეთრი დამუხრუჭებით თვლების სრულ ბლოკირებამდე",
+      "თვლების ბლოკირების ზღვარზე მრავალჯერადი მკვეთრი ზემოქმედებით მუხრუჭის სატერფულზე"
+    ]
+  },
+  {
+    "id": 1234,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "სატრანსპორტო საშუალების მოძრაობის სიჩქარის გაზრდისას საბურავის გზასთან ჩაჭიდების ძალა:",
+    "answers": [
+      "იზრდება",
+      "მცირდება",
+      "არ იცვლება"
+    ]
+  },
+  {
+    "id": 1235,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "რაზეა დამოკიდებული სატრანსპორტო საშუალების სამუხრუჭო მანძილი?",
+    "answers": [
+      "მხოლოდ სატრანსპორტო საშუალების სიჩქარეზე",
+      "მხოლოდ გზის საფარის მდგომარეობაზე",
+      "მხოლოდ სატრანსპორტო საშუალების საბურავების ცვეთაზე",
+      "ამ ბილეთში ჩამოთვლილ ნებისმიერ გარემოებაზე"
+    ]
+  },
+  {
+    "id": 1236,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "ციცაბო დაღმართზე მოძრაობისას, მექანიკური გადაცემათა კოლოფის მქონე სატრანსპორტო საშუალების ხანგრძლივმა დამუხრუჭებამ გამორთული გადაბმულობით შეიძლება გამოიწვიოს:",
+    "answers": [
+      "საჭით მართვის მექანიზმის მწყობრიდან გამოსვლა",
+      "სამუხრუჭე სისტემის გადახურება და დამუხრუჭების ეფექტურობის შემცირება",
+      "სამუხრუჭო მანძილის შემცირება",
+      "ამ ბილეთში ჩამოთვლილი ნებისმიერი გარემოება"
+    ]
+  },
+  {
+    "id": 1237,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "თუ ავტომობილის მარჯვენა თვლები გადავიდა არამდგრადი და სველი საფარის მქონე გვერდულზე, მიზანშეწონილია:",
+    "answers": [
+      "ავტომობილის მკვეთრი დამუხრუჭება მის სრულ გაჩერებამდე",
+      "დამუხრუჭების გარეშე ავტომობილის მდორედ დაბრუნება გზის სავალ ნაწილზე",
+      "სიჩქარის გაზრდა და ავტომობილის მიმართვა მარცხენა მხარეს"
+    ]
+  },
+  {
+    "id": 1238,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "თუ ავტომობილი აღჭურვილია მუხრუჭების ბლოკირების საწინააღმდეგო სისტემით (ABS):",
+    "answers": [
+      "მძღოლს შეუძლია დამუხრუჭება დაიწყოს მოგვიანებით, რადგან სამუხრუჭო მანძილი მცირდება",
+      "მატულობს სამუხრუჭო სისტემის სიმძლავრე",
+      "ასეთი ავტომობილი დამუხრუჭებისას უკეთ მართვადია"
+    ]
+  }
 ]

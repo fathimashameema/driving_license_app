@@ -2,6 +2,7 @@
   {
     "id": 978,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_978.mp4",
     "wrongVideo": "assets/videos/wrong_978.mp4",
     "previewVideo": "assets/videos/preview_978.mp4",
@@ -14,6 +15,7 @@
   {
     "id": 979,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_979.mp4",
     "wrongVideo": "assets/videos/wrong_979.mp4",
     "previewVideo": "assets/videos/preview_979.mp4",
@@ -26,6 +28,7 @@
   {
     "id": 980,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_980.mp4",
     "wrongVideo": "assets/videos/wrong_980.mp4",
     "previewVideo": "assets/videos/preview_980.mp4",
@@ -39,6 +42,7 @@
   {
     "id": 981,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_981.mp4",
     "wrongVideo": "assets/videos/wrong_981.mp4",
     "previewVideo": "assets/videos/preview_981.mp4",
@@ -52,6 +56,7 @@
   {
     "id": 982,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_982.mp4",
     "wrongVideo": "assets/videos/wrong_982.mp4",
     "previewVideo": "assets/videos/preview_982.mp4",
@@ -64,6 +69,7 @@
   {
     "id": 983,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_983.mp4",
     "wrongVideo": "assets/videos/wrong_983.mp4",
     "previewVideo": "assets/videos/preview_983.mp4",
@@ -76,6 +82,7 @@
   {
     "id": 984,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_984.mp4",
     "wrongVideo": "assets/videos/wrong_984.mp4",
     "previewVideo": "assets/videos/preview_984.mp4",
@@ -90,6 +97,7 @@
   {
     "id": 985,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_985.mp4",
     "wrongVideo": "assets/videos/wrong_985.mp4",
     "previewVideo": "assets/videos/preview_985.mp4",
@@ -103,6 +111,7 @@
   {
     "id": 986,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_986.mp4",
     "wrongVideo": "assets/videos/wrong_986.mp4",
     "previewVideo": "assets/videos/preview_986.mp4",
@@ -116,6 +125,7 @@
   {
     "id": 987,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_987.mp4",
     "wrongVideo": "assets/videos/wrong_987.mp4",
     "previewVideo": "assets/videos/preview_987.mp4",
@@ -130,6 +140,7 @@
   {
     "id": 988,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_988.mp4",
     "wrongVideo": "assets/videos/wrong_988.mp4",
     "previewVideo": "assets/videos/preview_988.mp4",
@@ -144,6 +155,7 @@
   {
     "id": 989,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_989.mp4",
     "wrongVideo": "assets/videos/wrong_989.mp4",
     "previewVideo": "assets/videos/preview_989.mp4",
@@ -154,137 +166,146 @@
       "3\nმხოლოდ I და II"
     ]
   },
-    {
-      "id": 990,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_990.mp4",
-      "wrongVideo": "assets/videos/wrong_990.mp4",
-      "previewVideo": "assets/videos/preview_990.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს დასახლებული პუნქტის დასაწყისს, რომელიც არ შედის რომელიმე დასახლებულ პუნქტში და რომელშიც მოქმედებს დასახლებულ პუნქტებში მოძრაობისათვის დადგენილი წესები (სააგარაკო დაბები, ცალკე მდგომი დაწესებულებები და ა. შ.)?",
-      "answers": [
-        "1\nI",
-        "2\nII",
-        "3\nIII"
-      ]
-    },
-    {
-      "id": 991,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_991.mp4",
-      "wrongVideo": "assets/videos/wrong_991.mp4",
-      "previewVideo": "assets/videos/preview_991.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ტერიტორიას, რომლის ფარგლებში შეზღუდულია მოძრაობის მაქსიმალური სიჩქარე?",
-      "answers": [
-        "1\nI",
-        "2\nII",
-        "3\nIII",
-        "4\nIV"
-      ]
-    },
-    {
-      "id": 992,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_992.mp4",
-      "wrongVideo": "assets/videos/wrong_992.mp4",
-      "previewVideo": "assets/videos/preview_992.mp4",
-      "question": "საცნობი ნიშნი „ავტომატარებელი” სავალდებულოა დამაგრდეს:",
-      "answers": [
-        "1\nმხოლოდ ავტომატარებელზე",
-        "2\nმხოლოდ შესახსრებულ ავტობუსზე",
-        "3\nროგორც ავტომატარებელზე, ასევე შესახსრებულ ავტობუსზე"
-      ]
-    },
-    {
-      "id": 993,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_993.mp4",
-      "wrongVideo": "assets/videos/wrong_993.mp4",
-      "previewVideo": "assets/videos/preview_993.mp4",
-      "question": "სავალ ნაწილზე ღამის საათებში მოძრაობისას შესაბმელი, სასაპალნე ან საჯდომი პირუტყვის ან ნახირის მეხრეებმა, მოძრაობის მარცხენა მხრიდან უნდა იქონიონ:",
-      "answers": [
-        "1\nმხოლოდ წინ -სულ მცირე ერთი თეთრი ან ყვითელი სელექციური სინათლე",
-        "2\nმხოლოდ უკან - სულ მცირე ერთი წითელი სინათლე",
-        "3\nწინ -სულ მცირე ერთი თეთრი ან ყვითელი სელექციური სინათლე, ხოლო უკან - სულ მცირე ერთი წითელი სინათლე"
-      ]
-    },
-    {
-      "id": 994,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_994.mp4",
-      "wrongVideo": "assets/videos/wrong_994.mp4",
-      "previewVideo": "assets/videos/preview_994.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ავტომაგისტრალთან სხვა გზიდან ამოსასვლელის შერწყმის ადგილს?",
-      "answers": [
-        "1\nI",
-        "2\nII",
-        "3\nIII",
-        "4\nIV"
-      ]
-    },
-    {
-      "id": 995,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_995.mp4",
-      "wrongVideo": "assets/videos/wrong_995.mp4",
-      "previewVideo": "assets/videos/preview_995.mp4",
-      "question": "რომელი საცნობი ნიშანი მაგრდება ავტომატარებელზე და შესახსრებულ ავტობუსზე?",
-      "answers": [
-        "1\nმხოლოდ I",
-        "2\nმხოლოდ II",
-        "3\nმხოლოდ III",
-        "4\nსამივე"
-      ]
-    },
-    {
-      "id": 996,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_996.mp4",
-      "wrongVideo": "assets/videos/wrong_996.mp4",
-      "previewVideo": "assets/videos/preview_996.mp4",
-      "question": "რომელი საცნობი ნიშანი მაგრდება იმ სატრანსპორტო საშუალების უკანა მხარეს, რომლის სიგრძე ტვირთით ან უმისოდ აღემატება 20 მეტრს, და ავტომატარებელზე ორი ან მეტი მისაბმელით?",
-      "answers": [
-        "1\nმხოლოდ III",
-        "2\nმხოლოდ II",
-        "3\nმხოლოდ I"
-      ]
-    },
-    {
-      "id": 997,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_997.mp4",
-      "wrongVideo": "assets/videos/wrong_997.mp4",
-      "previewVideo": "assets/videos/preview_997.mp4",
-      "question": "რომელ სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-      "answers": [
-        "1\nველოსიპედის მძღოლს",
-        "2\nმსუბუქი ავტომობილის მძღოლს"
-      ]
-    },
-    {
-      "id": 998,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_998.mp4",
-      "wrongVideo": "assets/videos/wrong_998.mp4",
-      "previewVideo": "assets/videos/preview_998.mp4",
-      "question": "თუ სატრანსპორტო საშუალების წინ გზის სავალ ნაწილზე გადადის საქონლის ჯოგი, მძღოლმა უნდა გაითვალისწინოს, რომ:",
-      "answers": [
-        "1\nჯოგის გადასვლის შემდეგ გზის სავალ ნაწილზე აღარ შეიძლება გამოვიდეს ცალკეული საქონელი",
-        "2\nჯოგის გადასვლის შემდეგ გზის სავალ ნაწილზე კიდე შეიძლება გამოვიდეს ჯოგს ჩამორჩენილი ცალკეული საქონელი"
-      ]
-    },
-    {
-      "id": 999,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct_999.mp4",
-      "wrongVideo": "assets/videos/wrong_999.mp4",
-      "previewVideo": "assets/videos/preview_999.mp4",
-      "question": "თუ სატრანსპორტო საშუალების წინ ქვეითთა გადასასვლელზე გადაადგილდება მოხუცი ქვეითი, მძღოლმა უნდა გაითვალისწინოს:",
-      "answers": [
-        "1\nმხოლოდ გარემოება, რომ ის სავალ ნაწილზე მოძრაობს უფრო ნელა ვიდრე სხვა საგზაო მოძრაობის მონაწილეები",
-        "2\nმხოლოდ გარემოება, რომ ის შეიძლება ნახევარი გზიდან მობრუნდეს უკან",
-        "3\nმხოლოდ გარემოება, რომ მან შეიძლება დაკარგოს წონასწორობა და წაიქცეს",
-        "4\nრომ შეიძლება წარმოიშვას ამ ბილეთში ჩამოთვლილი ნებისმიერი გარემოება"
-      ]
-    }
-    
+  {
+    "id": 990,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_990.mp4",
+    "wrongVideo": "assets/videos/wrong_990.mp4",
+    "previewVideo": "assets/videos/preview_990.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს დასახლებული პუნქტის დასაწყისს, რომელიც არ შედის რომელიმე დასახლებულ პუნქტში და რომელშიც მოქმედებს დასახლებულ პუნქტებში მოძრაობისათვის დადგენილი წესები (სააგარაკო დაბები, ცალკე მდგომი დაწესებულებები და ა. შ.)?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII"
+    ]
+  },
+  {
+    "id": 991,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_991.mp4",
+    "wrongVideo": "assets/videos/wrong_991.mp4",
+    "previewVideo": "assets/videos/preview_991.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ტერიტორიას, რომლის ფარგლებში შეზღუდულია მოძრაობის მაქსიმალური სიჩქარე?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 992,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_992.mp4",
+    "wrongVideo": "assets/videos/wrong_992.mp4",
+    "previewVideo": "assets/videos/preview_992.mp4",
+    "question": "საცნობი ნიშნი „ავტომატარებელი” სავალდებულოა დამაგრდეს:",
+    "answers": [
+      "1\nმხოლოდ ავტომატარებელზე",
+      "2\nმხოლოდ შესახსრებულ ავტობუსზე",
+      "3\nროგორც ავტომატარებელზე, ასევე შესახსრებულ ავტობუსზე"
+    ]
+  },
+  {
+    "id": 993,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_993.mp4",
+    "wrongVideo": "assets/videos/wrong_993.mp4",
+    "previewVideo": "assets/videos/preview_993.mp4",
+    "question": "სავალ ნაწილზე ღამის საათებში მოძრაობისას შესაბმელი, სასაპალნე ან საჯდომი პირუტყვის ან ნახირის მეხრეებმა, მოძრაობის მარცხენა მხრიდან უნდა იქონიონ:",
+    "answers": [
+      "1\nმხოლოდ წინ -სულ მცირე ერთი თეთრი ან ყვითელი სელექციური სინათლე",
+      "2\nმხოლოდ უკან - სულ მცირე ერთი წითელი სინათლე",
+      "3\nწინ -სულ მცირე ერთი თეთრი ან ყვითელი სელექციური სინათლე, ხოლო უკან - სულ მცირე ერთი წითელი სინათლე"
+    ]
+  },
+  {
+    "id": 994,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_994.mp4",
+    "wrongVideo": "assets/videos/wrong_994.mp4",
+    "previewVideo": "assets/videos/preview_994.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ავტომაგისტრალთან სხვა გზიდან ამოსასვლელის შერწყმის ადგილს?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 995,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_995.mp4",
+    "wrongVideo": "assets/videos/wrong_995.mp4",
+    "previewVideo": "assets/videos/preview_995.mp4",
+    "question": "რომელი საცნობი ნიშანი მაგრდება ავტომატარებელზე და შესახსრებულ ავტობუსზე?",
+    "answers": [
+      "1\nმხოლოდ I",
+      "2\nმხოლოდ II",
+      "3\nმხოლოდ III",
+      "4\nსამივე"
+    ]
+  },
+  {
+    "id": 996,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_996.mp4",
+    "wrongVideo": "assets/videos/wrong_996.mp4",
+    "previewVideo": "assets/videos/preview_996.mp4",
+    "question": "რომელი საცნობი ნიშანი მაგრდება იმ სატრანსპორტო საშუალების უკანა მხარეს, რომლის სიგრძე ტვირთით ან უმისოდ აღემატება 20 მეტრს, და ავტომატარებელზე ორი ან მეტი მისაბმელით?",
+    "answers": [
+      "1\nმხოლოდ III",
+      "2\nმხოლოდ II",
+      "3\nმხოლოდ I"
+    ]
+  },
+  {
+    "id": 997,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_997.mp4",
+    "wrongVideo": "assets/videos/wrong_997.mp4",
+    "previewVideo": "assets/videos/preview_997.mp4",
+    "question": "რომელ სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "1\nველოსიპედის მძღოლს",
+      "2\nმსუბუქი ავტომობილის მძღოლს"
+    ]
+  },
+  {
+    "id": 998,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_998.mp4",
+    "wrongVideo": "assets/videos/wrong_998.mp4",
+    "previewVideo": "assets/videos/preview_998.mp4",
+    "question": "თუ სატრანსპორტო საშუალების წინ გზის სავალ ნაწილზე გადადის საქონლის ჯოგი, მძღოლმა უნდა გაითვალისწინოს, რომ:",
+    "answers": [
+      "1\nჯოგის გადასვლის შემდეგ გზის სავალ ნაწილზე აღარ შეიძლება გამოვიდეს ცალკეული საქონელი",
+      "2\nჯოგის გადასვლის შემდეგ გზის სავალ ნაწილზე კიდე შეიძლება გამოვიდეს ჯოგს ჩამორჩენილი ცალკეული საქონელი"
+    ]
+  },
+  {
+    "id": 999,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_999.mp4",
+    "wrongVideo": "assets/videos/wrong_999.mp4",
+    "previewVideo": "assets/videos/preview_999.mp4",
+    "question": "თუ სატრანსპორტო საშუალების წინ ქვეითთა გადასასვლელზე გადაადგილდება მოხუცი ქვეითი, მძღოლმა უნდა გაითვალისწინოს:",
+    "answers": [
+      "1\nმხოლოდ გარემოება, რომ ის სავალ ნაწილზე მოძრაობს უფრო ნელა ვიდრე სხვა საგზაო მოძრაობის მონაწილეები",
+      "2\nმხოლოდ გარემოება, რომ ის შეიძლება ნახევარი გზიდან მობრუნდეს უკან",
+      "3\nმხოლოდ გარემოება, რომ მან შეიძლება დაკარგოს წონასწორობა და წაიქცეს",
+      "4\nრომ შეიძლება წარმოიშვას ამ ბილეთში ჩამოთვლილი ნებისმიერი გარემოება"
+    ]
+  }
 ]

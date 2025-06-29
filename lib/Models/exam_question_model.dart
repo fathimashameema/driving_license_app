@@ -21,6 +21,8 @@ class ExamQuestionModel {
   bool? isExpanded;
   @HiveField(8)
   int? selectedIndex;
+  @HiveField(9)
+  String? imageUrl;
 
   ExamQuestionModel({
     required this.id,
@@ -32,6 +34,7 @@ class ExamQuestionModel {
     this.wrongVideo,
     this.isExpanded = false,
     this.selectedIndex,
+    this.imageUrl,
   });
 
   factory ExamQuestionModel.fromJson(Map<String, dynamic> json) {
@@ -45,6 +48,7 @@ class ExamQuestionModel {
         previewVideo: json['previewVideo'],
         correctVideo: json['correctVideo'],
         wrongVideo: json['wrongVideo'],
+        imageUrl: json['imageUrl'],
         isExpanded: false,
         selectedIndex: null);
   }

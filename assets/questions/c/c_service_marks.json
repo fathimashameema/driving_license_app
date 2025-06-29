@@ -2,6 +2,7 @@
   {
     "id": 7001,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -16,6 +17,7 @@
   {
     "id": 7002,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -30,6 +32,7 @@
   {
     "id": 7003,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -44,6 +47,7 @@
   {
     "id": 7004,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -58,6 +62,7 @@
   {
     "id": 7005,
     "correctAnswer": 4,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -72,6 +77,7 @@
   {
     "id": 7006,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -86,6 +92,7 @@
   {
     "id": 7007,
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -100,6 +107,7 @@
   {
     "id": 7008,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -114,6 +122,7 @@
   {
     "id": 7009,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -128,6 +137,7 @@
   {
     "id": 7010,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
@@ -138,136 +148,145 @@
       "აღნიშნავს გზის მონაკვეთს, რომელზედაც სავალი ნაწილის სიგანე ორივე მხრიდან ვიწროვდება"
     ]
   },
-    {
-      "id": 7011,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
-      "answers": [
-        "საპატრულო პოლიციის საგუშაგოს არსებობის შესახებ",
-        "საავარიო სამსახურთან რადიოკავშირის ზონის არსებობის შესახებ"
-      ]
-    },
-    {
-      "id": 7012,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საერთაშორისო საავტომობილო გადაზიდვების საკონტროლო პუნქტის შესახებ?",
-      "answers": [
-        "III",
-        "IV",
-        "I",
-        "II"
-      ]
-    },
-    {
-      "id": 7013,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
-      "answers": [
-        "საერთაშორისო საავტომობილო გადაზიდვების საკონტროლო პუნქტის არსებობის შესახებ",
-        "საპატრულო პოლიციის საგუშაგოს არსებობის შესახებ"
-      ]
-    },
-    {
-      "id": 7014,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
-      "answers": [
-        "საავარიო სამსახურთან რადიოკავშირის ზონის არსებობის თაობაზე",
-        "საგზაო მოძრაობის თაობაზე ინფორმაციას გადამცემი რადიოსადგურის მიღების ზონის არსებობის შესახებ"
-      ]
-    },
-    {
-      "id": 7015,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საგზაო მოძრაობის თაობაზე ინფორმაციას გადამცემი რადიოსადგურის მიღების ზონის არსებობის შესახებ.",
-      "answers": [
-        "IV",
-        "III",
-        "II",
-        "I"
-      ]
-    },
-    {
-      "id": 7016,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
-      "answers": [
-        "საავარიო სამსახურთან რადიოკავშირის ზონის არსებობის შესახებ",
-        "საგზაო მოძრაობის შესახებ ინფორმაციის გადამცემი რადიოსადგურის მიმღები ზონის არსებობის შესახებ"
-      ]
-    },
-    {
-      "id": 7017,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საავარიო სამსახურთან რადიოკავშირის ზონის არსებობის შესახებ?",
-      "answers": [
-        "IV",
-        "III",
-        "II",
-        "I"
-      ]
-    },
-    {
-      "id": 7018,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემულ სიტუაციაში, მძღოლს უფლება აქვს ხანგრძლივი დასვენების მიზნით ავტომობილი დააყენოს:",
-      "answers": [
-        "A ადგილას",
-        "B ადგილას",
-        "800 მეტრში სპეციალურად გამოყოფილ ადგილას ან გზის ფარგლებს მიღმა"
-      ]
-    },
-    {
-      "id": 7019,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "სატვირთო და ყვითელი მსუბუქი ავტომობილები აგრძელებენ მოძრაობას ისრის მიმართულებით,ხოლო თეთრი მსუბუქი ავტომობილის მძღოლი გაჩერებულია ხანგრძლივი დასვენების მიზნით. რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს,თუ მოცემული გზის შუა ზოლი ორივე მიმართულებით მოძრაობისათვის გამოიყენება?",
-      "answers": [
-        "მხოლოდ სატვირთო და თეთრი მსუბუქი ავტომობილის მძღოლები",
-        "მხოლოდ ყვითელი და თეთრი მსუბუქი ავტომობილის მძღოლები",
-        "მხოლოდ თეთრი მსუბუქი ავტომობილის მძღოლი",
-        "მხოლოდ ყვითელი მსუბუქი ავტომობილის მძღოლი"
-      ]
-    },
-    {
-      "id": 7020,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_19.mp4",
-      "wrongVideo": "assets/videos/wrong_19.mp4",
-      "previewVideo": "assets/videos/preview_19.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საცურაო აუზის ან პლიაჟის შესახებ?",
-      "answers": [
-        "II",
-        "I",
-        "IV",
-        "III"
-      ]
-    }
-  
+  {
+    "id": 7011,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
+    "answers": [
+      "საპატრულო პოლიციის საგუშაგოს არსებობის შესახებ",
+      "საავარიო სამსახურთან რადიოკავშირის ზონის არსებობის შესახებ"
+    ]
+  },
+  {
+    "id": 7012,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საერთაშორისო საავტომობილო გადაზიდვების საკონტროლო პუნქტის შესახებ?",
+    "answers": [
+      "III",
+      "IV",
+      "I",
+      "II"
+    ]
+  },
+  {
+    "id": 7013,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
+    "answers": [
+      "საერთაშორისო საავტომობილო გადაზიდვების საკონტროლო პუნქტის არსებობის შესახებ",
+      "საპატრულო პოლიციის საგუშაგოს არსებობის შესახებ"
+    ]
+  },
+  {
+    "id": 7014,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
+    "answers": [
+      "საავარიო სამსახურთან რადიოკავშირის ზონის არსებობის თაობაზე",
+      "საგზაო მოძრაობის თაობაზე ინფორმაციას გადამცემი რადიოსადგურის მიღების ზონის არსებობის შესახებ"
+    ]
+  },
+  {
+    "id": 7015,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საგზაო მოძრაობის თაობაზე ინფორმაციას გადამცემი რადიოსადგურის მიღების ზონის არსებობის შესახებ.",
+    "answers": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ]
+  },
+  {
+    "id": 7016,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშანი იძლევა ინფორმაციას:",
+    "answers": [
+      "საავარიო სამსახურთან რადიოკავშირის ზონის არსებობის შესახებ",
+      "საგზაო მოძრაობის შესახებ ინფორმაციის გადამცემი რადიოსადგურის მიმღები ზონის არსებობის შესახებ"
+    ]
+  },
+  {
+    "id": 7017,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საავარიო სამსახურთან რადიოკავშირის ზონის არსებობის შესახებ?",
+    "answers": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ]
+  },
+  {
+    "id": 7018,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, მძღოლს უფლება აქვს ხანგრძლივი დასვენების მიზნით ავტომობილი დააყენოს:",
+    "answers": [
+      "A ადგილას",
+      "B ადგილას",
+      "800 მეტრში სპეციალურად გამოყოფილ ადგილას ან გზის ფარგლებს მიღმა"
+    ]
+  },
+  {
+    "id": 7019,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატვირთო და ყვითელი მსუბუქი ავტომობილები აგრძელებენ მოძრაობას ისრის მიმართულებით,ხოლო თეთრი მსუბუქი ავტომობილის მძღოლი გაჩერებულია ხანგრძლივი დასვენების მიზნით. რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს,თუ მოცემული გზის შუა ზოლი ორივე მიმართულებით მოძრაობისათვის გამოიყენება?",
+    "answers": [
+      "მხოლოდ სატვირთო და თეთრი მსუბუქი ავტომობილის მძღოლები",
+      "მხოლოდ ყვითელი და თეთრი მსუბუქი ავტომობილის მძღოლები",
+      "მხოლოდ თეთრი მსუბუქი ავტომობილის მძღოლი",
+      "მხოლოდ ყვითელი მსუბუქი ავტომობილის მძღოლი"
+    ]
+  },
+  {
+    "id": 7020,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი იძლევა ინფორმაციას საცურაო აუზის ან პლიაჟის შესახებ?",
+    "answers": [
+      "II",
+      "I",
+      "IV",
+      "III"
+    ]
+  }
 ]

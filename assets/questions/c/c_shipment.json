@@ -2,6 +2,7 @@
   {
     "id": 46,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -14,6 +15,7 @@
   {
     "id": 47,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -27,6 +29,7 @@
   {
     "id": 48,
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -41,6 +44,7 @@
   {
     "id": 49,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -53,6 +57,7 @@
   {
     "id": 50,
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -67,6 +72,7 @@
   {
     "id": 51,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -80,6 +86,7 @@
   {
     "id": 52,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -93,6 +100,7 @@
   {
     "id": 53,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -106,6 +114,7 @@
   {
     "id": 54,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -119,6 +128,7 @@
   {
     "id": 55,
     "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -132,6 +142,7 @@
   {
     "id": 56,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -145,6 +156,7 @@
   {
     "id": 57,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
@@ -155,154 +167,164 @@
       "ვალდებულია, მხოლოდ იმ შემთხვევაში, თუ უსინათლო ქვეითი მოძრაობს არარეგულირებულ ქვეითთა გადასასვლელზე"
     ]
   },
-    {
-      "id": 58,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct_967.mp4",
-      "wrongVideo": "assets/videos/wrong_967.mp4",
-      "previewVideo": "assets/videos/preview_967.mp4",
-      "question": "სატრანსპორტო საშულებაზე გადასაზიდი ტვირთის განთავსებისას ან/და დამაგრებისას ქვემოთ ჩამოთვლილი რომელი მოთხოვნის გათვალისწინება არ არის სავალდებულო?",
-      "answers": [
-        "1\nსაფრთხე არ უნდა შეექმნას სხვა საგზაო მოძრაობის მონაწილეებს, ზიანი არ მიადგეს სახელმწიფო, საზოგადოებრივ და კერძო ქონებას, ტვირთი არ ეთრეოდეს და არ ცვიოდეს გზაზე",
-        "2\nარ უნდა იქნეს შეზღუდული ხილვადობა და მხედველობის არე, არ უნდა დაირღვეს სატრანსპორტო საშუალების მდგრადობა და არ გაძნელდეს მისი მართვა",
-        "3\nარ უნდა დაიფაროს სინათლეები, სდექ-სიგნალი, მოხვევის შუქ-მაჩვენებლები, შუქამრეკლი მოწყობილობები, რეგისტრაციის ნომერი და მარეგისტრირებელი სახელმწიფოს განმასხვავებელი ნიშანი, აგრეთვე ხელით მისაცემი სიგნალები",
-        "4\nამ ბილეთში ჩამოთვლილი ყველა მოთხოვნის გათვალისწინება სავალდებულოა"
-      ]
-    },
-    {
-      "id": 59,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct_968.mp4",
-      "wrongVideo": "assets/videos/wrong_968.mp4",
-      "previewVideo": "assets/videos/preview_968.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს მოძრაობის მიმართულებას მხოლოდ პირდაპირ?",
-      "answers": [
-        "1\nმხოლოდ II და IV",
-        "2\nმხოლოდ I",
-        "3\nმხოლოდ IV",
-        "4\nმხოლოდ III"
-      ]
-    },
-    {
-      "id": 60,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_969.mp4",
-      "wrongVideo": "assets/videos/wrong_969.mp4",
-      "previewVideo": "assets/videos/preview_969.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი რთავს მოძრაობის ნებას მხოლოდ მარჯვენა მიმართულებით?",
-      "answers": [
-        "1\nI",
-        "2\nII",
-        "3\nIII",
-        "4\nIV"
-      ]
-    },
-    {
-      "id": 61,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_970.mp4",
-      "wrongVideo": "assets/videos/wrong_970.mp4",
-      "previewVideo": "assets/videos/preview_970.mp4",
-      "question": "მოცემული საგზაო ნიშანი მიუთითებს:",
-      "answers": [
-        "1\nცალმხრივმოძრაობიან გზაზე ან სავალ ნაწილზე გასვლას",
-        "2\nგამყოფი ზოლის, უსაფრთხოების კუნძულის ან რაიმე დაბრკოლების შემოვლის მიმართულებას მხოლოდ მარჯვნიდან",
-        "3\nცალმხრივ მოძრაობიან გზას"
-      ]
-    },
-    {
-      "id": 62,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_971.mp4",
-      "wrongVideo": "assets/videos/wrong_971.mp4",
-      "previewVideo": "assets/videos/preview_971.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს დაბრკოლების გამყოფი ზოლის, უსაფრთხოების კუნძულის ან რაიმე დაბრკოლების შემოვლის მიმართულებას მხოლოდ მარცხნიდან?",
-      "answers": [
-        "1\nI",
-        "2\nII",
-        "3\nIII",
-        "4\nIV"
-      ]
-    },
-    {
-      "id": 63,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_972.mp4",
-      "wrongVideo": "assets/videos/wrong_972.mp4",
-      "previewVideo": "assets/videos/preview_972.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს მოძრაობის მიმართულებას მარჯვნივ ან მარცხნივ?",
-      "answers": [
-        "1\nI",
-        "2\nII",
-        "3\nIII",
-        "4\nIV"
-      ]
-    },
-    {
-      "id": 64,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct_973.mp4",
-      "wrongVideo": "assets/videos/wrong_973.mp4",
-      "previewVideo": "assets/videos/preview_973.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ქვეითთა მოძრაობისათვის განკუთვნილ, გზისგან განცალკევებულ ბილიკს?",
-      "answers": [
-        "1\nI",
-        "2\nII",
-        "3\nIII",
-        "4\nIV"
-      ]
-    },
-    {
-      "id": 65,
-      "correctAnswer": 3,
-      "correctVideo": "assets/videos/correct_974.mp4",
-      "wrongVideo": "assets/videos/wrong_974.mp4",
-      "previewVideo": "assets/videos/preview_974.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს სახიფათო ტვირთის გადამზიდი სატრანსპორტო საშუალებით ნებადართულ მოძრაობის მიმართულებას?",
-      "answers": [
-        "1\nI",
-        "2\nII",
-        "3\nIII",
-        "4\nIV"
-      ]
-    },
-    {
-      "id": 66,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_975.mp4",
-      "wrongVideo": "assets/videos/wrong_975.mp4",
-      "previewVideo": "assets/videos/preview_975.mp4",
-      "question": "აქვს თუ არა უფლება სატვირთო ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით?",
-      "answers": [
-        "1\nაქვს უფლება",
-        "2\nარ აქვს უფლება"
-      ]
-    },
-    {
-      "id": 67,
-      "correctAnswer": 1,
-      "correctVideo": "assets/videos/correct_976.mp4",
-      "wrongVideo": "assets/videos/wrong_976.mp4",
-      "previewVideo": "assets/videos/preview_976.mp4",
-      "question": "დაარღვეს თუ არა სახიფათო ტვირთის გადამზიდი სატვირთო ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-      "answers": [
-        "1\nარ დაარღვევს",
-        "2\nდაარღვევს"
-      ]
-    },
-    {
-      "id": 68,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct_977.mp4",
-      "wrongVideo": "assets/videos/wrong_977.mp4",
-      "previewVideo": "assets/videos/preview_977.mp4",
-      "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს სახიფათო ტვირთის გადამზიდი სატრანსპორტო საშუალებით ნებადართულ მოძრაობის მიმართულებას?",
-      "answers": [
-        "1\nმხოლოდ II",
-        "2\nმხოლოდ I",
-        "3\nმხოლოდ IV",
-        "4\nმხოლოდ III"
-      ]
-    }
-    
+  {
+    "id": 58,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_967.mp4",
+    "wrongVideo": "assets/videos/wrong_967.mp4",
+    "previewVideo": "assets/videos/preview_967.mp4",
+    "question": "სატრანსპორტო საშულებაზე გადასაზიდი ტვირთის განთავსებისას ან/და დამაგრებისას ქვემოთ ჩამოთვლილი რომელი მოთხოვნის გათვალისწინება არ არის სავალდებულო?",
+    "answers": [
+      "1\nსაფრთხე არ უნდა შეექმნას სხვა საგზაო მოძრაობის მონაწილეებს, ზიანი არ მიადგეს სახელმწიფო, საზოგადოებრივ და კერძო ქონებას, ტვირთი არ ეთრეოდეს და არ ცვიოდეს გზაზე",
+      "2\nარ უნდა იქნეს შეზღუდული ხილვადობა და მხედველობის არე, არ უნდა დაირღვეს სატრანსპორტო საშუალების მდგრადობა და არ გაძნელდეს მისი მართვა",
+      "3\nარ უნდა დაიფაროს სინათლეები, სდექ-სიგნალი, მოხვევის შუქ-მაჩვენებლები, შუქამრეკლი მოწყობილობები, რეგისტრაციის ნომერი და მარეგისტრირებელი სახელმწიფოს განმასხვავებელი ნიშანი, აგრეთვე ხელით მისაცემი სიგნალები",
+      "4\nამ ბილეთში ჩამოთვლილი ყველა მოთხოვნის გათვალისწინება სავალდებულოა"
+    ]
+  },
+  {
+    "id": 59,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_968.mp4",
+    "wrongVideo": "assets/videos/wrong_968.mp4",
+    "previewVideo": "assets/videos/preview_968.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს მოძრაობის მიმართულებას მხოლოდ პირდაპირ?",
+    "answers": [
+      "1\nმხოლოდ II და IV",
+      "2\nმხოლოდ I",
+      "3\nმხოლოდ IV",
+      "4\nმხოლოდ III"
+    ]
+  },
+  {
+    "id": 60,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_969.mp4",
+    "wrongVideo": "assets/videos/wrong_969.mp4",
+    "previewVideo": "assets/videos/preview_969.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი რთავს მოძრაობის ნებას მხოლოდ მარჯვენა მიმართულებით?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 61,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_970.mp4",
+    "wrongVideo": "assets/videos/wrong_970.mp4",
+    "previewVideo": "assets/videos/preview_970.mp4",
+    "question": "მოცემული საგზაო ნიშანი მიუთითებს:",
+    "answers": [
+      "1\nცალმხრივმოძრაობიან გზაზე ან სავალ ნაწილზე გასვლას",
+      "2\nგამყოფი ზოლის, უსაფრთხოების კუნძულის ან რაიმე დაბრკოლების შემოვლის მიმართულებას მხოლოდ მარჯვნიდან",
+      "3\nცალმხრივ მოძრაობიან გზას"
+    ]
+  },
+  {
+    "id": 62,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_971.mp4",
+    "wrongVideo": "assets/videos/wrong_971.mp4",
+    "previewVideo": "assets/videos/preview_971.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს დაბრკოლების გამყოფი ზოლის, უსაფრთხოების კუნძულის ან რაიმე დაბრკოლების შემოვლის მიმართულებას მხოლოდ მარცხნიდან?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 63,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_972.mp4",
+    "wrongVideo": "assets/videos/wrong_972.mp4",
+    "previewVideo": "assets/videos/preview_972.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს მოძრაობის მიმართულებას მარჯვნივ ან მარცხნივ?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 64,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_973.mp4",
+    "wrongVideo": "assets/videos/wrong_973.mp4",
+    "previewVideo": "assets/videos/preview_973.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ქვეითთა მოძრაობისათვის განკუთვნილ, გზისგან განცალკევებულ ბილიკს?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 65,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_974.mp4",
+    "wrongVideo": "assets/videos/wrong_974.mp4",
+    "previewVideo": "assets/videos/preview_974.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს სახიფათო ტვირთის გადამზიდი სატრანსპორტო საშუალებით ნებადართულ მოძრაობის მიმართულებას?",
+    "answers": [
+      "1\nI",
+      "2\nII",
+      "3\nIII",
+      "4\nIV"
+    ]
+  },
+  {
+    "id": 66,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_975.mp4",
+    "wrongVideo": "assets/videos/wrong_975.mp4",
+    "previewVideo": "assets/videos/preview_975.mp4",
+    "question": "აქვს თუ არა უფლება სატვირთო ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით?",
+    "answers": [
+      "1\nაქვს უფლება",
+      "2\nარ აქვს უფლება"
+    ]
+  },
+  {
+    "id": 67,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_976.mp4",
+    "wrongVideo": "assets/videos/wrong_976.mp4",
+    "previewVideo": "assets/videos/preview_976.mp4",
+    "question": "დაარღვეს თუ არა სახიფათო ტვირთის გადამზიდი სატვირთო ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "answers": [
+      "1\nარ დაარღვევს",
+      "2\nდაარღვევს"
+    ]
+  },
+  {
+    "id": 68,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_977.mp4",
+    "wrongVideo": "assets/videos/wrong_977.mp4",
+    "previewVideo": "assets/videos/preview_977.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს სახიფათო ტვირთის გადამზიდი სატრანსპორტო საშუალებით ნებადართულ მოძრაობის მიმართულებას?",
+    "answers": [
+      "1\nმხოლოდ II",
+      "2\nმხოლოდ I",
+      "3\nმხოლოდ IV",
+      "4\nმხოლოდ III"
+    ]
+  }
 ]

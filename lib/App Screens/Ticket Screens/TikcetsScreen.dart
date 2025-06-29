@@ -45,41 +45,53 @@ class TikcetsScreen extends StatelessWidget {
                 ),
               ),
 
-              /// Question
               Padding(
                 padding:
                     const EdgeInsets.symmetric(horizontal: 16, vertical: 18),
                 child: Container(
                   width: double.infinity,
-                  padding: const EdgeInsets.all(14),
                   decoration: BoxDecoration(
                     border: Border.all(color: Colors.white),
                   ),
-                  child: Text(
-                    question.question,
-                    style: const TextStyle(color: Colors.white),
+                  child: Column(
+                    children: [
+                      question.imageUrl != null
+                          ? Image.asset(question.imageUrl!)
+                          : SizedBox.shrink(),
+                      Padding(
+                        padding: const EdgeInsets.all(15.0),
+                        child: Text(
+                          question.question,
+                          style: const TextStyle(color: Colors.white),
+                        ),
+                      ),
+                    ],
                   ),
                 ),
               ),
 
               /// Options
-              ...List.generate(question.options.length, (i) {
-                return Padding(
-                  padding:
-                      const EdgeInsets.symmetric(horizontal: 16, vertical: 6),
-                  child: ExamOptionTile(
-                    index: i,
-                    text: question.options[i],
-                    selected: controller
-                            .selectedAnswers[controller.currentIndex.value] ==
-                        i,
-                    onTap: () => controller.selectOption(i),
-                    isCorrect: true,
+              Expanded(
+                child: SingleChildScrollView(
+                  child: Column(
+                    children: List.generate(question.options.length, (i) {
+                      return Padding(
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 16, vertical: 6),
+                        child: ExamOptionTile(
+                          index: i,
+                          text: question.options[i],
+                          selected: controller.selectedAnswers[
+                                  controller.currentIndex.value] ==
+                              i,
+                          onTap: () => controller.selectOption(i),
+                          isCorrect: true,
+                        ),
+                      );
+                    }),
                   ),
-                );
-              }),
-
-              const Spacer(),
+                ),
+              ),
 
               // Bottom navigation bar
               Container(
@@ -143,8 +155,10 @@ class TikcetsScreen extends StatelessWidget {
                           showTestPassedDialog(
                             context,
                             totalQuestions: controller.questions.length,
-                            answeredQuestions: controller.selectedAnswers.length,
-                            correctAnswers: controller.correctAnswersCount.value,
+                            answeredQuestions:
+                                controller.selectedAnswers.length,
+                            correctAnswers:
+                                controller.correctAnswersCount.value,
                           );
                         }
                       },

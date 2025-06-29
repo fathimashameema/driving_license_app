@@ -2,6 +2,7 @@
   {
     "id": 8001,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8001.mp4",
     "wrongVideo": "assets/videos/wrong_8001.mp4",
     "previewVideo": "assets/videos/preview_8001.mp4",
@@ -15,6 +16,7 @@
   {
     "id": 8002,
     "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8002.mp4",
     "wrongVideo": "assets/videos/wrong_8002.mp4",
     "previewVideo": "assets/videos/preview_8002.mp4",
@@ -27,6 +29,7 @@
   {
     "id": 8003,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8003.mp4",
     "wrongVideo": "assets/videos/wrong_8003.mp4",
     "previewVideo": "assets/videos/preview_8003.mp4",
@@ -39,6 +42,7 @@
   {
     "id": 8004,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8004.mp4",
     "wrongVideo": "assets/videos/wrong_8004.mp4",
     "previewVideo": "assets/videos/preview_8004.mp4",
@@ -51,6 +55,7 @@
   {
     "id": 8005,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8005.mp4",
     "wrongVideo": "assets/videos/wrong_8005.mp4",
     "previewVideo": "assets/videos/preview_8005.mp4",
@@ -65,6 +70,7 @@
   {
     "id": 8006,
     "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8006.mp4",
     "wrongVideo": "assets/videos/wrong_8006.mp4",
     "previewVideo": "assets/videos/preview_8006.mp4",
@@ -78,6 +84,7 @@
   {
     "id": 8007,
     "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8007.mp4",
     "wrongVideo": "assets/videos/wrong_8007.mp4",
     "previewVideo": "assets/videos/preview_8007.mp4",

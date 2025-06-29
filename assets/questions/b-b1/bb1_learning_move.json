@@ -1,39 +1,42 @@
 [
-    {
-      "id": 44,
-      "correctAnswer": 2,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "რომელი მიმართულებით არის აკრძალული სასწავლო ავტომობილის მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
-      "answers": [
-        "მხოლოდ A მიმართულებით",
-        "მხოლოდ B მიმართულებით",
-        "როგორც A, ასევე B მიმართულებით"
-      ]
-    },
-    {
-      "id": 45,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "აკრძალულია თუ არა სასწავლო ავტომობილის ისრის მიმართულებით მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
-      "answers": [
-        "აკრძალულია",
-        "არ არის აკრძალული"
-      ]
-    },
-    {
-      "id": 46,
-      "correctAnswer": 0,
-      "correctVideo": "assets/videos/correct.mp4",
-      "wrongVideo": "assets/videos/wrong.mp4",
-      "previewVideo": "assets/videos/preview.mp4",
-      "question": "აკრძალულია თუ არა სასწავლო ავტომობილის ისრის მიმართულებით მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
-      "answers": [
-        "აკრძალულია",
-        "არ არის აკრძალული"
-      ]
-    }
-  ]
+  {
+    "id": 44,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "რომელი მიმართულებით არის აკრძალული სასწავლო ავტომობილის მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
+    "answers": [
+      "მხოლოდ A მიმართულებით",
+      "მხოლოდ B მიმართულებით",
+      "როგორც A, ასევე B მიმართულებით"
+    ]
+  },
+  {
+    "id": 45,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "აკრძალულია თუ არა სასწავლო ავტომობილის ისრის მიმართულებით მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
+    "answers": [
+      "აკრძალულია",
+      "არ არის აკრძალული"
+    ]
+  },
+  {
+    "id": 46,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct.mp4",
+    "wrongVideo": "assets/videos/wrong.mp4",
+    "previewVideo": "assets/videos/preview.mp4",
+    "question": "აკრძალულია თუ არა სასწავლო ავტომობილის ისრის მიმართულებით მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
+    "answers": [
+      "აკრძალულია",
+      "არ არის აკრძალული"
+    ]
+  }
+]

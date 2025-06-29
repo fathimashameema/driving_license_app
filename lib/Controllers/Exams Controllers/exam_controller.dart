@@ -18,6 +18,7 @@ class ExamController extends GetxController {
   final answeredQuestions = <int>{}.obs;
   Timer? _timer;
   final RxBool playVideoFlag = false.obs;
+  final RxBool isLoading = true.obs;
 
   final RxString currentVideo = ''.obs;
   final RxBool videoPlaying = false.obs;
@@ -46,6 +47,7 @@ class ExamController extends GetxController {
   }
 
   void loadQuestions(String category) async {
+    isLoading.value = true;
     String questionFile;
 
     switch (category) {
@@ -67,6 +69,7 @@ class ExamController extends GetxController {
 
     final loadedQuestions = await loadExamQuestions(questionFile);
     questions.assignAll(loadedQuestions);
+    isLoading.value = false;
     if (questions.isNotEmpty) {
       _updateCurrentVideoForQuestion(currentIndex.value);
     }
