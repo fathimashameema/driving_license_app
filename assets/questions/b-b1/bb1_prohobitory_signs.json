@@ -1,6 +1,6 @@
 [
   {
-    "id": 925,
+    "id": 394,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "id": 926,
+    "id": 395,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "id": 927,
+    "id": 396,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "id": 928,
+    "id": 397,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "id": 929,
+    "id": 398,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -69,7 +69,7 @@
     ]
   },
   {
-    "id": 930,
+    "id": 399,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -83,7 +83,7 @@
     ]
   },
   {
-    "id": 931,
+    "id": 400,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "id": 932,
+    "id": 401,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -113,7 +113,7 @@
     ]
   },
   {
-    "id": 933,
+    "id": 402,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -128,7 +128,7 @@
     ]
   },
   {
-    "id": 934,
+    "id": 403,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -143,7 +143,7 @@
     ]
   },
   {
-    "id": 935,
+    "id": 404,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_935.mp4",
@@ -157,7 +157,7 @@
     ]
   },
   {
-    "id": 936,
+    "id": 405,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_936.mp4",
@@ -171,7 +171,7 @@
     ]
   },
   {
-    "id": 937,
+    "id": 406,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_937.mp4",
@@ -185,7 +185,7 @@
     ]
   },
   {
-    "id": 938,
+    "id": 407,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_938.mp4",
@@ -200,7 +200,7 @@
     ]
   },
   {
-    "id": 939,
+    "id": 408,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_939.mp4",
@@ -214,7 +214,7 @@
     ]
   },
   {
-    "id": 940,
+    "id": 409,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_940.mp4",
@@ -229,7 +229,7 @@
     ]
   },
   {
-    "id": 941,
+    "id": 410,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_941.mp4",
@@ -244,7 +244,7 @@
     ]
   },
   {
-    "id": 942,
+    "id": 411,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_942.mp4",
@@ -259,7 +259,7 @@
     ]
   },
   {
-    "id": 943,
+    "id": 412,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_943.mp4",
@@ -274,7 +274,7 @@
     ]
   },
   {
-    "id": 944,
+    "id": 413,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_944.mp4",
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "id": 945,
+    "id": 414,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -304,7 +304,7 @@
     ]
   },
   {
-    "id": 946,
+    "id": 415,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -319,7 +319,7 @@
     ]
   },
   {
-    "id": 947,
+    "id": 416,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -334,7 +334,7 @@
     ]
   },
   {
-    "id": 948,
+    "id": 417,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -349,7 +349,7 @@
     ]
   },
   {
-    "id": 949,
+    "id": 418,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -364,7 +364,7 @@
     ]
   },
   {
-    "id": 950,
+    "id": 419,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -379,7 +379,7 @@
     ]
   },
   {
-    "id": 951,
+    "id": 420,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -389,11 +389,11 @@
     "answers": [
       "1\nკრძალავს მოძრაობას ნიშანზე მითითებულზე მეტი სიჩქარით (კმ/სთ)",
       "2\nაღნიშნავს მინიმალური სიჩქარის შეზღუდვის დასასრულს",
-      "3\nაღნიშნავს საგზაო ნიშნის 3.24 „მაქსიმალური სიჩქარის შეზღუდვა” მოქმედების ზონის დასასრულს"
+      "3\nაღნიშნავს საგზაო ნიშნის 3.24 „მაქსიმალური სიჩქარის შეზღუდვა“ მოქმედების ზონის დასასრულს"
     ]
   },
   {
-    "id": 952,
+    "id": 421,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -408,7 +408,7 @@
     ]
   },
   {
-    "id": 953,
+    "id": 422,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -422,7 +422,7 @@
     ]
   },
   {
-    "id": 954,
+    "id": 423,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -436,13 +436,13 @@
     ]
   },
   {
-    "id": 955,
+    "id": 424,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს სატრანსპორტო საშუალების დგომას თვის ლუწ რიცხვებში?",
+    "question": "მოცემული საგზაო ნიშანი:",
     "answers": [
       "1\nII",
       "2\nI",
@@ -451,7 +451,7 @@
     ]
   },
   {
-    "id": 956,
+    "id": 425,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -466,23 +466,8 @@
     ]
   },
   {
-    "id": 957,
+    "id": 426,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს ფეთქებადი და ადვილადაალებადი ტვირთის გადამზიდი სატრანსპორტო საშუალების მოძრაობას, რომელიც მოქმედი კანონმდებლობით აღნიშნული უნდა იყოს შესაბამისი საცნობი ნიშნით?",
-    "answers": [
-      "1\nIII",
-      "2\nIV",
-      "3\nI",
-      "4\nII"
-    ]
-  },
-  {
-    "id": 958,
-    "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
@@ -496,7 +481,7 @@
     ]
   },
   {
-    "id": 959,
+    "id": 427,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -511,7 +496,7 @@
     ]
   },
   {
-    "id": 960,
+    "id": 428,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -526,7 +511,7 @@
     ]
   },
   {
-    "id": 961,
+    "id": 429,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -537,11 +522,11 @@
       "1\nმხოლოდ I, II და IV",
       "2\nმხოლოდ I და IV",
       "3\nმხოლოდ II და III",
-      "4\nმხოლოდ III და IV"
+      "4\nმხოლოდ I და IV"
     ]
   },
   {
-    "id": 962,
+    "id": 430,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -556,68 +541,8 @@
     ]
   },
   {
-    "id": 963,
+    "id": 431,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებაზე, რომელიც ემსახურება ნიშნის მოქმედების ზონაში მდებარე საწარმოს?",
-    "answers": [
-      "1\nმხოლოდ I, II და III",
-      "2\nმხოლოდ I, II და IV",
-      "3\nმხოლოდ II, III და IV",
-      "4\nყველა"
-    ]
-  },
-  {
-    "id": 964,
-    "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებაზე, რომელიც ემსახურება ან ეკუთვნის ნიშნის მოქმედების ზონაში მცხოვრებ ან მომუშავე პირს?",
-    "answers": [
-      "1\nმხოლოდ I და II",
-      "2\nმხოლოდ I და III",
-      "3\nმხოლოდ III და IV",
-      "4\nყველა მოცემული საგზაო ნიშნის"
-    ]
-  },
-  {
-    "id": 965,
-    "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებაზე, რომელიც ემსახურება ან ეკუთვნის ნიშნის მოქმედების ზონაში მცხოვრებ ან მომუშავე პირს?",
-    "answers": [
-      "1\nმხოლოდ I და II",
-      "2\nმხოლოდ I და III",
-      "3\nმხოლოდ III და IV",
-      "4\nმხოლოდ II და IV"
-    ]
-  },
-  {
-    "id": 966,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედება არ ვრცელდება სატრანსპორტო საშუალებაზე, რომელსაც მართავს მნიშვნელოვნად გამოხატული, ან მკვეთრად გამოხატული შეზღუდული შესაძლებლობების სტატუსის მქონე პირი, ან ტრანსპორტზე, რომელსაც გადაჰყავს აღნიშნული პირები?",
-    "answers": [
-      "1\nმხოლოდ I, III და IV",
-      "2\nმხოლოდ I, II და III",
-      "3\nმხოლოდ I, II და IV",
-      "4\nმხოლოდ II, III და IV"
-    ]
-  },
-  {
-    "id": 967,
-    "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
@@ -631,7 +556,7 @@
     ]
   },
   {
-    "id": 968,
+    "id": 432,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -646,7 +571,7 @@
     ]
   },
   {
-    "id": 969,
+    "id": 433,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -659,7 +584,7 @@
     ]
   },
   {
-    "id": 970,
+    "id": 434,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -674,7 +599,7 @@
     ]
   },
   {
-    "id": 971,
+    "id": 435,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -687,7 +612,7 @@
     ]
   },
   {
-    "id": 972,
+    "id": 436,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",

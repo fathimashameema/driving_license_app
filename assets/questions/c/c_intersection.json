@@ -1,6 +1,6 @@
 [
   {
-    "id": 90,
+    "id": 169,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "id": 91,
+    "id": 170,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -29,7 +29,7 @@
     ]
   },
   {
-    "id": 92,
+    "id": 171,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -43,7 +43,7 @@
     ]
   },
   {
-    "id": 93,
+    "id": 172,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "id": 94,
+    "id": 173,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "id": 95,
+    "id": 174,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": 96,
+    "id": 175,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "id": 97,
+    "id": 176,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "id": 98,
+    "id": 177,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "id": 99,
+    "id": 178,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "id": 100,
+    "id": 179,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -149,255 +149,11 @@
     "question": "რომელი სატრანსპორტო საშუალების მძღოლს ენიჭება უპირატესობა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
     "answers": [
       "მსუბუქი ავტომობილის მძღოლს",
-      "ტრამვაის მძღოლს"
-    ]
-  },
-  {
-    "id": 101,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ჯერ უნდა გაიაროს ტრამვაიმ, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - ყვითელმა ავტომობილმა",
-      "ჯერ უნდა გაიაროს სატვირთო ავტომობილმა, შემდეგ - ყვითელმა ავტომობილმა, ბოლოს - ტრამვაიმ",
-      "ჯერ უნდა გაიაროს ყვითელმა ავტომობილმა, შემდეგ - ტრამვაიმ, ბოლოს - სატვირთო ავტომობილმა"
-    ]
-  },
-  {
-    "id": 102,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "ვალდებულია თუ არა მსუბუქი ავტომობილის მძღოლი გზა დაუთმოს ქვეითებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ვალდებულია",
-      "არ არის ვალდებული"
-    ]
-  },
-  {
-    "id": 103,
-    "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "სავალი ნაწილის სიგანე არასაკმარისია მარცხენა ზოლიდან მოხვევისათვის, რომელი სატრანსპორტო საშუალების მიმართ ენიჭება უპირატესობა სატვირთო ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "მხოლოდ თეთრი მსუბუქი ავტომობილის მიმართ",
-      "მხოლოდ ლურჯი მსუბუქი ავტომობილის მიმართ",
-      "მხოლოდ მოტოციკლის მიმართ",
-      "არცერთი სატრანსპორტო საშუალების მიმართ"
-    ]
-  },
-  {
-    "id": 104,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "აქვს თუ არა უფლება მძღოლს გავიდეს გზაჯვარედინზე, რომელზეც შექმნილია ისეთი ხერგილი, რომ იგი სავარაუდოდ, იძულებული გახდება გაჩერდეს გზაჯვარედინზე და ამით განივი მიმართულებით მოძრაობისთვის შექმნას დაბრკოლება?",
-    "answers": [
-      "აქვს უფლება, თუ შუქნიშნის სიგნალი იძლევა მოძრაობის უფლებას",
-      "არ აქვს უფლება"
-    ]
-  },
-  {
-    "id": 105,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაირონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ ოპერატიულ ავტომობილს ჩართული არა აქვს ლურჯი მოელვარე სპეციალური ციმციმა სიგნალი?",
-    "answers": [
-      "ჯერ უნდა გაიაროს მოტოციკლმა, შემდეგ - მსუბუქმა ავტომობილმა, ბოლოს - ოპერატიული სამსახურის ავტომობილმა",
-      "ჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - მოტოციკლმა, ბოლოს - ოპერატიული სამსახურის ავტომობილმა",
-      "ჯერ უნდა გაიაროს ოპერატიული სამსახურის ავტომობილმა, შემდეგ - მსუბუქმა ავტომობილმა, ბოლოს - მოტოციკლმა"
-    ]
-  },
-  {
-    "id": 106,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "„C“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე მძღოლს უფლება აქვს მართოს (გარდა „D1“ ქვეკატეგორიის ან „D“ კატეგორიის სატრანსპორტო საშუალებებისა) ავტომობილი, რომლის ნებადართული მაქსიმალური მასა:",
-    "answers": [
-      "აღემატება 3 500 კგ-ს",
-      "არ აღემატება 3 500 კგ-ს"
-    ]
-  },
-  {
-    "id": 107,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "„C“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე მძღოლს, აგრეთვე უფლება აქვს მართოს „C“ კატეგორიის ავტომობილი მისაბმელით, რომლის ნებადართული მაქსიმალური მასა:",
-    "answers": [
-      "აღემატება 750 კგ-ს",
-      "აღემატება 750 კგ-ს, მაგრამ არ აღემატება 3 500 კგ-ს",
-      "არ აღემატება 750 კგ-ს"
-    ]
-  },
-  {
-    "id": 108,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "„CE“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე მძღოლს უფლება აქვს მართოს:",
-    "answers": [
-      "„C“ კატეგორიის ავტომობილი მხოლოდ იმ მისაბმელით, რომლის ნებადართული მაქსიმალური მასა აღემატება 750 კგ-ს, მაგრამ არ აღემატება 1200 კგ-ს",
-      "„C“ კატეგორიის ავტომობილი მისაბმელით, რომლის ნებადართული მაქსიმალური მასა აღემატება 750 კგ-ს"
-    ]
-  },
-  {
-    "id": 109,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "„C“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, აგრეთვე რომელი ქვეკატეგორიის სატრანსპორტო საშუალების მართვის უფლება აქვს?",
-    "answers": [
-      "„A1“",
-      "„C1“",
-      "„C1“ და „C1E“",
-      "„D1“ და „C1“"
-    ]
-  },
-  {
-    "id": 110,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "„CE“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, აგრეთვე რომელი ქვეკატეგორიის სატრანსპორტო საშუალების მართვა შეუძლია?",
-    "answers": [
-      "„C1E“",
-      "„D1E“",
-      "„D1E“ და „C1E“"
-    ]
-  },
-  {
-    "id": 111,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "აქვს თუ არა უფლება „CE“ ან „DE“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, აგრეთვე მართოს „BE“ კატეგორიის სატრანსპორტო საშუალება?",
-    "answers": [
-      "აქვს უფლება",
-      "არ აქვს უფლება"
-    ]
-  },
-  {
-    "id": 112,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "აქვს თუ არა უფლება „CE“ და „D“ კატეგორიების სატრანსპორტო საშუალებების მართვის უფლების მქონე პირს, აგრეთვე მართოს „DE“ კატეგორიის სატრანსპორტო საშუალება?",
-    "answers": [
-      "არ აქვს უფლება",
-      "აქვს უფლება"
-    ]
-  },
-  {
-    "id": 113,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "„C“ კატეგორიის ავტომობილის მართვის უფლების მქონე პირს, მართვის მოწმობის მიღებიდან ერთი წლის შემდეგ, უფლება აქვს დადგენილი წესით მოწყობილი სატვირთო ავტომობილის ძარით გადაიყვანოს მგზავრები, თუ მძღოლის გარდა მგზავრთა რაოდენობა:",
-    "answers": [
-      "აღემატება 8-ს",
-      "არ აღემატება 8-ს"
-    ]
-  },
-  {
-    "id": 114,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "„C“ და „D“ კატეგორიების სატრანსპორტო საშუალებების მართვის უფლების მქონე პირს, „C“ კატეგორიის სატრანსპორტო საშუალების მართვის მოწმობის მიღებიდან სამი წლის შემდეგ, უფლება აქვს დადგენილი წესით მოწყობილი სატვირთო ავტომობილის ძარით გადაიყვანოს:",
-    "answers": [
-      "8-ზე მეტი მგზავრი",
-      "არა უმეტეს 8 მგზავრისა"
-    ]
-  },
-  {
-    "id": 115,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "„C“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, უფლება აქვს მართოს თვლიანი სასოფლო-სამეურნეო ტრაქტორი, რომლის ნებადართული მაქსიმალური მასა:",
-    "answers": [
-      "აღემატება 12000 კგ-ს",
-      "არ აღემატება 12000 კგ-ს"
-    ]
-  },
-  {
-    "id": 116,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "„C“ კატეგორიის სატრანსპორტო საშუალების მართვის უფლების მქონე პირს, უფლება აქვს მართოს თვლიანი სასოფლო-სამეურნეო ტრაქტორი გადაბმული მისაბმელით, თუ ასეთი შემადგენლობის საერთო ნებადართული მაქსიმალური მასა:",
-    "answers": [
-      "არ აღემატება 12000 კგ-ს",
-      "აღემატება 12000 კგ-ს"
-    ]
-  },
-  {
-    "id": 117,
-    "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "გზაჯვარედინზე, მოცემული საგზაო მონიშვნის არსებობისას, მსუბუქი ავტომობილის მძღოლს უფლება აქვს მოძრაობა გააგრძელოს:",
-    "answers": [
-      "მხოლოდ A მიმართულებით",
-      "მხოლოდ B მიმართულებით",
-      "მხოლოდ C მიმართულებით",
-      "როგორც A და B, ასევე C მიმართულებით"
-    ]
-  },
-  {
-    "id": 118,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "რომელი სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "მსუბუქი ავტომობილს მძღოლს",
       "ტრაქტორის მძღოლს"
     ]
   },
   {
-    "id": 119,
+    "id": 180,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -412,7 +168,7 @@
     ]
   },
   {
-    "id": 120,
+    "id": 181,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -426,7 +182,7 @@
     ]
   },
   {
-    "id": 121,
+    "id": 182,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -441,7 +197,7 @@
     ]
   },
   {
-    "id": 122,
+    "id": 183,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -455,7 +211,7 @@
     ]
   },
   {
-    "id": 123,
+    "id": 184,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -468,7 +224,7 @@
     ]
   },
   {
-    "id": 124,
+    "id": 185,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -482,7 +238,7 @@
     ]
   },
   {
-    "id": 125,
+    "id": 186,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -496,7 +252,7 @@
     ]
   },
   {
-    "id": 126,
+    "id": 187,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -510,7 +266,7 @@
     ]
   },
   {
-    "id": 127,
+    "id": 188,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -524,7 +280,7 @@
     ]
   },
   {
-    "id": 128,
+    "id": 189,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -539,7 +295,7 @@
     ]
   },
   {
-    "id": 129,
+    "id": 190,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",

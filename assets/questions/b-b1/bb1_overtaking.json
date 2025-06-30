@@ -1,6 +1,6 @@
 [
   {
-    "id": 940,
+    "id": 323,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "id": 941,
+    "id": 324,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "id": 942,
+    "id": 325,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -39,7 +39,7 @@
     ]
   },
   {
-    "id": 943,
+    "id": 326,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "id": 944,
+    "id": 327,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -65,7 +65,7 @@
     ]
   },
   {
-    "id": 945,
+    "id": 328,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "id": 946,
+    "id": 329,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "id": 947,
+    "id": 330,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -104,7 +104,7 @@
     ]
   },
   {
-    "id": 948,
+    "id": 331,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -117,21 +117,8 @@
     ]
   },
   {
-    "id": 949,
+    "id": 332,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_video.mp4",
-    "wrongVideo": "assets/videos/2.mp4",
-    "previewVideo": "assets/videos/3.mp4",
-    "question": "აქვს თუ არა თეთრი მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრების უფლება?",
-    "answers": [
-      "1\nაქვს უფლება",
-      "2\nარ აქვს უფლება"
-    ]
-  },
-  {
-    "id": 950,
-    "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
@@ -143,7 +130,7 @@
     ]
   },
   {
-    "id": 951,
+    "id": 333,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -158,7 +145,7 @@
     ]
   },
   {
-    "id": 952,
+    "id": 334,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -173,7 +160,7 @@
     ]
   },
   {
-    "id": 953,
+    "id": 335,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -188,7 +175,7 @@
     ]
   },
   {
-    "id": 954,
+    "id": 336,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -201,7 +188,7 @@
     ]
   },
   {
-    "id": 955,
+    "id": 337,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -215,7 +202,7 @@
     ]
   },
   {
-    "id": 956,
+    "id": 338,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -228,7 +215,7 @@
     ]
   },
   {
-    "id": 957,
+    "id": 339,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -241,7 +228,7 @@
     ]
   },
   {
-    "id": 958,
+    "id": 340,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -254,7 +241,7 @@
     ]
   },
   {
-    "id": 959,
+    "id": 341,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -267,7 +254,7 @@
     ]
   },
   {
-    "id": 960,
+    "id": 342,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -280,7 +267,7 @@
     ]
   },
   {
-    "id": 961,
+    "id": 343,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -293,7 +280,7 @@
     ]
   },
   {
-    "id": 962,
+    "id": 344,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -306,7 +293,7 @@
     ]
   },
   {
-    "id": 963,
+    "id": 345,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -319,7 +306,7 @@
     ]
   },
   {
-    "id": 964,
+    "id": 346,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -332,7 +319,7 @@
     ]
   },
   {
-    "id": 965,
+    "id": 347,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -347,7 +334,7 @@
     ]
   },
   {
-    "id": 966,
+    "id": 348,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -360,7 +347,7 @@
     ]
   },
   {
-    "id": 967,
+    "id": 349,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -374,7 +361,7 @@
     ]
   },
   {
-    "id": 968,
+    "id": 350,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -387,7 +374,7 @@
     ]
   },
   {
-    "id": 969,
+    "id": 351,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -401,7 +388,7 @@
     ]
   },
   {
-    "id": 970,
+    "id": 352,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -414,7 +401,7 @@
     ]
   },
   {
-    "id": 971,
+    "id": 353,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -427,7 +414,7 @@
     ]
   },
   {
-    "id": 972,
+    "id": 354,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -440,7 +427,7 @@
     ]
   },
   {
-    "id": 973,
+    "id": 355,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -455,7 +442,7 @@
     ]
   },
   {
-    "id": 974,
+    "id": 356,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -468,7 +455,7 @@
     ]
   },
   {
-    "id": 975,
+    "id": 357,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -481,7 +468,7 @@
     ]
   },
   {
-    "id": 976,
+    "id": 358,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -494,7 +481,7 @@
     ]
   },
   {
-    "id": 977,
+    "id": 359,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -508,7 +495,7 @@
     ]
   },
   {
-    "id": 978,
+    "id": 360,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -521,7 +508,7 @@
     ]
   },
   {
-    "id": 979,
+    "id": 361,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -535,7 +522,7 @@
     ]
   },
   {
-    "id": 980,
+    "id": 362,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -548,7 +535,7 @@
     ]
   },
   {
-    "id": 981,
+    "id": 363,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -562,7 +549,7 @@
     ]
   },
   {
-    "id": 982,
+    "id": 364,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -575,7 +562,7 @@
     ]
   },
   {
-    "id": 983,
+    "id": 365,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -588,7 +575,7 @@
     ]
   },
   {
-    "id": 984,
+    "id": 366,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -601,7 +588,7 @@
     ]
   },
   {
-    "id": 985,
+    "id": 367,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -615,7 +602,7 @@
     ]
   },
   {
-    "id": 986,
+    "id": 368,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -628,7 +615,7 @@
     ]
   },
   {
-    "id": 987,
+    "id": 369,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -642,7 +629,7 @@
     ]
   },
   {
-    "id": 988,
+    "id": 370,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -657,7 +644,7 @@
     ]
   },
   {
-    "id": 989,
+    "id": 371,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -670,7 +657,7 @@
     ]
   },
   {
-    "id": 990,
+    "id": 372,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -685,7 +672,7 @@
     ]
   },
   {
-    "id": 991,
+    "id": 373,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -699,7 +686,7 @@
     ]
   },
   {
-    "id": 992,
+    "id": 374,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_11001.mp4",
@@ -713,7 +700,7 @@
     ]
   },
   {
-    "id": 993,
+    "id": 375,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_11002.mp4",

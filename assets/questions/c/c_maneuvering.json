@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": 279,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "id": 1,
+    "id": 280,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 281,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 282,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 283,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 284,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -83,7 +83,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 285,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -97,7 +97,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 286,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 287,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 288,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -139,415 +139,13 @@
     ]
   },
   {
-    "id": 10,
+    "id": 289,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელი სატრანსპორტო საშუალების მძღოლის მიმართ ენიჭება უპირატესობა რუხი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "მხოლოდ მოტოციკლის მიმართ",
-      "მხოლოდ თეთრი ავტომობილის მძღოლის მიმართ",
-      "როგორც მოტოციკლის, ასევე თეთრი ავტომობილის მძღოლის მიმართ",
-      "არცერთი სატრანსპორტო საშუალების მძღოლის მიმართ"
-    ]
-  },
-  {
-    "id": 11,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მოცემულ სიტუაციაში, სატრანსპორტო საშუალებების მიერ, მოძრაობის ზოლების ერთდროულად შეცვლისას, გავლის უპირატესობა ენიჭება:",
-    "answers": [
-      "მსუბუქი ავტომობილის მძღოლს",
-      "სატვირთო ავტომობილის მძღოლს"
-    ]
-  },
-  {
-    "id": 12,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "აქვს თუ არა უფლება სატვირთო ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ სავალი ნაწილის სიგანე არასაკმარისია მარცხენა ზოლიდან მობრუნებისათვის?",
-    "answers": [
-      "არ აქვს უფლება",
-      "აქვს უფლება"
-    ]
-  },
-  {
-    "id": 13,
-    "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "თუ სავალი ნაწილის სიგანე არასაკმარისია მარცხენა ზოლიდან სატვირთო ავტომობილის მობრუნებისათვის, ისრის მიმართულებით მოძრაობისას სატვირთო ავტომობილის მძღოლი ვალდებულია გზა დაუთმოს:",
-    "answers": [
-      "მხოლოდ ტრამვაის მძღოლს",
-      "მხოლოდ თეთრი მსუბუქი ავტომობილის მძღოლს",
-      "მხოლოდ შავი მსუბუქი ავტომობილის მძღოლს",
-      "სამივე სატრანსპორტო საშუალების მძღოლს"
-    ]
-  },
-  {
-    "id": 14,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "აქვს თუ არა უფლება სატვირთო ავტომობილის მძღოლს, გააგრძელოს მოძრაობა ისრის მიმართულებით, თუ სავალი ნაწილის სიგანე არასაკმარისია მარცხენა ზოლიდან მოხვევისათვის?",
-    "answers": [
-      "აქვს უფლება, თუ უზრუნველყოფილი იქნება მოძრაობის უსაფრთხოება და დაბრკოლება არ შეექმნება სხვა საგზაო მოძრაობის მონაწილეებს",
-      "არ აქვს უფლება"
-    ]
-  },
-  {
-    "id": 15,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "გზაჯვარედინის სიახლოვეს გზის სიგანე მობრუნების შესაძლებლობას არ იძლევა. აქვს თუ არა უფლება სატვირთო ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით?",
-    "answers": [
-      "აქვს უფლება",
-      "არ აქვს უფლება"
-    ]
-  },
-  {
-    "id": 16,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "გზიდან გასასვლელად მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
-    "answers": [
-      "მხოლოდ A მიმართულებით",
-      "მხოლოდ B მიმართულებით",
-      "როგორც A, ასევე B მიმართულებით"
-    ]
-  },
-  {
-    "id": 17,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "ეკრძალება თუ არა მძღოლს ისრის მიმართულებით ავტომობილის მობრუნება, თუ ხილვადობა შეზღუდულია 90 მეტრამდე?",
-    "answers": [
-      "ეკრძალება",
-      "არ ეკრძალება"
-    ]
-  },
-  {
-    "id": 18,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მოცემულ სიტუაციაში, ავტომობილის მობრუნება დასაშვებია:",
-    "answers": [
-      "მხოლოდ A მიმართულებით",
-      "მხოლოდ B მიმართულებით",
-      "როგორც A, ასევე B მიმართულებით",
-      "ორივე მიმართულებით დაუშვებელია"
-    ]
-  },
-  {
-    "id": 19,
-    "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მოცემულ სიტუაციაში, ავტომობილის მობრუნება დასაშვებია:",
-    "answers": [
-      "მხოლოდ A მიმართულებით",
-      "მხოლოდ B მიმართულებით",
-      "როგორც A, ასევე B მიმართულებით",
-      "ორივე მიმართულებით დაუშვებელია"
-    ]
-  },
-  {
-    "id": 20,
-    "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
-    "answers": [
-      "მხოლოდ მარცხნივ",
-      "მხოლოდ პირდაპირ და მარჯვნივ",
-      "მხოლოდ მარცხნივ და მარჯვნივ",
-      "მხოლოდ პირდაპირ, მარცხნივ და უკუმიმართულებით (მობრუნება)"
-    ]
-  },
-  {
-    "id": 21,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
-    "answers": [
-      "მხოლოდ მარჯვნივ",
-      "მხოლოდ მარცხნივ და მარჯვნივ",
-      "მხოლოდ პირდაპირ და მარჯვნივ",
-      "მხოლოდ პირდაპირ, მარცხნივ და უკუმიმართულებით (მობრუნება)"
-    ]
-  },
-  {
-    "id": 22,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "ავტომობილის მძღოლი გასცდა მარჯვნივ მოსახვევს. ეკრძალება თუ არა მას მოსახვევში შესასვლელად ისრის მიმართულებით უკუსვლით მოძრაობა?",
-    "answers": [
-      "ეკრძალება",
-      "არ ეკრძალება"
-    ]
-  },
-  {
-    "id": 23,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "ორმხრივ მოძრაობიანი გზის სავალ ნაწილის შუაში, მასთან ერთ დონეზე ტრამვაის ლიანდაგის მდებარეობისას, საპირისპირო მოძრაობის მხარეების გამყოფად მიიჩნევა:",
-    "answers": [
-      "საპირისპიროდ მოძრავი ტრამვაის ლიანდაგებს შორის წარმოსახვითი შუა ხაზი",
-      "თანხვედრი მიმართულებით მოძრავი ტრამვაის მარჯვენა ლიანდაგი",
-      "საპირისპირო მიმართულებით მოძრავი ტრამვაის მარცხენა ლიანდაგი"
-    ]
-  },
-  {
-    "id": 24,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მსუბუქი ავტომობილის მძღოლს უფლება აქვს იმოძრაოს:",
-    "answers": [
-      "მხოლოდ A მიმართულებით",
-      "მხოლოდ B მიმართულებით",
-      "როგორც A, ასევე B მიმართულებით"
-    ]
-  },
-  {
-    "id": 25,
-    "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "ქვემოთ ჩამოთვლილი, რომელ შემთხვევაშია ნებადართული გზის მარცხენა მხარეს, სავალ ნაწილთან ერთ დონეზე განლაგებული თანხვედრი მიმართულების ტრამვაის ლიანდაგზე ურელსო სატრანსპორტო საშუალებით მოძრაობა?",
-    "answers": [
-      "მხოლოდ იმ შემთხვევაში, თუ თანმხვედრი მიმართულებით მოძრაობისათვის ყველა ზოლი დაკავებულია",
-      "მხოლოდ დაბრკოლების შემოვლის ან გასწრების შემთხვევაში",
-      "მხოლოდ მარცხნივ მოხვევის ან მობრუნების შემთხვევაში",
-      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში, თუ ამით ტრამვაის მოძრაობას არ შეექმნება დაბრკოლება"
-    ]
-  },
-  {
-    "id": 26,
-    "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "ქვემოთ ჩამოთვლილი, რომელ ადგილას არის აკრძალული სატრანსპორტო საშუალების მობრუნება?",
-    "answers": [
-      "მხოლოდ გზაზე, სადაც ხილვადობა თუნდაც ერთი მიმართულებით 100 მეტრზე ნაკლებია",
-      "მხოლოდ იმ ადგილას, სადაც გასაჩერებელი პუნქტია",
-      "მხოლოდ ავტომაგისტრალზე",
-      "ამ ბილეთში ჩამოთვლილ ნებისმიერ ადგილას"
-    ]
-  },
-  {
-    "id": 27,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "თანმხვედრი მიმართულებით მოძრავი სატრანსპორტო საშუალებების მიერ, მოძრაობის ზოლების ერთდროულად შეცვლისას, მოძრაობის ტრაექტორიების გადაკვეთის შემთხვევაში, გავლის უპირატესობა ენიჭება:",
-    "answers": [
-      "მარჯვნივ მყოფ სატრანსპორტო საშუალების მძღოლს",
-      "მარცხნივ მყოფ სატრანსპორტო საშუალების მძღოლს"
-    ]
-  },
-  {
-    "id": 28,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "აქვს თუ არა უფლება მძღოლს სატრანსპორტო საშუალების უკუსვლით მოძრაობისას ისარგებლოს სხვა პირის დახმარებით?",
-    "answers": [
-      "არ აქვს უფლება",
-      "აქვს უფლება"
-    ]
-  },
-  {
-    "id": 29,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "ვალდებულია თუ არა მსუბუქი ავტომობილის მძღოლი, ჩართოს მარჯვნივ მოხვევის შუქ-მაჩვენებელი ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ მის უკან სატრანსპორტო საშუალება არ მოძრაობს?",
-    "answers": [
-      "ვალდებულია",
-      "არ არის ვალდებული"
-    ]
-  },
-  {
-    "id": 30,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელ ნახატზეა ნაჩვენები მოტოციკლის მძღოლის მიერ ხელით მიცემული მარცხნივ მოხვევის სიგნალი?",
-    "answers": [
-      "III",
-      "II",
-      "I"
-    ]
-  },
-  {
-    "id": 31,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელ ნახატზეა ნაჩვენები მოტოციკლის მძღოლის მიერ ხელით მიცემული მარჯვნივ მოხვევის სიგნალი?",
-    "answers": [
-      "I",
-      "III",
-      "II"
-    ]
-  },
-  {
-    "id": 32,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელ ნახატზეა ნაჩვენები მოტოციკლის მძღოლის მიერ ხელით მიცემული დამუხრუჭების სიგნალი?",
-    "answers": [
-      "III",
-      "II",
-      "I"
-    ]
-  },
-  {
-    "id": 33,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელ ნახატზეა ნაჩვენები ავტომობილის მძღოლის მიერ ხელით მიცემული დამუხრუჭების სიგნალი?",
-    "answers": [
-      "III",
-      "I",
-      "II"
-    ]
-  },
-  {
-    "id": 34,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელ ნახატზეა ნაჩვენები ავტომობილის მძღოლის მიერ ხელით მიცემული მარჯვნივ მოხვევის სიგნალი?",
-    "answers": [
-      "I",
-      "III",
-      "II"
-    ]
-  },
-  {
-    "id": 35,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელ ნახატზეა ნაჩვენები ავტომობილის მძღოლის მიერ ხელით მიცემული მარცხნივ მოხვევის ან მობრუნების სიგნალი?",
-    "answers": [
-      "III",
-      "II",
-      "I"
-    ]
-  },
-  {
-    "id": 36,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "თუ გზის არასაკმარისი სიგანე, პროფილი ან სავალი ნაწილის მდგომარეობა, შემხვედრი მოძრაობის ინტენსივობის გათვალისწინებით, არ იძლევა ნელმავალი ან დიდგაბარიტიანი სატრანსპორტო საშუალების ადვილად და უსაფრთხოდ გასწრების საშუალებას, ამ სატრანსპორტო საშუალების მძღოლმა:",
-    "answers": [
-      "მოცემული გზის მონაკვეთის სწრაფად გავლის მიზნით უნდა გაზარდოს სიჩქარე",
-      "უნდა შეანელოს მოძრაობა და აუცილებლობის შემთხვევაში პირველივე შესაძლებლობისას დაუთმოს გზა მის უკან მოძრავ სატრანსპორტო საშუალებებს"
-    ]
-  },
-  {
-    "id": 37,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "თუ გზაჯვარედინზე მარჯვნივ მოხვევისთვის განკუთვნილი მოძრაობის ზოლი დანარჩენი სავალი ნაწილისგან გამოყოფილია ამაღლებული უსაფრთხოების კუნძულით და გზაჯვარედინის წინ მარჯვნივ შუქნიშანი არ არის, მარჯვნივ მოხვევა მძღოლს შეუძლია შეასრულოს გზაჯვარედინზე არსებული შუქნიშნის:",
-    "answers": [
-      "მოძრაობის ნებადამრთველი მაშუქი სიგნალის ჩართვის შემდეგ",
-      "მაშუქი სიგნალებისაგან დამოუკიდებლად სხვა მიმართულებებიდან მოძრავი ყველა სატრანსპორტო საშუალების გზის დათმობით"
-    ]
-  },
-  {
-    "id": 38,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "სარკინიგზო გადასასვლელთან მიახლოებისას, აგრეთვე მასზე გავლისას, სატრანსპორტო საშუალების მძღოლი:",
-    "answers": [
-      "უნდა მოძრაობდეს ზომიერი სიჩქარით, ამასთან რკინიგზის ლიანდაგზე გადასვლისას მძღოლმა უნდა ისარგებლოს მხოლოდ რკინიგზის გადასასვლელით და გზა დაუთმოს მატარებელს (ლოკომოტივს, დრეზინას)",
-      "ვალდებულია სწრაფად გაიაროს აღნიშნული გზის მონაკვეთი, ამასთან გადასასვლელის წინ სხვა სატრანსპორტო საშუალების დგომის შემთხვევაში, შემოუაროს მას საპირისპირო მოძრაობის ზოლზე გასვლით"
-    ]
-  },
-  {
-    "id": 39,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მოცემულ სიტუაციაში, რომელი სატრანსპორტო საშუალების მძღოლს არ ეკრძალება ისრის მიმართულებით მოძრაობა?",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლს არ ეკრძალება ისრის მიმართულებით მოძრაობა?",
     "answers": [
       "მხოლოდ კვადროციკლის მძღოლს",
       "მხოლოდ სატვირთო ავტომობილის მძღოლს",
@@ -556,7 +154,7 @@
     ]
   },
   {
-    "id": 40,
+    "id": 290,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -569,7 +167,7 @@
     ]
   },
   {
-    "id": 41,
+    "id": 291,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -582,7 +180,7 @@
     ]
   },
   {
-    "id": 42,
+    "id": 292,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -595,7 +193,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 293,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -608,7 +206,7 @@
     ]
   },
   {
-    "id": 44,
+    "id": 294,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -621,7 +219,7 @@
     ]
   },
   {
-    "id": 45,
+    "id": 295,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -635,7 +233,7 @@
     ]
   },
   {
-    "id": 46,
+    "id": 296,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -648,7 +246,7 @@
     ]
   },
   {
-    "id": 47,
+    "id": 297,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -662,7 +260,7 @@
     ]
   },
   {
-    "id": 48,
+    "id": 298,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -675,7 +273,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 299,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -689,7 +287,7 @@
     ]
   },
   {
-    "id": 50,
+    "id": 300,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -703,7 +301,7 @@
     ]
   },
   {
-    "id": 51,
+    "id": 301,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -716,7 +314,7 @@
     ]
   },
   {
-    "id": 52,
+    "id": 302,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -731,7 +329,7 @@
     ]
   },
   {
-    "id": 53,
+    "id": 303,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -745,7 +343,7 @@
     ]
   },
   {
-    "id": 54,
+    "id": 304,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -759,7 +357,7 @@
     ]
   },
   {
-    "id": 55,
+    "id": 305,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -773,7 +371,7 @@
     ]
   },
   {
-    "id": 56,
+    "id": 306,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -786,7 +384,7 @@
     ]
   },
   {
-    "id": 57,
+    "id": 307,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -799,7 +397,7 @@
     ]
   },
   {
-    "id": 58,
+    "id": 308,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -814,7 +412,7 @@
     ]
   },
   {
-    "id": 59,
+    "id": 309,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",

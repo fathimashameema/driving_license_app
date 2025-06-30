@@ -1,6 +1,6 @@
 [
   {
-    "id": 10,
+    "id": 703,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 704,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 705,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "id": 13,
+    "id": 706,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -53,7 +53,7 @@
     ]
   },
   {
-    "id": 14,
+    "id": 707,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": 708,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -83,13 +83,13 @@
     ]
   },
   {
-    "id": 16,
+    "id": 709,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრან스პორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
+    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
     "answers": [
       "1\nჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - მოტოციკლმა",
       "2\nჯერ უნდა გაიაროს სატვირთო ავტომობილმა, შემდეგ - მოტოციკლმა, ბოლოს - მსუბუქმა ავტომობილმა",
@@ -97,7 +97,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 710,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 711,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -123,7 +123,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": 712,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -136,72 +136,33 @@
     ]
   },
   {
-    "id": 20,
+    "id": 713,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელი სატრანსპორტო საშუალების მძღოლმა უნდა გაიაროს გზაჯვარედინი პირველმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "1\nმსუბუქი ავტომობილის მძღოლმა",
-      "2\nტრამვაისა და მოტოციკლის მძღოლებმა"
-    ]
-  },
-  {
-    "id": 21,
-    "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რომელი სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
     "answers": [
-      "1\nტრამვაის მძღოლს",
-      "2\nმსუბუქი ავტომობილის მძღოლს"
+      "1\nმსუბუქი ავტომობილის მძღოლს",
+      "2\nტრამვაის მძღოლს"
     ]
   },
   {
-    "id": 22,
+    "id": 714,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "აქვს თუ არა უფლება ლურჯი ავტომობილის მძღოლს გააგრძელოს მოძრაობა ისრის მიმართულებით, შუქნიშნის ამ სიგნალზე?",
+    "question": "რომელი სატრანსპორტო საშუალების მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
     "answers": [
-      "1\nაქვს უფლება",
-      "2\nარ აქვს უფლება"
+      "1\nმსუბუქი ავტომობილის მძღოლს",
+      "2\nტრამვაის მძღოლს"
     ]
   },
   {
-    "id": 23,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში, შუქნიშნის ამ სიგნალზე?",
-    "answers": [
-      "1\nთეთრი ავტომობილის მძღოლს",
-      "2\nმწვანე ავტომობილის მძღოლს"
-    ]
-  },
-  {
-    "id": 24,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "1\nყვითელი ავტომობილის მძღოლს",
-      "2\nცისფერი ავტომობილის მძღოლს"
-    ]
-  },
-  {
-    "id": 25,
+    "id": 715,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -215,7 +176,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 716,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -228,7 +189,7 @@
     ]
   },
   {
-    "id": 27,
+    "id": 717,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -241,7 +202,7 @@
     ]
   },
   {
-    "id": 28,
+    "id": 718,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -255,7 +216,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 719,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -269,7 +230,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 720,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -283,7 +244,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 721,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -296,7 +257,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 722,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -311,7 +272,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 723,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -324,7 +285,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 724,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -337,7 +298,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 725,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -350,7 +311,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 726,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -365,7 +326,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 727,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_37.mp4",
@@ -378,7 +339,7 @@
     ]
   },
   {
-    "id": 38,
+    "id": 728,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_38.mp4",
@@ -393,7 +354,7 @@
     ]
   },
   {
-    "id": 39,
+    "id": 729,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_39.mp4",
@@ -408,7 +369,7 @@
     ]
   },
   {
-    "id": 40,
+    "id": 730,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_40.mp4",
@@ -421,7 +382,7 @@
     ]
   },
   {
-    "id": 41,
+    "id": 731,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_41.mp4",
@@ -435,7 +396,7 @@
     ]
   },
   {
-    "id": 42,
+    "id": 732,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_42.mp4",
@@ -448,7 +409,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 733,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_43.mp4",
@@ -463,7 +424,7 @@
     ]
   },
   {
-    "id": 44,
+    "id": 734,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_44.mp4",
@@ -476,7 +437,7 @@
     ]
   },
   {
-    "id": 45,
+    "id": 735,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_45.mp4",
@@ -489,7 +450,7 @@
     ]
   },
   {
-    "id": 46,
+    "id": 736,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_46.mp4",
@@ -502,7 +463,7 @@
     ]
   },
   {
-    "id": 47,
+    "id": 737,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_47.mp4",
@@ -516,7 +477,7 @@
     ]
   },
   {
-    "id": 48,
+    "id": 738,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_48.mp4",
@@ -530,7 +491,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 739,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_49.mp4",
@@ -544,7 +505,7 @@
     ]
   },
   {
-    "id": 50,
+    "id": 740,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_50.mp4",
@@ -558,7 +519,7 @@
     ]
   },
   {
-    "id": 51,
+    "id": 741,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_51.mp4",
@@ -572,7 +533,7 @@
     ]
   },
   {
-    "id": 52,
+    "id": 742,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_52.mp4",
@@ -586,7 +547,7 @@
     ]
   },
   {
-    "id": 53,
+    "id": 743,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_53.mp4",
@@ -599,7 +560,7 @@
     ]
   },
   {
-    "id": 54,
+    "id": 744,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_54.mp4",
@@ -613,7 +574,7 @@
     ]
   },
   {
-    "id": 55,
+    "id": 745,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_55.mp4",
@@ -628,7 +589,7 @@
     ]
   },
   {
-    "id": 56,
+    "id": 746,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_56.mp4",
@@ -643,7 +604,7 @@
     ]
   },
   {
-    "id": 57,
+    "id": 747,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_57.mp4",
@@ -658,7 +619,7 @@
     ]
   },
   {
-    "id": 58,
+    "id": 748,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_58.mp4",
@@ -671,7 +632,7 @@
     ]
   },
   {
-    "id": 59,
+    "id": 749,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_59.mp4",
@@ -684,7 +645,7 @@
     ]
   },
   {
-    "id": 60,
+    "id": 750,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_60.mp4",
@@ -697,7 +658,7 @@
     ]
   },
   {
-    "id": 61,
+    "id": 751,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_61.mp4",

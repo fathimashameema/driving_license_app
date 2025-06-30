@@ -1,6 +1,6 @@
 [
   {
-    "id": 61,
+    "id": 222,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "id": 62,
+    "id": 223,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "id": 63,
+    "id": 224,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "id": 64,
+    "id": 225,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "id": 65,
+    "id": 226,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "id": 66,
+    "id": 227,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -81,7 +81,7 @@
     ]
   },
   {
-    "id": 67,
+    "id": 228,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -95,7 +95,7 @@
     ]
   },
   {
-    "id": 68,
+    "id": 229,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "id": 69,
+    "id": 230,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -123,7 +123,7 @@
     ]
   },
   {
-    "id": 70,
+    "id": 231,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -138,7 +138,7 @@
     ]
   },
   {
-    "id": 71,
+    "id": 232,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -153,22 +153,116 @@
     ]
   },
   {
-    "id": 72,
+    "id": 233,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "დასაშვებია თუ არა გასწრების განზრახვის თაობაზე სხვა მძღოლის გასაფრთხილებლად ხმოვანი სიგნალის გამოყენება:",
+    "question": "დასაშვებია თუ არა სატრანსპორტო საშუალებების წინ წითელი და უკან თეთრი სინათლეებით აღჭურვა:",
     "answers": [
-      "დასაშვებია, მხოლოდ დაუსახლებელ პუნქტში",
-      "დასაშვებია, მხოლოდ დასახლებულ პუნქტში",
-      "დასაშვებია, როგორც დასახლებულ, აგრეთვე დაუსახლებელ პუნქტებში",
-      "დაუშვებელია"
+      "დასაშვებია",
+      "დაუშვებელია",
+      "დასაშვებია, მხოლოდ სპეციალური სამსახურის სატრანსპორტო საშუალებებზე"
     ]
   },
   {
-    "id": 73,
+    "id": 234,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასაშვებია თუ არა ერთსა და იმავე სატრანსპორტო საშუალებაზე ერთნაირი დანიშნულებისა და ერთსა და იმავე მხარეს მიმართული სხვადასხვა ფერის ფარების დაყენება?",
+    "answers": [
+      "დასაშვებია",
+      "დაუშვებელია",
+      "დასაშვებია მხოლოდ ოპერატიული სამსახურის ავტომობილზე"
+    ]
+  },
+  {
+    "id": 235,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ფარა-პროჟექტორით და ფარა-მაძიებლით სარგებლობა ნებადართულია:",
+    "answers": [
+      "დასახლებულ პუნქტში ცალხრივ მოძრაობიან გზის სავალ ნაწილზე",
+      "მხოლოდ დაუსახლებელ პუნქტში, თუ არ არის საპირისპიროდ მოძრავი სატრანსპორტო საშუალება",
+      "დასახლებულ პუნქტში იმ გზაზე, სადაც თითოეული მიმართულებისათვის ერთი სამოძრაო ზოლია, შუაში ტრამვაის ლიანდაგების გარეშე"
+    ]
+  },
+  {
+    "id": 236,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასახლებულ პუნქტებში წინა და უკანა საგაბარიტო სინათლეების ნაცვლად შეიძლება ჩართულ იქნეს პარკირების ნათურები იმ პირობით, რომ:",
+    "answers": [
+      "სატრანსპორტო საშუალების სიგრძე არ აღემატება 6 მეტრს, სიგანე - 2 მეტრს",
+      "სატრანსპორტო საშუალებას არ გააჩნია მისაბმელი",
+      "დაცულია ამ ბილეთში ჩამოთვლილი ყველა პირობა"
+    ]
+  },
+  {
+    "id": 237,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვევს თუ არა სატვირთო ავტომობილის მძღოლი საგზაო მოძრაობის წესებს, თუ იგი მუშა სამუხრუჭო სისტემის გაუმართაობისას სარემონტო ადგილამდე იმოძრავებს ჩართული საავარიო შუქსიგნალიზაციით?",
+    "answers": [
+      "დაარღვევს",
+      "არ დაარღვევს"
+    ]
+  },
+  {
+    "id": 238,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვევს თუ არა სატვირთო ავტომობილის მძღოლი საგზაო მოძრაობის წესებს, თუ იგი საჭის მექანიზმის გაუმართაობისას სარემონტო ადგილამდე იმოძრავებს ჩართული საავარიო შუქსიგნალიზაციით?",
+    "answers": [
+      "არ დაარღვევს",
+      "დაარღვევს"
+    ]
+  },
+  {
+    "id": 239,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღე-ღამის ბნელ დროს ან არასაკმარისი ხილვადობის პირობებში აღმართის ბოლოსთან მიახლოებისას სატრანსპორტო საშუალების მძღოლმა შორი ნათების ფარები უნდა გამორთოს და ჩართოს ახლო ნათების ფარები:",
+    "answers": [
+      "ნებისმიერ შემთხვევაში, აღმართის ბოლოსთან მიახლოებისას",
+      "მხოლოდ შემხვედრი სატრანსპორტო საშუალების გამოჩენისას"
+    ]
+  },
+  {
+    "id": 240,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალების რომელი გარე სანათი ხელსაწყოების ჩართვა უზრუნველყოფს გზის უკეთეს ხილვადობას დღე-ღამის ბნელ დროს, ძლიერი თოვის პირობებში?",
+    "answers": [
+      "შორი ნათების ფარები",
+      "ნისლსაწინააღმდეგო ფარები შორი ნათების ფარებთან ერთად",
+      "ნისლსაწინააღმდეგო ფარები ახლო ნათების ფარებთან ერთად"
+    ]
+  },
+  {
+    "id": 241,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -183,7 +277,7 @@
     ]
   },
   {
-    "id": 74,
+    "id": 242,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -198,7 +292,7 @@
     ]
   },
   {
-    "id": 75,
+    "id": 243,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -213,7 +307,7 @@
     ]
   },
   {
-    "id": 76,
+    "id": 244,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -227,7 +321,7 @@
     ]
   },
   {
-    "id": 77,
+    "id": 245,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -242,7 +336,7 @@
     ]
   },
   {
-    "id": 78,
+    "id": 246,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -256,7 +350,7 @@
     ]
   },
   {
-    "id": 79,
+    "id": 247,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -270,7 +364,7 @@
     ]
   },
   {
-    "id": 80,
+    "id": 248,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -285,7 +379,7 @@
     ]
   },
   {
-    "id": 81,
+    "id": 249,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -299,7 +393,7 @@
     ]
   },
   {
-    "id": 82,
+    "id": 250,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -313,7 +407,7 @@
     ]
   },
   {
-    "id": 83,
+    "id": 251,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -327,7 +421,7 @@
     ]
   },
   {
-    "id": 84,
+    "id": 252,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -341,7 +435,7 @@
     ]
   },
   {
-    "id": 85,
+    "id": 253,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -355,7 +449,7 @@
     ]
   },
   {
-    "id": 86,
+    "id": 254,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -368,7 +462,7 @@
     ]
   },
   {
-    "id": 87,
+    "id": 255,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -381,7 +475,7 @@
     ]
   },
   {
-    "id": 88,
+    "id": 256,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -394,7 +488,7 @@
     ]
   },
   {
-    "id": 89,
+    "id": 257,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -408,87 +502,297 @@
     ]
   },
   {
-    "id": 90,
+    "id": 258,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "ქვემოთ ჩამოთვლილიდან, ავტომობილის რომელი კვანძის გამართულობა უნდა შეამოწმოს მძღოლმა რეგულარულად?",
+    "question": "ქვემოთ ჩამოთვლილ რომელ ადგილას არ არის ვალდებული მძღოლი მანევრის დაწყებამდე ჩართოს შესაბამისი მიმართულების მოხვევის შუქ-მაჩვენებელი?",
     "answers": [
-      "მხოლოდ საჭის მართვის მექანიზმის",
-      "მხოლოდ საბურავების",
-      "მხოლოდ გარე სანათი ხელსაწყოების",
-      "ამ ბილეთში ჩამოთვლილი ყველა კვანძის"
+      "საცხოვრებელ ზონაში",
+      "მიმდებარე ტერიტორიაზე",
+      "ეზოს ტერიტორიაზე",
+      "ვალდებულია ამ ბილეთში ჩამოთვლილ ნებისმიერ ადგილას"
     ]
   },
   {
-    "id": 91,
+    "id": 259,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "სატვირთო ფურგონის სატვირთო განყოფილების საერთო ტევადობის გამოთვლისას, ქვემოთ ჩამოთვლილი რომელი პარამეტრი არ უნდა იქნას გათვალისწინებული?",
+    "question": "დაბინდებიდან გათენებამდე, ასევე ნებისმიერი სხვა არასაკმარისი ხილვადობის პირობებში, გზაზე გაჩერებისა ან დგომის დროს მექანიკური სატრანსპორტო საშუალებები და მათი მისაბმელები აღნიშნული უნდა იყვნენ:",
     "answers": [
-      "ფურგონის სატვირთო განყოფილების სიმაღლე",
-      "ავტომობილის საერთო სიგრძე",
-      "ფურგონის სატვირთო განყოფილების სიგანე",
-      "ფურგონის სატვირთო განყოფილების სიგრძე"
+      "შორი განათების ფარებით",
+      "წინა და უკანა საგაბარიტო სინათლეებით",
+      "ახლო განათების ფარებით",
+      "წინა ნისლსაწინააღმდეგო ფარები"
     ]
   },
   {
-    "id": 92,
-    "correctAnswer": 0,
+    "id": 260,
+    "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "ჩამოთვლილი სამუხრუჭო სისტემებიდან, რომელი უფრო სწრაფად უზრუნველყოფს მუხრუჭების ამოქმედებას?",
+    "question": "მოძრავ მექანიკურ სატრანსპორტო საშუალებებზე დღე-ღამის ბნელ დროს ან არასაკმარისი ხილვადობის პირობებში ჩართული უნდა იყოს:",
     "answers": [
-      "ჰიდრავლიკური სამუხრუჭო სისტემა",
-      "პნევმატიური სამუხრუჭო სისტემა",
-      "კომბინირებული სამუხრუჭო სისტემა",
-      "მუხრუჭის ამოქმედების სიჩქარე არ არის დამოკიდებული სამუხრუჭო სისტემის კონსტრუქციაზე"
+      "მხოლოდ ახლო ან შორი განათების ფარები",
+      "მხოლოდ ნისლსაწინააღმდეგო ფარები",
+      "ახლო ან შორი განათების ფარები და უკანა საგაბარიტო სინათლეები",
+      "მხოლოდ წინა და უკანა საგაბარიტო სინათლეები"
     ]
   },
   {
-    "id": 93,
+    "id": 261,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "არასაკმარისი ხილვადობის პირობებში ან ვიწრო მიხვეულ-მოხვეულ გზებზე მოძრაობისას, ნისლსაწინააღმდეგო ფარების ჩართვა ხორციელდება:",
+    "answers": [
+      "საავარიო შუქსიგნალიზაციასთან ერთად",
+      "შორი ან ახლო განათების ფარებთან ერთად",
+      "მხოლოდ წინა და უკანა საგაბარიტო სინათლეებთან ერთად"
+    ]
+  },
+  {
+    "id": 262,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "სატვირთო ავტომობილზე ტვირთის მოთავსებისას გათვალისწინებული უნდა იქნას:",
+    "question": "წინა საგაბარიტო სინათლეებით აღჭურვილ მექანიკურ სატრანსპორტო საშუალებაზე და მოპედზე ასეთი სინათლეები უნდა ჩაირთოს:",
     "answers": [
-      "მხოლოდ სიმძიმის ცენტრის მდებარეობა",
-      "მხოლოდ ღერძზე დატვირთვასთან დაკავშირებული მოთხოვნები",
-      "მხოლოდ საგზაო-სატრანსპორტო შემთხვევის დროს, ტვირთის გადაადგილების ალბათობა",
-      "ამ ბილეთში ჩამოთვლილი ყველა მოთხოვნა და გარემოება"
+      "მხოლოდ წინა ნისლსაწინააღმდეგო ფარებთან ერთად",
+      "მხოლოდ შორი განათების ფარებთან ერთად",
+      "მხოლოდ ახლო განათების ფარებთან ერთად",
+      "შორი და ახლო განათების ფარებთან ან წინა ნისლსაწინააღმდეგო ფარებთან ერთად"
     ]
   },
   {
-    "id": 94,
+    "id": 263,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "როგორ გავლენას ახდენს სამუხრუჭო სისტემის გამართულ მუშაობაზე სამუხრუჭო დისკებზე დიდი ოდენობით ჟანგის არსებობა?",
+    "question": "დღე-ღამის ბნელ დროს ან არასაკმარისი ხილვადობის პირობებში მოძრავი მექანიკური სატრანსპორტო საშუალების მისაბმელზე:",
     "answers": [
-      "დადებითს, რადგანაც დიდი ოდენობით ჟანგი აუმჯობესებს ხახუნის ძალას დისკსა და ხუნდებს შორის",
-      "უარყოფითს, რადგანაც დიდი ოდენობით ჟანგი იწვევს სამუხრუჭო სისტემის არათანაბარ მუშაობას",
-      "დისკებზე დიდი ოდენობის ჟანგის არსებობა გავლენას არ მოახდენს სამუხრუჭო სისტემის მუშაობაზე"
+      "დამაგრებული უნდა იყოს მხოლოდ სპეციალური შუქამრეკლი მოწყობილობა",
+      "ჩართული უნდა იყოს წინა საგაბარიტო სინათლეები (თუ მათ არსებობას ითვალისწინებს საქართველოს კანონმდებლობა) და არანაკლებ ორი უკანა საგაბარიტო სინათლე",
+      "ჩართული უნდა იყოს მხოლოდ ერთი უკანა საგაბარიტო სინათლე"
     ]
   },
   {
-    "id": 95,
+    "id": 264,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "როგორ უნდა გამოვითვალოდ ფურგონის ტიპის ავტომობილის სატვირთო განყოფილების მოცულობა?",
+    "question": "თუ ავტომობილი აღჭურვილია წინა ნისლსაწინააღმდეგო ფარებით, ისინი უნდა იყოს:",
+    "answers": [
+      "თეთრი ან ყვითელი სელექციური სინათლის, რაოდენობით ორი",
+      "წითელი ან ყვითელი სელექციური სინათლის, რაოდენობით ოთხი",
+      "წითელი სელექციური სინათლის, რაოდენობით ერთი"
+    ]
+  },
+  {
+    "id": 265,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღის ნათელ დროს გზაზე მოძრავი სატრანსპორტო საშუალების აღნიშვნის მიზნით სავალდებულოა ახლო განათების ფარებისა და უკანა საგაბარიტო სინათლეების ჩართვა:",
+    "answers": [
+      "მხოლოდ ავტობუსით ან სათანადოდ მოწყობილი სატვირთო ავტომობილის ძარით ბავშვთა ჯგუფის გადაყვანისას",
+      "მხოლოდ მექანიკური სატრანსპორტო საშუალების ბუქსირებისას, მობუქსირე სატრანსპორტო საშუალებაზე",
+      "მხოლოდ სამარშრუტო სატრანსპორტო საშუალებებზე სპეციალურად მათთვის გამოყოფილ ზოლზე, ძირითადი ნაკადის საპირისპიროდ მოძრაობისას",
+      "ამ ბილეთში ჩამოთვლილ ყველა შემთხვევაში"
+    ]
+  },
+  {
+    "id": 266,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღე-ღამის ბნელ დროს, დასახლებულ პუნქტში მოძრაობისას, თუ გზა საკმარისად არის განათებული:",
+    "answers": [
+      "უნდა ჩაირთოს საგაბარიტო სინათლეები",
+      "უნდა ჩაირთოს ახლო განათების ფარები",
+      "უნდა ჩაირთოს შორი განათების ფარები"
+    ]
+  },
+  {
+    "id": 267,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასაშვებია თუ არა სატრანსპორტო საშუალებების წინ წითელი და უკან თეთრი სინათლეებით აღჭურვა:",
+    "answers": [
+      "დასაშვებია",
+      "დაუშვებელია",
+      "დასაშვებია, მხოლოდ სპეციალური სამსახურის სატრანსპორტო საშუალებებზე"
+    ]
+  },
+  {
+    "id": 268,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასაშვებია თუ არა ერთსა და იმავე სატრანსპორტო საშუალებაზე ერთნაირი დანიშნულებისა და ერთსა და იმავე მხარეს მიმართული სხვადასხვა ფერის ფარების დაყენება?",
+    "answers": [
+      "დასაშვებია",
+      "დაუშვებელია",
+      "დასაშვებია მხოლოდ ოპერატიული სამსახურის ავტომობილზე"
+    ]
+  },
+  {
+    "id": 269,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ფარა-პროჟექტორით და ფარა-მაძიებლით სარგებლობა ნებადართულია:",
+    "answers": [
+      "დასახლებულ პუნქტში ცალხრივ მოძრაობიან გზის სავალ ნაწილზე",
+      "მხოლოდ დაუსახლებელ პუნქტში, თუ არ არის საპირისპიროდ მოძრავი სატრანსპორტო საშუალება",
+      "დასახლებულ პუნქტში იმ გზაზე, სადაც თითოეული მიმართულებისათვის ერთი სამოძრაო ზოლია, შუაში ტრამვაის ლიანდაგების გარეშე"
+    ]
+  },
+  {
+    "id": 270,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასახლებულ პუნქტებში წინა და უკანა საგაბარიტო სინათლეების ნაცვლად შეიძლება ჩართულ იქნეს პარკირების ნათურები იმ პირობით, რომ:",
+    "answers": [
+      "სატრანსპორტო საშუალების სიგრძე არ აღემატება 6 მეტრს, სიგანე - 2 მეტრს",
+      "სატრანსპორტო საშუალებას არ გააჩნია მისაბმელი",
+      "დაცულია ამ ბილეთში ჩამოთვლილი ყველა პირობა"
+    ]
+  },
+  {
+    "id": 271,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვევს თუ არა სატვირთო ავტომობილის მძღოლი საგზაო მოძრაობის წესებს, თუ იგი მუშა სამუხრუჭო სისტემის გაუმართაობისას სარემონტო ადგილამდე იმოძრავებს ჩართული საავარიო შუქსიგნალიზაციით?",
+    "answers": [
+      "დაარღვევს",
+      "არ დაარღვევს"
+    ]
+  },
+  {
+    "id": 272,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვევს თუ არა სატვირთო ავტომობილის მძღოლი საგზაო მოძრაობის წესებს, თუ იგი საჭის მექანიზმის გაუმართაობისას სარემონტო ადგილამდე იმოძრავებს ჩართული საავარიო შუქსიგნალიზაციით?",
+    "answers": [
+      "არ დაარღვევს",
+      "დაარღვევს"
+    ]
+  },
+  {
+    "id": 273,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღე-ღამის ბნელ დროს ან არასაკმარისი ხილვადობის პირობებში აღმართის ბოლოსთან მიახლოებისას სატრანსპორტო საშუალების მძღოლმა შორი ნათების ფარები უნდა გამორთოს და ჩართოს ახლო ნათების ფარები:",
+    "answers": [
+      "ნებისმიერ შემთხვევაში, აღმართის ბოლოსთან მიახლოებისას",
+      "მხოლოდ შემხვედრი სატრანსპორტო საშუალების გამოჩენისას"
+    ]
+  },
+  {
+    "id": 274,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალების რომელი გარე სანათი ხელსაწყოების ჩართვა უზრუნველყოფს გზის უკეთეს ხილვადობას დღე-ღამის ბნელ დროს, ძლიერი თოვის პირობებში?",
+    "answers": [
+      "შორი ნათების ფარები",
+      "ნისლსაწინააღმდეგო ფარები შორი ნათების ფარებთან ერთად",
+      "ნისლსაწინააღმდეგო ფარები ახლო ნათების ფარებთან ერთად"
+    ]
+  },
+  {
+    "id": 275,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ქვემოთ ჩამოთვლილ რომელ ადგილას არ არის ვალდებული მძღოლი მანევრის დაწყებამდე ჩართოს შესაბამისი მიმართულების მოხვევის შუქ-მაჩვენებელი?",
+    "answers": [
+      "საცხოვრებელ ზონაში",
+      "მიმდებარე ტერიტორიაზე",
+      "ეზოს ტერიტორიაზე",
+      "ვალდებულია ამ ბილეთში ჩამოთვლილ ნებისმიერ ადგილას"
+    ]
+  },
+  {
+    "id": 276,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაბინდებიდან გათენებამდე, ასევე ნებისმიერი სხვა არასაკმარისი ხილვადობის პირობებში, გზაზე გაჩერებისა ან დგომის დროს მექანიკური სატრანსპორტო საშუალებები და მათი მისაბმელები აღნიშნული უნდა იყვნენ:",
+    "answers": [
+      "შორი განათების ფარებით",
+      "წინა და უკანა საგაბარიტო სინათლეებით",
+      "ახლო განათების ფარებით",
+      "წინა ნისლსაწინააღმდეგო ფარები"
+    ]
+  },
+  {
+    "id": 277,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოძრავ მექანიკურ სატრანსპორტო საშუალებებზე დღე-ღამის ბნელ დროს ან არასაკმარისი ხილვადობის პირობებში ჩართული უნდა იყოს:",
+    "answers": [
+      "მხოლოდ ახლო ან შორი განათების ფარები",
+      "მხოლოდ ნისლსაწინააღმდეგო ფარები",
+      "ახლო ან შორი განათების ფარები და უკანა საგაბარიტო სინათლეები",
+      "მხოლოდ წინა და უკანა საგაბარიტო სინათლეები"
+    ]
+  },
+  {
+    "id": 278,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
     "answers": [
       "სატვირთო განყოფილების სიგრძე უნდა გავამრავლოთ მის სიგანეზე და სიმაღლეზე",
       "სატვირთო განყოფილების სიგრძე უნდა გავამრავლოთ მის სიგანეზე და სიმაღლის ნახევარზე",

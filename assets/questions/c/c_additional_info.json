@@ -1,6 +1,6 @@
 [
   {
-    "id": 8001,
+    "id": 1,
     "question": "მოცემული დამატებითი ინფორმაციის ნიშნები (დაფები) მიუთითებენ:",
     "answers": [
       "გზაჯვარედინის წინ დადგმული ნიშნის მოქმედების მიმართულებას",
@@ -9,12 +9,12 @@
     ],
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_8001.mp4",
-    "wrongVideo": "assets/videos/wrong_8001.mp4",
-    "previewVideo": "assets/videos/preview_8001.mp4"
+    "correctVideo": "assets/videos/correct_1.mp4",
+    "wrongVideo": "assets/videos/wrong_1.mp4",
+    "previewVideo": "assets/videos/preview_1.mp4"
   },
   {
-    "id": 8002,
+    "id": 2,
     "question": "მოცემული დამატებითი ინფორმაციის ნიშანი (დაფა) მიუთითებს:",
     "answers": [
       "მანძილს ნიშნიდან სახიფათო მონაკვეთის დასაწყისამდე",
@@ -23,12 +23,12 @@
     ],
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_8002.mp4",
-    "wrongVideo": "assets/videos/wrong_8002.mp4",
-    "previewVideo": "assets/videos/preview_8002.mp4"
+    "correctVideo": "assets/videos/correct_2.mp4",
+    "wrongVideo": "assets/videos/wrong_2.mp4",
+    "previewVideo": "assets/videos/preview_2.mp4"
   },
   {
-    "id": 8003,
+    "id": 3,
     "question": "მოცემული საგზაო ნიშნების კომბინაციიდან, რომლის მოქმედება ვრცელდება მხოლოდ მსუბუქ ავტომობილზე?",
     "answers": [
       "მხოლოდ IV",
@@ -38,12 +38,12 @@
     ],
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_8003.mp4",
-    "wrongVideo": "assets/videos/wrong_8003.mp4",
-    "previewVideo": "assets/videos/preview_8003.mp4"
+    "correctVideo": "assets/videos/correct_3.mp4",
+    "wrongVideo": "assets/videos/wrong_3.mp4",
+    "previewVideo": "assets/videos/preview_3.mp4"
   },
   {
-    "id": 8004,
+    "id": 4,
     "question": "მოცემული საგზაო ნიშნების კომბინაცია მძღოლს მიუთითებს, რომ გასწრება აკრძალულია:",
     "answers": [
       "დღე-ღამის ბნელ დროს",
@@ -52,12 +52,12 @@
     ],
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_8004.mp4",
-    "wrongVideo": "assets/videos/wrong_8004.mp4",
-    "previewVideo": "assets/videos/preview_8004.mp4"
+    "correctVideo": "assets/videos/correct_4.mp4",
+    "wrongVideo": "assets/videos/wrong_4.mp4",
+    "previewVideo": "assets/videos/preview_4.mp4"
   },
   {
-    "id": 8005,
+    "id": 5,
     "question": "მოცემული საგზაო ნიშნები მძღოლს აწვდის ინფორმაციას, რომ ნიშნის დადგმის ადგილიდან წინ:",
     "answers": [
       "400 მეტრის მანძილზე უსწორმასწორო გზაა, სადაც რეკომენდებულია მოძრაობა 30 კმ/სთ-ში სიჩქარით",
@@ -66,12 +66,12 @@
     ],
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_8005.mp4",
-    "wrongVideo": "assets/videos/wrong_8005.mp4",
-    "previewVideo": "assets/videos/preview_8005.mp4"
+    "correctVideo": "assets/videos/correct_5.mp4",
+    "wrongVideo": "assets/videos/wrong_5.mp4",
+    "previewVideo": "assets/videos/preview_5.mp4"
   },
   {
-    "id": 8006,
+    "id": 6,
     "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა თეთრი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობა?",
     "answers": [
       "ეკრძალება",
@@ -79,12 +79,12 @@
     ],
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_8006.mp4",
-    "wrongVideo": "assets/videos/wrong_8006.mp4",
-    "previewVideo": "assets/videos/preview_8006.mp4"
+    "correctVideo": "assets/videos/correct_6.mp4",
+    "wrongVideo": "assets/videos/wrong_6.mp4",
+    "previewVideo": "assets/videos/preview_6.mp4"
   },
   {
-    "id": 8007,
+    "id": 7,
     "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა ყვითელი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობა?",
     "answers": [
       "ეკრძალება",
@@ -92,12 +92,12 @@
     ],
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_8007.mp4",
-    "wrongVideo": "assets/videos/wrong_8007.mp4",
-    "previewVideo": "assets/videos/preview_8007.mp4"
+    "correctVideo": "assets/videos/correct_7.mp4",
+    "wrongVideo": "assets/videos/wrong_7.mp4",
+    "previewVideo": "assets/videos/preview_7.mp4"
   },
   {
-    "id": 8008,
+    "id": 8,
     "question": "მოცემული საგზაო ნიშანი მძღოლს მიუთითებს, რომ ნიშნების დადგმის ადგილიდან წინ:",
     "answers": [
       "300 მეტრის მანძილზე მოძრაობა აკრძალულია 50 კმ/სთ მეტი სიჩქარით",
@@ -105,12 +105,12 @@
     ],
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_8008.mp4",
-    "wrongVideo": "assets/videos/wrong_8008.mp4",
-    "previewVideo": "assets/videos/preview_8008.mp4"
+    "correctVideo": "assets/videos/correct_8.mp4",
+    "wrongVideo": "assets/videos/wrong_8.mp4",
+    "previewVideo": "assets/videos/preview_8.mp4"
   },
   {
-    "id": 8009,
+    "id": 9,
     "question": "მოცემული საგზაო ნიშნების კომბინაცია მძღოლს მიუთითებს, რომ ნიშნების დადგმის ადგილიდან წინ:",
     "answers": [
       "300 მეტრის მანძილზე მოძრაობა ნებადართულია, არაუმეტეს 50 კმ/სთ სიჩქარით",
@@ -118,8 +118,8 @@
     ],
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_8009.mp4",
-    "wrongVideo": "assets/videos/wrong_8009.mp4",
-    "previewVideo": "assets/videos/preview_8009.mp4"
+    "correctVideo": "assets/videos/correct_9.mp4",
+    "wrongVideo": "assets/videos/wrong_9.mp4",
+    "previewVideo": "assets/videos/preview_9.mp4"
   }
 ]

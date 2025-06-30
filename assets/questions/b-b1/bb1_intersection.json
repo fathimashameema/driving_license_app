@@ -1,6 +1,6 @@
 [
   {
-    "id": 85,
+    "id": 151,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_85.mp4",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "id": 86,
+    "id": 152,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_86.mp4",
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "id": 87,
+    "id": 153,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_87.mp4",
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "id": 88,
+    "id": 154,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_88.mp4",
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "id": 89,
+    "id": 155,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_89.mp4",
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "id": 90,
+    "id": 156,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_90.mp4",
@@ -82,7 +82,7 @@
     ]
   },
   {
-    "id": 91,
+    "id": 157,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_91.mp4",
@@ -97,7 +97,7 @@
     ]
   },
   {
-    "id": 92,
+    "id": 158,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_92.mp4",
@@ -111,7 +111,7 @@
     ]
   },
   {
-    "id": 93,
+    "id": 159,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_93.mp4",
@@ -125,7 +125,7 @@
     ]
   },
   {
-    "id": 94,
+    "id": 160,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_94.mp4",
@@ -139,7 +139,7 @@
     ]
   },
   {
-    "id": 95,
+    "id": 161,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_95.mp4",
@@ -153,7 +153,7 @@
     ]
   },
   {
-    "id": 96,
+    "id": 162,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -167,7 +167,7 @@
     ]
   },
   {
-    "id": 97,
+    "id": 163,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -182,7 +182,7 @@
     ]
   },
   {
-    "id": 98,
+    "id": 164,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -196,7 +196,7 @@
     ]
   },
   {
-    "id": 99,
+    "id": 165,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -211,7 +211,7 @@
     ]
   },
   {
-    "id": 100,
+    "id": 166,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -219,311 +219,18 @@
     "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
     "answers": [
-      "ჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - პირველმა ტრამვაიმ და მეორე ტრამვაიმ, ბოლოს - სატვირთო ავტომობილმა",
-      "ჯერ უნდა გაიაროს პირველმა ტრამვაიმ და მეორე ტრამვაიმ, შემდეგ - მსუბუქმა ავტომობილმა, ბოლოს - სატვირთო ავტომობილმა",
-      "ჯერ უნდა გაიაროს სატვირთო ავტომობილმა, შემდეგ - მსუბუქმა ავტომობილმა, ბოლოს - პირველმა ტრამვაიმ და მეორე ტრამვაიმ",
-      "ჯერ უნდა გაიაროს პირველმა ტრამვაიმ და მეორე ტრამვაიმ, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - მსუბუქმა ავტომობილმა"
+      "ჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - მოტოციკლმა, ბოლოს - მსუბუქმა ავტომობილმა",
+      "ჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - მოტოციკლმა, ბოლოს - ოპერატიული სამსახურის ავტომობილმა",
+      "3\nჯერ უნდა გაიაროს ოპერატიული სამსახურის ავტომობილმა, შემდეგ - მსუბუქმა ავტომობილმა, ბოლოს - მოტოციკლმა"
     ]
   },
   {
-    "id": 101,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ გზაჯვარედინის მარჯვენა მხრიდან შემომავალი გზის საფარი გრუნტოვანია?",
-    "answers": [
-      "ჯერ უნდა გაიაროს სატვირთო ავტომობილმა, შემდეგ - ავტობუსმა, შემდეგ - მოტოციკლმა, ბოლოს - მსუბუქმა ავტომობილმა",
-      "ჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - მოტოციკლმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - ავტობუსმა",
-      "ჯერ უნდა გაიაროს მოტოციკლმა, შემდეგ - ავტობუსმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - მსუბუქმა ავტომობილმა"
-    ]
-  },
-  {
-    "id": 102,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი ავტომობილებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ჯერ უნდა გაიაროს ყვითელმა ავტომობილმა, შემდეგ - თეთრმა ავტომობილმა, ბოლოს - მწვანე ავტომობილმა",
-      "ჯერ უნდა გაიაროს ყვითელმა ავტომობილმა, შემდეგ - მწვანე ავტომობილმა, ბოლოს - თეთრმა ავტომობილმა",
-      "ჯერ უნდა გაიაროს მწვანე ავტომობილმა, შემდეგ - ყვითელმა ავტომობილმა, ბოლოს - თეთრმა ავტომობილმა"
-    ]
-  },
-  {
-    "id": 103,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი ავტომობილებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ჯერ უნდა გაიაროს ყვითელმა ავტომობილმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - წითელმა ავტომობილმა",
-      "ჯერ უნდა გაიაროს სატვირთო ავტომობილმა, შემდეგ - წითელმა ავტომობილმა, ბოლოს - ყვითელმა ავტომობილმა",
-      "ჯერ უნდა გაიაროს წითელმა ავტომობილმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - ყვითელმა ავტომობილმა"
-    ]
-  },
-  {
-    "id": 104,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ჯერ უნდა გაიაროს ლურჯმა ავტომობილმა, შემდეგ - ტრამვაიმ, ბოლოს - მწვანე ავტომობილმა",
-      "ჯერ უნდა გაიაროს ტრამვაიმ, შემდეგ - ლურჯმა ავტომობილმა, ბოლოს - მწვანე ავტომობილმა",
-      "ჯერ უნდა გაიაროს ტრამვაიმ და მწვანე ავტომობილმა, ბოლოს - ლურჯმა ავტომობილმა"
-    ]
-  },
-  {
-    "id": 105,
+    "id": 167,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - პირველმა ტრამვაიმ, ბოლოს - მეორე ტრამვაიმ",
-      "ჯერ უნდა გაიაროს მეორე ტრამვაიმ, შემდეგ - მსუბუქმა ავტომობილმა, ბოლოს - პირველმა ტრამვაიმ",
-      "ჯერ უნდა გაიაროს პირველმა ტრამვაიმ, შემდეგ - მეორე ტრამვაიმ, ბოლოს - მსუბუქმა ავტომობილმა"
-    ]
-  },
-  {
-    "id": 106,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ შუქნიშანი არ მუშაობს?",
-    "answers": [
-      "ჯერ უნდა გაიაროს ავტობუსმა, შემდეგ - მსუბუქმა ავტომობილმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - მოტოციკლმა",
-      "ჯერ უნდა გაიაროს მსუბუქმა და სატვირთო ავტომობილებმა, შემდეგ - ავტობუსმა და მოტოციკლმა",
-      "ჯერ უნდა გაიაროს ავტობუსმა და მოტოციკლმა, შემდეგ - მსუბუქმა და სატვირთო ავტომობილებმა"
-    ]
-  },
-  {
-    "id": 107,
-    "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ჯერ უნდა გაიაროს ავტობუსმა, შემდეგ - მსუბუქმა ავტომობილმა, შემდეგ - მოტოციკლმა, ბოლოს - ტრამვაიმ",
-      "ჯერ უნდა გაიაროს ტრამვაიმ, შემდეგ - მსუბუქმა ავტომობილმა, ბოლოს - ავტობუსმა და მოტოციკლმა",
-      "ჯერ უნდა გაიაროს მსუბუქმა ავტომობილმა, შემდეგ - ავტობუსმა, მერე - ტრამვაიმ, ბოლოს - მოტოციკლმა",
-      "ჯერ უნდა გაიაროს მოტოციკლმა, შემდეგ - ავტობუსმა, ბოლოს ტრამვაიმ და მსუბუქმა ავტომობილმა"
-    ]
-  },
-  {
-    "id": 108,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ჯერ უნდა გაიაროს წითელმა მსუბუქმა ავტომობილმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - მწვანე მსუბუქმა ავტომობილმა",
-      "ჯერ უნდა გაიაროს სატვირთო ავტომობილმა, შემდეგ - მწვანე მსუბუქმა ავტომობილმა, ბოლოს - წითელმა მსუბუქმა ავტომობილმა",
-      "ჯერ უნდა გაიაროს მწვანე მსუბუქმა ავტომობილმა, შემდეგ - წითელმა მსუბუქმა ავტომობილმა, ბოლოს - სატვირთო ავტომობილმა"
-    ]
-  },
-  {
-    "id": 109,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ჯერ უნდა გაიაროს ყვითელმა ავტომობილმა, შემდეგ - მოტოციკლმა, ბოლოს - წითელმა ავტომობილმა",
-      "ჯერ უნდა გაიაროს ყვითელმა ავტომობილმა, შემდეგ - წითელმა ავტომობილმა, ბოლოს - მოტოციკლმა",
-      "ჯერ უნდა გაიაროს მოტოციკლმა, შემდეგ - ყვითელმა ავტომობილმა, ბოლოს - წითელმა ავტომობილმა"
-    ]
-  },
-  {
-    "id": 110,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელი ავტომობილის მძღოლს ენიჭება უპირატესობა ისრის მიმართულებით მოძრაობის შემთხვევაში, თუ საგზაო ნიშნები დაფარულია თოვლით?",
-    "answers": [
-      "თეთრი ავტომობილის მძღოლს",
-      "წითელი ავტომობილის მძღოლს"
-    ]
-  },
-  {
-    "id": 111,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "თეთრი ავტომობილის მძღოლს",
-      "რუხი ავტომობილის მძღოლს"
-    ]
-  },
-  {
-    "id": 112,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ჯერ უნდა გაიაროს ავტობუსმა, შემდეგ - მსუბუქმა ავტომობილმა, ბოლოს - სატვირთო ავტომობილმა",
-      "ჯერ უნდა გაიაროს სატვირთო ავტომობილმა, შემდეგ - მსუბუქმა ავტომობილმა, ბოლოს - ავტობუსმა",
-      "ჯერ უნდა გაიაროს ავტობუსმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - მსუბუქმა ავტომობილმა"
-    ]
-  },
-  {
-    "id": 113,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი ავტომობილებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ჯერ უნდა გაიაროს ყვითელმა ავტომობილმა, შემდეგ - ლურჯმა ავტომობილმა, ბოლოს - სატვირთო ავტომობილმა",
-      "ჯერ უნდა გაიაროს სატვირთო ავტომობილმა, შემდეგ - ლურჯმა ავტომობილმა, ბოლოს - ყვითელმა ავტომობილმა",
-      "ჯერ უნდა გაიაროს ლურჯმა ავტომობილმა, შემდეგ - სატვირთო ავტომობილმა, ბოლოს - ყვითელმა ავტომობილმა"
-    ]
-  },
-  {
-    "id": 114,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელი სატრანსპორტო საშუალების მძღოლს ენიჭება უპირატესობა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "მსუბუქი ავტომობილის მძღოლს",
-      "ტრამვაის მძღოლს"
-    ]
-  },
-  {
-    "id": 115,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელი სატრანსპორტო საშუალების მძღოლის მიმართ წარმოექმნება გზის დათმობის ვალდებულება მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "მხოლოდ ავტობუსის მძღოლის მიმართ",
-      "მხოლოდ სატვირთო ავტომობილის მძღოლის მიმართ",
-      "როგორც სატვირთო ავტომობილის, ასევე ავტობუსის მძღოლების მიმართ",
-      "არცერთი სატრანსპორტო საშუალების მძღოლების მიმართ"
-    ]
-  },
-  {
-    "id": 116,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "რომელი სატრანსპორტო საშუალების მძღოლის მიმართ წარმოექმნება გზის დათმობის ვალდებულება წითელი მსუბუქი ავტომობილის მძღოლს, ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "მხოლოდ მოტოციკლის მძღოლის მიმართ",
-      "მხოლოდ ლურჯი ავტომობილის მძღოლის მიმართ",
-      "როგორც მოტოციკლის მძღოლის, ასევე ლურჯი ავტომობილის მძღოლის მიმართ"
-    ]
-  },
-  {
-    "id": 117,
-    "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "რომელი ავტომობილის მძღოლის მიმართ წარმოექმნება გზის დათმობის ვალდებულება მწვანე მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "მხოლოდ სატვირთო ავტომობილის მძღოლის მიმართ",
-      "მხოლოდ შავი მსუბუქი ავტომობილის მძღოლის მიმართ",
-      "როგორც სატვირთო ავტომობილის, ასევე შავი მსუბუქი ავტომობილის მძღოლების მიმართ",
-      "არცერთი ავტომობილის მძღოლების მიმართ"
-    ]
-  },
-  {
-    "id": 118,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "რომელი ავტომობილის მძღოლს წარმოექმნება გზის დათმობის ვალდებულება ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "თეთრი ავტომობილის მძღოლს",
-      "წითელი ავტომობილის მძღოლს"
-    ]
-  },
-  {
-    "id": 119,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი ავტომობილებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ჯერ უნდა გაიაროს რუხმა ავტომობილმა, შემდეგ - ყვითელმა ავტომობილმა, ბოლოს - წითელმა ავტომობილმა",
-      "ჯერ უნდა გაიაროს ყვითელმა ავტომობილმა, შემდეგ - რუხმა ავტომობილმა, ბოლოს - წითელმა ავტომობილმა",
-      "ჯერ უნდა გაიაროს რუხმა ავტომობილმა, შემდეგ - წითელმა ავტომობილმა, ბოლოს - ყვითელმა ავტომობილმა"
-    ]
-  },
-  {
-    "id": 120,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "ვალდებულია თუ არა მსუბუქი ავტომობილის მძღოლი გზა დაუთმოს ქვეითებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ვალდებულია",
-      "არ არის ვალდებული"
-    ]
-  },
-  {
-    "id": 121,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
-    "answers": [
-      "ჯერ უნდა გაიაროს მოპედმა, შემდეგ - ტრამვაიმ, ბოლოს - მსუბუქმა ავტომობილმა",
-      "ჯერ უნდა გაიაროს ტრამვაიმ, შემდეგ - მოპედმა, ბოლოს - მსუბუქმა ავტომობილმა",
-      "ჯერ უნდა გაიაროს ტრამვაიმ, შემდეგ - მსუბუქმა ავტომობილმა, ბოლოს - მოპედმა"
-    ]
-  },
-  {
-    "id": 122,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
     "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
     "answers": [
       "ჯერ უნდა გაიაროს ველოსიპედმა, შემდეგ - თეთრმა ავტომობილმა, ბოლოს - მწვანე ავტომობილმა",
@@ -532,12 +239,12 @@
     ]
   },
   {
-    "id": 123,
+    "id": 168,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
     "question": "რა თანამიმდევრობით უნდა გაიარონ გზაჯვარედინი სატრანსპორტო საშუალებებმა ისრის მიმართულებით მოძრაობის შემთხვევაში?",
     "answers": [
       "ჯერ უნდა გაიაროს მწვანე ავტომობილმა, შემდეგ - წითელმა ავტომობილმა, ბოლოს - ველოსიპედმა",
@@ -546,7 +253,7 @@
     ]
   },
   {
-    "id": 124,
+    "id": 169,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_125.mp4",
@@ -559,7 +266,7 @@
     ]
   },
   {
-    "id": 125,
+    "id": 170,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_126.mp4",
@@ -573,7 +280,7 @@
     ]
   },
   {
-    "id": 126,
+    "id": 171,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_127.mp4",
@@ -588,7 +295,7 @@
     ]
   },
   {
-    "id": 127,
+    "id": 172,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_128.mp4",
@@ -601,7 +308,7 @@
     ]
   },
   {
-    "id": 128,
+    "id": 173,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_129.mp4",

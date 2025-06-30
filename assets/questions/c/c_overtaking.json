@@ -1,6 +1,6 @@
 [
   {
-    "id": 940,
+    "id": 378,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_940.mp4",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "id": 941,
+    "id": 379,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_941.mp4",
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "id": 942,
+    "id": 380,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_942.mp4",
@@ -39,7 +39,7 @@
     ]
   },
   {
-    "id": 943,
+    "id": 381,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_943.mp4",
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "id": 944,
+    "id": 382,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_944.mp4",
@@ -65,7 +65,7 @@
     ]
   },
   {
-    "id": 945,
+    "id": 383,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_945.mp4",
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "id": 946,
+    "id": 384,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_946.mp4",
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "id": 947,
+    "id": 385,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_947.mp4",
@@ -104,7 +104,7 @@
     ]
   },
   {
-    "id": 948,
+    "id": 386,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_948.mp4",
@@ -119,7 +119,7 @@
     ]
   },
   {
-    "id": 949,
+    "id": 387,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_949.mp4",
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "id": 950,
+    "id": 388,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_950.mp4",
@@ -147,7 +147,7 @@
     ]
   },
   {
-    "id": 951,
+    "id": 389,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_951.mp4",
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "id": 952,
+    "id": 390,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_952.mp4",
@@ -173,7 +173,7 @@
     ]
   },
   {
-    "id": 953,
+    "id": 391,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_953.mp4",
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "id": 954,
+    "id": 392,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_954.mp4",
@@ -199,7 +199,7 @@
     ]
   },
   {
-    "id": 955,
+    "id": 393,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_955.mp4",
@@ -212,7 +212,7 @@
     ]
   },
   {
-    "id": 956,
+    "id": 394,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_956.mp4",
@@ -225,7 +225,7 @@
     ]
   },
   {
-    "id": 957,
+    "id": 395,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_957.mp4",
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "id": 958,
+    "id": 396,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_958.mp4",
@@ -251,7 +251,7 @@
     ]
   },
   {
-    "id": 959,
+    "id": 397,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -266,7 +266,7 @@
     ]
   },
   {
-    "id": 960,
+    "id": 398,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "id": 961,
+    "id": 399,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -293,7 +293,7 @@
     ]
   },
   {
-    "id": 962,
+    "id": 400,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "id": 963,
+    "id": 401,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -319,7 +319,7 @@
     ]
   },
   {
-    "id": 964,
+    "id": 402,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -333,7 +333,7 @@
     ]
   },
   {
-    "id": 965,
+    "id": 403,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -346,7 +346,7 @@
     ]
   },
   {
-    "id": 966,
+    "id": 404,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -360,118 +360,8 @@
     ]
   },
   {
-    "id": 967,
+    "id": 405,
     "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "გზაზე, რომელზეც თანმხვედრი მიმართულებით მოძრაობისთვის სულ მცირე ორი ზოლია, აქვს თუ არა უფლება მძღოლს დარჩეს პირველი გასწრების დროს დაკავებულ მოძრაობის ზოლზე, თუ ადრე დაკავებულ ზოლზე დაბრუნებისთანავე ან მოკლე დროში მოუწევს ახალი გასწრების დაწყება?",
-    "answers": [
-      "არა აქვს უფლება",
-      "უფლება აქვს, თუ წინასწარ დარწმუნდება, რომ ეს არ შეუქმნის დაბრკოლებას მის უკან მეტი სიჩქარით მოძრავ სატრანსპორტო საშუალების მძღოლს"
-    ]
-  },
-  {
-    "id": 968,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "გარდა გზიდან მარცხენა მხრიდან გასვლის შემთხვევისა, მძღოლი, რომელიც დარწმუნდება, რომ მის უკან მომავალი მძღოლი აპირებს გასწრებას ვალდებულია:",
-    "answers": [
-      "მიუახლოვდეს გზის სავალი ნაწილის მარჯვენა კიდეს და გაზარდოს სიჩქარე",
-      "დაიკავოს თანმ�ვედრი მიმართულების უკიდურესი მარცხენა მხარე და შეამციროს სიჩქარე",
-      "შეძლებისდაგვარად მიუახლოვდეს გზის სავალი ნაწილის მარჯვენა კიდეს და არ გაზარდოს სიჩქარე"
-    ]
-  },
-  {
-    "id": 969,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
-    "answers": [
-      "ეკრძალება",
-      "არ ეკრძალება"
-    ]
-  },
-  {
-    "id": 970,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "ეკრძალება თუ არა გასასწრები სატრანსპორტო საშუალების მძღოლს ხელი შეუშალოს გასწრებას მოძრაობის სიჩქარის მომატებით ან სხვა მოქმედებით?",
-    "answers": [
-      "ეკრძალება",
-      "არ ეკრძალება"
-    ]
-  },
-  {
-    "id": 971,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელი მიმართულებით მოძრაობის გაგრძელების უფლება აქვს სატვირთო ავტომობილის მძღოლს, თუ სატვირთო ავტომობილის ნებადართული მაქსიმალური მასა 15 ტონაა?",
-    "answers": [
-      "მხოლოდ პირდაპირ და მარჯვნივ",
-      "მხოლოდ პირდაპირ, მარცხნივ და უკუმიმართულებით (მობრუნება)",
-      "მხოლოდ პირდაპირ, მარჯვნივ და უკუმიმართულებით (მობრუნება)",
-      "ყველა მიმართულებით"
-    ]
-  },
-  {
-    "id": 972,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "რომელი მიმართულებით მოძრაობის გაგრძელების უფლება აქვს სატვირთო ავტომობილის მძღოლს, თუ სატვირთო ავტომობილის ნებადართული მაქსიმალური მასა 9 ტონაა?",
-    "answers": [
-      "მხოლოდ პირდაპირ და მარჯვნივ",
-      "მხოლოდ მარჯვნივ, მარცხნივ და უკუმიმართულებით (მობრუნება)",
-      "მხოლოდ პირდაპირ, მარცხნივ და უკუმიმართულებით (მობრუნება)"
-    ]
-  },
-  {
-    "id": 973,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "„გასწრება“ ნიშნავს:",
-    "answers": [
-      "დაკავებული ზოლიდან გამოსვლით, იმავე ზოლში თანხვდენილი მიმართულებით, წინ მოძრავი ერთი ან რამდენიმე სატრანსპორტო საშუალების გადასწრებას",
-      "თანხვედრი მიმართულებით მოძრაობის ზოლებში სატრანსპორტო საშუალების უფრო სწრაფ მოძრაობას, ვიდრე სავალი ნაწილის ნაპირთან ახლოს მდებარე ზოლებში მოძრავი სატრანსპორტო საშუალებისა",
-      "მეზობელ მოძრაობის ზოლში საპირისპირო მიმართულებით მოძრავი ერთი ან რამდენიმე სატრანსპორტო საშუალების გვერდის აქცევას"
-    ]
-  },
-  {
-    "id": 974,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მძღოლმა ხმოვანი სიგნალი შეიძლება გამოიყენოს:",
-    "answers": [
-      "მხოლოდ დროული გაფრთხილებისთვის საგზაო-სატრანსპორტო შემთხვევის თავიდან ასაცილებლად",
-      "მხოლოდ დასახლებული პუნქტების გარეთ, როდესაც საჭიროა სხვა სატრანსპორტო საშუალების მძღოლის გაფრთხილება გასწრების განზრახვის შესახებ",
-      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
-    ]
-  },
-  {
-    "id": 975,
-    "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",

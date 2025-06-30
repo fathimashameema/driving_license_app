@@ -1,119 +1,7 @@
 [
+  
   {
-    "id": 905,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_video.mp4",
-    "wrongVideo": "assets/videos/2.mp4",
-    "previewVideo": "assets/videos/3.mp4",
-    "question": "საგზაო-სატრანსპორტო შემთხვევის მონაწილე მძღოლი ვალდებულია:",
-    "answers": [
-      "1\nმხოლოდ დაუყოვნებლივ გააჩეროს (არ დაძრას ადგილიდან) სატრანსპორტო საშუალება",
-      "2\nმხოლოდ ჩართოს საავარიო შუქსიგნალიზაცია",
-      "3\nროგორც დაუყოვნებლივ გააჩეროს (არ დაძრას ადგილიდან) სატრანსპორტო საშუალება, ასევე ჩართოს საავარიო შუქსიგნალიზაცია"
-    ]
-  },
-  {
-    "id": 906,
-    "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_video.mp4",
-    "wrongVideo": "assets/videos/2.mp4",
-    "previewVideo": "assets/videos/3.mp4",
-    "question": "საგზაო-სატრანსპორტო შემთხვევის მონაწილე მძღოლი ვალდებულია:",
-    "answers": [
-      "1\nმხოლოდ მიიღოს საჭირო ზომები საგზაო-სატრანსპორტო შემთხვევის ადგილზე მოძრაობის უსაფრთხოების უზრუნველსაყოფად",
-      "2\nმხოლოდ მოერიდოს შემთხვევის ადგილზე რაიმეს შეცვლას ან იმ ნაკვალევის განადგურებას, რომელიც შესაძლოა სასარგებლო იყოს პასუხისმგებლობის დასადგენად",
-      "3\nმხოლოდ ჩაიწეროს თვითმხილველთა გვარები",
-      "4\nშეასრულოს ამ ბილეთში ჩამოთვლილი ყველა ქმედება"
-    ]
-  },
-  {
-    "id": 907,
-    "correctAnswer": 3,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_video.mp4",
-    "wrongVideo": "assets/videos/2.mp4",
-    "previewVideo": "assets/videos/3.mp4",
-    "question": "რამდენი სავალი ნაწილი აქვს მოცემულ გზას?",
-    "answers": [
-      "1\nოთხი",
-      "2\nსამი",
-      "3\nორი",
-      "4\nერთი"
-    ]
-  },
-  {
-    "id": 908,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_video.mp4",
-    "wrongVideo": "assets/videos/2.mp4",
-    "previewVideo": "assets/videos/3.mp4",
-    "question": "რამდენი სავალი ნაწილი აქვს მოცემულ გზას?",
-    "answers": [
-      "1\nსამი",
-      "2\nერთი",
-      "3\nორი"
-    ]
-  },
-  {
-    "id": 909,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_video.mp4",
-    "wrongVideo": "assets/videos/2.mp4",
-    "previewVideo": "assets/videos/3.mp4",
-    "question": "ქვეითთა გადასასვლელზე შესვლამდე მძღოლი ვალდებულია დარწმუნდეს, რომ:",
-    "answers": [
-      "1\nგადასასვლელის ზედპირი არ არის მოყინული",
-      "2\nგადასასვლელზე საპირისპირო მიმართულებიდან არ მოძრაობს სხვა სატრანსპორტო საშუალება",
-      "3\nიძულებული არ გახდება გაჩერდეს მასზე"
-    ]
-  },
-  {
-    "id": 910,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_video.mp4",
-    "wrongVideo": "assets/videos/2.mp4",
-    "previewVideo": "assets/videos/3.mp4",
-    "question": "უპირატესობა (პრიორიტეტი) არის:",
-    "answers": [
-      "1\nსაგზაო მოძრაობის მონაწილის ვალდებულება არ განახორციელოს მანევრი, თუკი ეს სხვა საგზაო მოძრაობის მონაწილეს იძულებულს გახდის უეცრად შეცვალოს სიჩქარე ან მიმართულება",
-      "2\nსაგზაო მოძრაობის მონაწილის უფლება, სხვა საგზაო მოძრაობის მონაწილეებთან შედარებით პირველმა იმოძრაოს დასახული მიმართულებით"
-    ]
-  },
-  {
-    "id": 911,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_video.mp4",
-    "wrongVideo": "assets/videos/2.mp4",
-    "previewVideo": "assets/videos/3.mp4",
-    "question": "„არასაკმარის ხილვადობად“ ითვლება გვირაბში გავლისას, დღე-ღამის ბნელ დროს, ნისლის, წვიმის, თოვის და სხვა ბუნებრივი მოვლენების დროს, გზის ხილვადობის შემცირება:",
-    "answers": [
-      "1\n300 მეტრზე ნაკლებ მანძილზე",
-      "2\n500 მეტრზე ნაკლებ მანძილზე",
-      "3\n600 მეტრზე ნაკლებ მანძილზე"
-    ]
-  },
-  {
-    "id": 912,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_video.mp4",
-    "wrongVideo": "assets/videos/2.mp4",
-    "previewVideo": "assets/videos/3.mp4",
-    "question": "„გამყოფი ზოლი“ არის:",
-    "answers": [
-      "1\nგზის ნაწილი, რომელიც ჩვეულებრივ ურელსო სატრანსპორტო საშუალებების მოძრაობისთვის გამოიყენება",
-      "2\nგრძივი საგზაო მონიშვნის საშუალებით მონიშნული ან მოუნიშნავი ნებისმიერი ზოლი იმ გრძივი ზოლებიდან, რომლებადაც შეიძლება დაიყოს გზის სავალი ნაწილი",
-      "3\nკონსტრუქციულად გამოყოფილი გზის ელემენტი, რომელიც ყოფს მომიჯნავე სავალ ნაწილებს და არ არის განკუთვნილი მასზე ურელსო სატრანსპორტო საშუალების მოძრაობისათვის"
-    ]
-  },
-  {
-    "id": 913,
+    "id": 561,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -127,7 +15,7 @@
     ]
   },
   {
-    "id": 914,
+    "id": 562,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_video.mp4",
@@ -140,7 +28,7 @@
     ]
   },
   {
-    "id": 915,
+    "id": 563,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_915.mp4",
@@ -154,7 +42,7 @@
     ]
   },
   {
-    "id": 916,
+    "id": 564,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_916.mp4",
@@ -168,7 +56,7 @@
     ]
   },
   {
-    "id": 917,
+    "id": 565,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_917.mp4",
@@ -182,7 +70,7 @@
     ]
   },
   {
-    "id": 918,
+    "id": 566,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_918.mp4",
@@ -196,7 +84,7 @@
     ]
   },
   {
-    "id": 919,
+    "id": 567,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_919.mp4",
@@ -210,7 +98,7 @@
     ]
   },
   {
-    "id": 920,
+    "id": 568,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_920.mp4",
@@ -224,7 +112,7 @@
     ]
   },
   {
-    "id": 921,
+    "id": 569,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_921.mp4",
@@ -238,7 +126,7 @@
     ]
   },
   {
-    "id": 922,
+    "id": 570,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_922.mp4",
@@ -251,7 +139,7 @@
     ]
   },
   {
-    "id": 923,
+    "id": 571,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_923.mp4",
@@ -265,7 +153,7 @@
     ]
   },
   {
-    "id": 924,
+    "id": 572,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_924.mp4",
@@ -279,7 +167,7 @@
     ]
   },
   {
-    "id": 925,
+    "id": 573,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_925.mp4",
@@ -294,7 +182,7 @@
     ]
   },
   {
-    "id": 926,
+    "id": 574,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_926.mp4",
@@ -308,7 +196,7 @@
     ]
   },
   {
-    "id": 927,
+    "id": 575,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_927.mp4",
@@ -322,7 +210,7 @@
     ]
   },
   {
-    "id": 928,
+    "id": 576,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_928.mp4",
@@ -335,7 +223,7 @@
     ]
   },
   {
-    "id": 929,
+    "id": 577,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_929.mp4",
@@ -349,7 +237,7 @@
     ]
   },
   {
-    "id": 930,
+    "id": 578,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_930.mp4",
@@ -363,7 +251,7 @@
     ]
   },
   {
-    "id": 931,
+    "id": 579,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_931.mp4",
@@ -377,7 +265,7 @@
     ]
   },
   {
-    "id": 932,
+    "id": 580,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_932.mp4",
@@ -390,7 +278,7 @@
     ]
   },
   {
-    "id": 933,
+    "id": 581,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_933.mp4",
@@ -403,7 +291,7 @@
     ]
   },
   {
-    "id": 934,
+    "id": 582,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_934.mp4",
@@ -418,7 +306,7 @@
     ]
   },
   {
-    "id": 935,
+    "id": 583,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_935.mp4",
@@ -432,7 +320,7 @@
     ]
   },
   {
-    "id": 936,
+    "id": 584,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_936.mp4",
@@ -446,7 +334,7 @@
     ]
   },
   {
-    "id": 937,
+    "id": 585,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_937.mp4",
@@ -461,7 +349,7 @@
     ]
   },
   {
-    "id": 938,
+    "id": 586,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_938.mp4",
@@ -476,7 +364,7 @@
     ]
   },
   {
-    "id": 939,
+    "id": 587,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_939.mp4",
@@ -490,7 +378,7 @@
     ]
   },
   {
-    "id": 940,
+    "id": 588,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_940.mp4",
@@ -504,7 +392,7 @@
     ]
   },
   {
-    "id": 941,
+    "id": 589,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_941.mp4",
@@ -518,7 +406,7 @@
     ]
   },
   {
-    "id": 942,
+    "id": 590,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_942.mp4",
@@ -532,7 +420,7 @@
     ]
   },
   {
-    "id": 943,
+    "id": 591,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_943.mp4",
@@ -546,7 +434,7 @@
     ]
   },
   {
-    "id": 944,
+    "id": 592,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_944.mp4",
@@ -560,7 +448,7 @@
     ]
   },
   {
-    "id": 945,
+    "id": 593,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_945.mp4",
@@ -573,7 +461,7 @@
     ]
   },
   {
-    "id": 946,
+    "id": 594,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_946.mp4",
@@ -587,7 +475,7 @@
     ]
   },
   {
-    "id": 947,
+    "id": 595,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_947.mp4",
@@ -601,7 +489,7 @@
     ]
   },
   {
-    "id": 948,
+    "id": 596,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_948.mp4",
@@ -615,7 +503,7 @@
     ]
   },
   {
-    "id": 949,
+    "id": 597,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_949.mp4",

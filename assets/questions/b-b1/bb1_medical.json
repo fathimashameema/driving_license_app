@@ -1,6 +1,6 @@
 [
   {
-    "id": 89,
+    "id": 271,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -15,7 +15,7 @@
     ]
   },
   {
-    "id": 90,
+    "id": 272,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -29,7 +29,7 @@
     ]
   },
   {
-    "id": 91,
+    "id": 273,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -43,7 +43,7 @@
     ]
   },
   {
-    "id": 92,
+    "id": 274,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -57,7 +57,7 @@
     ]
   },
   {
-    "id": 93,
+    "id": 275,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "id": 94,
+    "id": 276,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -85,7 +85,7 @@
     ]
   },
   {
-    "id": 95,
+    "id": 277,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "id": 96,
+    "id": 278,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "id": 97,
+    "id": 279,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "id": 98,
+    "id": 280,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "id": 99,
+    "id": 281,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -154,7 +154,7 @@
     ]
   },
   {
-    "id": 100,
+    "id": 282,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "id": 101,
+    "id": 283,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -181,7 +181,7 @@
     ]
   },
   {
-    "id": 102,
+    "id": 284,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -195,7 +195,7 @@
     ]
   },
   {
-    "id": 103,
+    "id": 285,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "id": 104,
+    "id": 286,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -221,7 +221,7 @@
     ]
   },
   {
-    "id": 105,
+    "id": 287,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "id": 106,
+    "id": 288,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -248,7 +248,7 @@
     ]
   },
   {
-    "id": 107,
+    "id": 289,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -263,7 +263,7 @@
     ]
   },
   {
-    "id": 108,
+    "id": 290,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -276,7 +276,7 @@
     ]
   },
   {
-    "id": 109,
+    "id": 291,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -290,7 +290,7 @@
     ]
   },
   {
-    "id": 110,
+    "id": 292,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -304,7 +304,7 @@
     ]
   },
   {
-    "id": 111,
+    "id": 293,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -318,7 +318,7 @@
     ]
   },
   {
-    "id": 112,
+    "id": 294,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -332,7 +332,7 @@
     ]
   },
   {
-    "id": 128,
+    "id": 295,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -347,13 +347,13 @@
     ]
   },
   {
-    "id": 129,
+    "id": 296,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
     "previewVideo": "assets/videos/preview.mp4",
-    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის თავის ქალისა და ტვინის დაზიანების გამო გონების დაკარგვის შემთხვევაში, იგი უნდა:",
+    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის თავის ქალისა და ტვინის დაზიანების გამო გონების დაკარგვის შემთხვევაში, იგი უნდა:",
     "answers": [
       "დავსვათ",
       "დავაწვინოთ გვერდზე",
@@ -361,7 +361,7 @@
     ]
   },
   {
-    "id": 130,
+    "id": 297,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -375,7 +375,7 @@
     ]
   },
   {
-    "id": 131,
+    "id": 298,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -388,7 +388,7 @@
     ]
   },
   {
-    "id": 132,
+    "id": 299,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -401,7 +401,7 @@
     ]
   },
   {
-    "id": 133,
+    "id": 300,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -414,133 +414,8 @@
     ]
   },
   {
-    "id": 134,
+    "id": 301,
     "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებული არ სუნთქავს, მაგრამ აღენიშნება პულსი საძილე არტერიაზე, რამდენ ხანში ერთხელ უნდა შემოწმდეს პულსი?",
-    "answers": [
-      "ყოველ 2 წუთში",
-      "ყოველ 5 წუთში",
-      "ყოველ 6 წუთში"
-    ]
-  },
-  {
-    "id": 135,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "ვალდებულია თუ არა საგზაო-სატრანსპორტო შემთხვევაში მონაწილე მძღოლი გაუწიოს პირველადი სამედიცინო დახმარება ავარიის შედეგად დაშავებულ პირს?",
-    "answers": [
-      "ვალდებულია",
-      "მხოლოდ იმ შემთხვევაში არ არის ვალდებული, თუ უზრუნველყოფს სასწრაფო სამედიცინო დახმარების გამოძახებას",
-      "მხოლოდ იმ შემთხვევაში ვალდებულია, თუ იგი ექიმია",
-      "არ არის ვალდებული"
-    ]
-  },
-  {
-    "id": 136,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "თუ არსებობს სამკურნალო დაწესებულებაში ავარიის შედეგად დაშავებულების გადაყვანის გადაუდებელი აუცილებლობა, საგზაო-სატრანსპორტო შემთხვევაში მონაწილე მძღოლი ვალდებულია:",
-    "answers": [
-      "შემთხვევის ადგილზე დაელოდოს საპატრულო პოლიციის უფლებამოსილ პირს და მხოლოდ მისი ნებართვის შემთხვევაში გადაიყვანოს დაშავებული სამკურნალო დაწესებულებაში",
-      "გაგზავნოს დაშავებული უახლოეს სამკურნალო დაწესებულებაში გზად მიმავალი სხვა სატრანსპორტო საშუალებით და თუ ეს შეუძლებელია, თავად განახორციელოს აღნიშნული"
-    ]
-  },
-  {
-    "id": 137,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "ქვემოთ ჩამოთვლილი, რომელ შემთხვევაში არ წარმოექმნება საგზაო-სატრანსპორტო შემთხვევაში მონაწილე მძღოლს ავარიის შედეგად დაშავებულის სამკურნალო დაწესებულებაში გადაყვანის ვალდებულება?",
-    "answers": [
-      "თუ აშკარაა რომ მას (მძღოლს) არ მიუძღვის ბრალი ავარიის მოხდენაში",
-      "თუ მისი სატრანსპორტო საშუალების გადაადგილების შემთხვევაში განადგურდება ნაკვალევი, რომელიც შესაძლოა სასარგებლო იყოს პასუხისმგებლობის დასადგენად",
-      "თუ არსებობს საფუძვლიანი ეჭვი იმის თაობაზე, რომ მგზავრობამ შეიძლება ზიანი მიაყენოს დაშავებულს",
-      "ამ ბილეთში ჩამოთვლილ ნებისმიერ შემთხვევაში"
-    ]
-  },
-  {
-    "id": 138,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს აღენიშნება ნეკნებისა და მკერდის ძვლის მოტეხილობა მისი ტრანსპორტირება უნდა განხორციელდეს:",
-    "answers": [
-      "გვერდზე დაწოლილ მდგომარეობაში",
-      "მჯდომარე ან ნახევარმჯდომარე მდგომარეობაში",
-      "ზურგზე დაწოლილ მდგომარეობაში"
-    ]
-  },
-  {
-    "id": 139,
-    "correctAnswer": 2,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის ცხვირიდან სისხლდენის შესაჩერებლად იგი უნდა:",
-    "answers": [
-      "დავსვათ ნახევარმჯდომარე მდგომარეობაში. თავი გადავუწიოთ უკან და ცხვირზე დავადოთ ცივი საფენი",
-      "დავაწვინოთ გვერდზე, ცხვირზე დავადოთ ცივი საფენი",
-      "დავსვათ ნახევარმჯდომარე მდგომარეობაში, თავი დავახრევინოთ მკერდისკენ და ცხვირზე დავადოთ ცივი საფენი"
-    ]
-  },
-  {
-    "id": 140,
-    "correctAnswer": 1,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის ჭრილობის არსებობისას იოდის ხსნარი, როგორც სადეზინფექციო საშუალება, გამოიყენება:",
-    "answers": [
-      "ჭრილობის მთელი ზედაპირის დასამუშავებლად",
-      "ჭრილობის ნაპირებისა და მისი მიმდებარე კანის დასამუშავებლად"
-    ]
-  },
-  {
-    "id": 141,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "თუ საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულს თვალზე აღენიშნება ჭრილობა, იგი უნდა:",
-    "answers": [
-      "დავაწვინოთ ზურგზე და წამოვუწიოთ თავი წინ. დაზიანებულ თვალზე დავადოთ სუფთა საფენი",
-      "დავაწვინოთ გვერდზე ჯანსაღი თვალის მხარეს. დაზიანებულ თვალზე დავადოთ სუფთა საფენი",
-      "დავსვათ ნახევარმჯდომარე მდგომარეობაში. თავი გადავუწიოთ უკან და დაზიანებულ თვალზე დავადოთ სუფთა საფენი"
-    ]
-  },
-  {
-    "id": 142,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct.mp4",
-    "wrongVideo": "assets/videos/wrong.mp4",
-    "previewVideo": "assets/videos/preview.mp4",
-    "question": "საგზაო-სატრანსპორტო შემთხვევის შედეგად დაშავებულის იდაყვის ქვემოთ ხელის ძვლის დაზიანების შემთხვევაში არტერიული სისხლდენის შემაჩერებელი ლახტი უნდა დავადოთ:",
-    "answers": [
-      "იდაყვის ზემოთ, მხართან",
-      "ჭრილობის ზემოთ იდაყვამდე"
-    ]
-  },
-  {
-    "id": 143,
-    "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
     "wrongVideo": "assets/videos/wrong.mp4",
@@ -552,7 +427,7 @@
     ]
   },
   {
-    "id": 144,
+    "id": 302,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -565,7 +440,7 @@
     ]
   },
   {
-    "id": 145,
+    "id": 303,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",
@@ -578,7 +453,7 @@
     ]
   },
   {
-    "id": 146,
+    "id": 304,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct.mp4",

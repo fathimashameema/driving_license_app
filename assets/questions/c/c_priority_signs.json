@@ -1,6 +1,6 @@
 [
   {
-    "id": 70,
+    "id": 406,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "question": "აღნიშნავს გზას, რომელზედაც მოძრავ მძღოლს ენიჭება არარეგულირებული გზაჯვარედინის გავლის უპირატესობა",
@@ -11,7 +11,7 @@
     ]
   },
   {
-    "id": 71,
+    "id": 407,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის იმ მონაკვეთის ბოლოს, საიდანაც ის კარგავს მთავარი გზის სტატუსს?",
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "id": 72,
+    "id": 408,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშანი აღნიშნავს:",
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "id": 73,
+    "id": 409,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ისეთ გზასთან გადაკვეთას, რომელზე მოძრავ მძღოლსაც აქვს გზის დათმობის ვალდებულება?",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "id": 74,
+    "id": 410,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ისეთ გზასთან შეერთებას, რომელზე მოძრავ მძღოლსაც აქვს გზის დათმობის ვალდებულება?",
@@ -58,7 +58,7 @@
     ]
   },
   {
-    "id": 75,
+    "id": 411,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს ისეთ გზასთან შეერთებას, რომელზე მოძრავ მძღოლსაც აქვს გზის დათმობის ვალდებულება?",
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "id": 76,
+    "id": 412,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი ავალდებულებს მძღოლს გზა დაუთმოს გადასაკვეთ გზაზე მოძრავ სატრანსპორტო საშუალების მძღოლს?",
@@ -82,7 +82,7 @@
     ]
   },
   {
-    "id": 77,
+    "id": 413,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშანი:",
@@ -93,7 +93,7 @@
     ]
   },
   {
-    "id": 78,
+    "id": 414,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი უკრძალავს მძღოლს „სდექ“ ხაზის წინ გაუჩერებალად მოძრაობის გაგრძელებას?",
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "id": 79,
+    "id": 415,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშანი:",
@@ -116,7 +116,7 @@
     ]
   },
   {
-    "id": 80,
+    "id": 416,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი უკრძალავს მძღოლს გზის ვიწრო მონაკვეთზე შესვლას, თუ ეს აძნელებს საპირისპირო მიმართულებით მოძრაობას?",
@@ -128,7 +128,7 @@
     ]
   },
   {
-    "id": 81,
+    "id": 417,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშანი:",
@@ -139,7 +139,7 @@
     ]
   },
   {
-    "id": 82,
+    "id": 418,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი ანიჭებს მძღოლს უპირატესობას საპირისპირო მიმართულებით მოძრავ სატრანსპორტო საშუალებასთან შედარებით, გზის ვიწრო მონაკვეთზე მოძრაობისას?",
@@ -151,7 +151,7 @@
     ]
   },
   {
-    "id": 83,
+    "id": 419,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშანი:",
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "id": 84,
+    "id": 420,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშნებიდან რომლის მოქმედების ზონაში ენიჭება მძღოლს არარეგულირებული გზაჯვარედინის გავლის უპირატესობა?",
@@ -174,7 +174,7 @@
     ]
   },
   {
-    "id": 85,
+    "id": 421,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "question": "მოცემული საგზაო ნიშნებიდან რომელი იდგმება უშუალოდ გზის ვიწრო უბნის წინ?",
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "id": 86,
+    "id": 422,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "question": "თუ სხვა აუცილებლობა არ არსებობს, მოცემული საგზაო ნიშნები დაუსახლებელ პუნქტში იდგმება სახიფათო მონაკვეთის დასაწყისამდე:",
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "id": 87,
+    "id": 423,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "question": "თუ სხვა აუცილებლობა არ არსებობს, მოცემული საგზაო ნიშნები დასახლებულ პუნქტში იდგმება სახიფათო მონაკვეთის დასაწყისამდე:",
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "id": 88,
+    "id": 424,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "question": "საერთაშორისო ნორმებისა და წესების შესაბამისად სახიფათო ტვირთი საშიშროების ტიპის მიხედვით იყოფა:",
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "id": 89,
+    "id": 425,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "question": "ავტოსატრანსპორტო საშუალებაზე, რომლითაც გადაიზიდება სახიფათო ტვირთი, სამართავად დაიშვებიან მძღოლები მუშაობის არანაკლებ:",
@@ -231,7 +231,7 @@
     ]
   },
   {
-    "id": 90,
+    "id": 426,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -246,7 +246,7 @@
     ]
   },
   {
-    "id": 91,
+    "id": 427,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -261,7 +261,7 @@
     ]
   },
   {
-    "id": 92,
+    "id": 428,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -274,7 +274,7 @@
     ]
   },
   {
-    "id": 93,
+    "id": 429,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",

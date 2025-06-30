@@ -1,6 +1,6 @@
 [
   {
-    "id": 2001,
+    "id": 752,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_1.mp4",
@@ -15,7 +15,7 @@
     ]
   },
   {
-    "id": 2002,
+    "id": 753,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_2.mp4",
@@ -29,7 +29,7 @@
     ]
   },
   {
-    "id": 2003,
+    "id": 754,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_3.mp4",
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "id": 2004,
+    "id": 755,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_4.mp4",
@@ -59,7 +59,7 @@
     ]
   },
   {
-    "id": 2005,
+    "id": 756,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_5.mp4",
@@ -74,7 +74,7 @@
     ]
   },
   {
-    "id": 2006,
+    "id": 757,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_6.mp4",
@@ -89,7 +89,7 @@
     ]
   },
   {
-    "id": 2007,
+    "id": 758,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_7.mp4",
@@ -104,7 +104,7 @@
     ]
   },
   {
-    "id": 2008,
+    "id": 759,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8.mp4",
@@ -118,7 +118,7 @@
     ]
   },
   {
-    "id": 2009,
+    "id": 760,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_9.mp4",
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "id": 2010,
+    "id": 761,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_10.mp4",
@@ -145,7 +145,7 @@
     ]
   },
   {
-    "id": 2011,
+    "id": 762,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_11.mp4",
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "id": 2012,
+    "id": 763,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_12.mp4",
@@ -175,7 +175,7 @@
     ]
   },
   {
-    "id": 2013,
+    "id": 764,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_13.mp4",
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "id": 2014,
+    "id": 765,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_14.mp4",
@@ -205,7 +205,7 @@
     ]
   },
   {
-    "id": 2015,
+    "id": 766,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_15.mp4",
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "id": 2016,
+    "id": 767,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_16.mp4",
@@ -235,23 +235,23 @@
     ]
   },
   {
-    "id": 2017,
+    "id": 768,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_17.mp4",
     "wrongVideo": "assets/videos/wrong_17.mp4",
     "previewVideo": "assets/videos/preview_17.mp4",
-    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომლის სავალი ნაწილი დაზიანებულია?",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს გზის მონაკვეთს, რომელზედაც შესაძლებელია სატრანსპორტო საშუალების თვლებიდან ღორღის, ხრეშისა და ა. შ. ასხლეტა?",
     "answers": [
-      "1\nმხოლოდ II და III",
-      "2\nმხოლოდ III",
-      "3\nმხოლოდ I",
-      "4\nმხოლოდ I და IV"
+      "1\nმხოლოდ I და III",
+      "2\nმხოლოდ IV",
+      "3\nმხოლოდ II",
+      "4\nმხოლოდ II და IV"
     ]
   },
   {
-    "id": 2018,
-    "correctAnswer": 1,
+    "id": 769,
+    "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_18.mp4",
     "wrongVideo": "assets/videos/wrong_18.mp4",
@@ -265,7 +265,7 @@
     ]
   },
   {
-    "id": 2019,
+    "id": 770,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "id": 2020,
+    "id": 771,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_20.mp4",
@@ -295,7 +295,7 @@
     ]
   },
   {
-    "id": 2021,
+    "id": 772,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_2021.mp4",
@@ -310,13 +310,13 @@
     ]
   },
   {
-    "id": 2022,
+    "id": 773,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_2022.mp4",
     "wrongVideo": "assets/videos/wrong_2022.mp4",
     "previewVideo": "assets/videos/preview_2022.mp4",
-    "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს საგზაო ნიშნით (5.19.1 ან 5.19.2) ან/და საგზაო მონიშვნით (1.14.1-1.14.3) აღნიშნულ ქვეითთა გადასასვლელთან მიახლოების თაობაზე?",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აფრთხილებს საგზაო ნიშნით (5.19.1 ან 5.19.2) აღნიშნულ ქვეითთა გადასასვლელთან მიახლოების თაობაზე?",
     "answers": [
       "1\nIII",
       "2\nI",
@@ -325,7 +325,7 @@
     ]
   },
   {
-    "id": 2023,
+    "id": 774,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_2023.mp4",
@@ -340,7 +340,7 @@
     ]
   },
   {
-    "id": 2024,
+    "id": 775,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_2024.mp4",
@@ -355,7 +355,7 @@
     ]
   },
   {
-    "id": 2025,
+    "id": 776,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_2025.mp4",
@@ -370,7 +370,7 @@
     ]
   },
   {
-    "id": 2026,
+    "id": 777,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_2026.mp4",
@@ -385,7 +385,7 @@
     ]
   },
   {
-    "id": 2027,
+    "id": 778,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_2027.mp4",
@@ -400,7 +400,7 @@
     ]
   },
   {
-    "id": 2028,
+    "id": 779,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_2028.mp4",
@@ -415,7 +415,7 @@
     ]
   },
   {
-    "id": 2029,
+    "id": 780,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_2029.mp4",
@@ -430,7 +430,7 @@
     ]
   },
   {
-    "id": 2030,
+    "id": 781,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_2030.mp4",
@@ -445,7 +445,7 @@
     ]
   },
   {
-    "id": 2031,
+    "id": 782,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_2031.mp4",
@@ -460,7 +460,7 @@
     ]
   },
   {
-    "id": 2032,
+    "id": 783,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_2032.mp4",
