@@ -1,6 +1,6 @@
 [
   {
-    "id": 8034,
+    "id": 336,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8034.mp4",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "id": 8035,
+    "id": 337,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8035.mp4",
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "id": 8036,
+    "id": 338,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8036.mp4",
@@ -39,7 +39,7 @@
     ]
   },
   {
-    "id": 8037,
+    "id": 339,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8037.mp4",
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "id": 8038,
+    "id": 340,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8038.mp4",
@@ -65,7 +65,7 @@
     ]
   },
   {
-    "id": 8039,
+    "id": 341,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8039.mp4",
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "id": 8040,
+    "id": 342,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8040.mp4",
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "id": 8041,
+    "id": 343,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8041.mp4",
@@ -106,7 +106,7 @@
     ]
   },
   {
-    "id": 8042,
+    "id": 344,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8042.mp4",
@@ -121,7 +121,7 @@
     ]
   },
   {
-    "id": 8043,
+    "id": 345,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8043.mp4",
@@ -134,7 +134,7 @@
     ]
   },
   {
-    "id": 8044,
+    "id": 346,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8044.mp4",
@@ -147,7 +147,7 @@
     ]
   },
   {
-    "id": 8045,
+    "id": 347,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8045.mp4",
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "id": 8046,
+    "id": 348,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8046.mp4",
@@ -173,7 +173,7 @@
     ]
   },
   {
-    "id": 8047,
+    "id": 349,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8047.mp4",
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "id": 8048,
+    "id": 350,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8048.mp4",
@@ -199,7 +199,7 @@
     ]
   },
   {
-    "id": 8049,
+    "id": 351,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8049.mp4",
@@ -212,7 +212,7 @@
     ]
   },
   {
-    "id": 8050,
+    "id": 352,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8050.mp4",
@@ -225,7 +225,7 @@
     ]
   },
   {
-    "id": 8051,
+    "id": 353,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8051.mp4",
@@ -240,7 +240,7 @@
     ]
   },
   {
-    "id": 8052,
+    "id": 354,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8052.mp4",
@@ -254,7 +254,7 @@
     ]
   },
   {
-    "id": 8053,
+    "id": 355,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8053.mp4",
@@ -267,7 +267,7 @@
     ]
   },
   {
-    "id": 8054,
+    "id": 356,
     "question": "დაარღვევს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრის მიმართულებით მოძრაობის შემთხვევაში?",
     "answers": [
       "1\nდაარღვევს",
@@ -280,7 +280,7 @@
     "previewVideo": "assets/videos/preview_8054.mp4"
   },
   {
-    "id": 8055,
+    "id": 357,
     "question": "რომელი ავტომობილის მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა, თუ ტრაქტორი მოძრაობს 25 კმ/სთ სიჩქარით, ხოლო მოპედი - 35 კმ/სთ სიჩქარით?",
     "answers": [
       "1\nმხოლოდ ლურჯი მსუბუქი ავტომობილის მძღოლს",
@@ -295,20 +295,20 @@
     "previewVideo": "assets/videos/preview_8055.mp4"
   },
   {
-    "id": 8100,
+    "id": 358,
     "question": "დაარღვევს თუ არა საგზაო მოძრაობის წესებს მსუბუქი ავტომობილის მძღოლი ისრის მიმართულებით მოძრაობის შემთხვევაში?",
     "answers": [
       "1\nდაარღვევს",
       "2\nარ დაარღვევს"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_8100.mp4",
     "wrongVideo": "assets/videos/wrong_8100.mp4",
     "previewVideo": "assets/videos/preview_8100.mp4"
   },
   {
-    "id": 8101,
+    "id": 359,
     "question": "ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება, თუ მოცემულ გზის მონაკვეთზე ხილვადობა შეზღუდულია?",
     "answers": [
       "1\nეკრძალება",
@@ -321,7 +321,7 @@
     "previewVideo": "assets/videos/preview_8101.mp4"
   },
   {
-    "id": 8102,
+    "id": 360,
     "question": "მოცემულ სიტუაციაში, რომელ სატრასპორტო საშუალების მძღოლს ეკრძალება ისრის მიმართულებით მოძრაობა, თუ მობუქსირე მოტოციკლს დაწყებული აქვს დაბრკოლების შემოვლა?",
     "answers": [
       "1\nმხოლოდ მობუქსირე და საბუქსირე მოტოციკლის მძღოლებს",
@@ -335,7 +335,7 @@
     "previewVideo": "assets/videos/preview_8102.mp4"
   },
   {
-    "id": 8103,
+    "id": 361,
     "question": "გზაზე მოძრაობისას მძღოლმა უნდა გაითვალისწინოს, რომ გასწრებისას ყველაზე უფრო ხშირად ავარიული სიტუაცია იქმნება:",
     "answers": [
       "1\nმხოლოდ დისტანციის დაუცველობის გამო",
@@ -349,7 +349,7 @@
     "previewVideo": "assets/videos/preview_8103.mp4"
   },
   {
-    "id": 8104,
+    "id": 362,
     "question": "გზაზე, რომელზეც თანმხვედრი მიმართულებით მოძრაობისთვის სულ მცირე ორი ზოლია, აქვს თუ არა უფლება მძღოლს დარჩეს პირველი გასწრების დროს დაკავებულ მოძრაობის ზოლზე, თუ ადრე დაკავებულ ზოლზე დაბრუნებისთანავე ან მოკლე დროში მოუწევს ახალი გასწრების დაწყება?",
     "answers": [
       "1\nარა აქვს უფლება",
@@ -362,7 +362,7 @@
     "previewVideo": "assets/videos/preview_8104.mp4"
   },
   {
-    "id": 8105,
+    "id": 363,
     "question": "გარდა გზიდან მარცხენა მხრიდან გასვლის შემთხვევისა, მძღოლი, რომელიც დარწმუნდება, რომ მის უკან მომავალი მძღოლი აპირებს გასწრებას ვალდებულია:",
     "answers": [
       "1\nმიუახლოვდეს გზის სავალი ნაწილის მარჯვენა კიდეს და გაზარდოს სიჩქარე",
@@ -376,7 +376,7 @@
     "previewVideo": "assets/videos/preview_8105.mp4"
   },
   {
-    "id": 8106,
+    "id": 364,
     "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მსუბუქი ავტომობილის მძღოლს ისრის მიმართულებით გასწრება?",
     "answers": [
       "1\nეკრძალება",
@@ -389,7 +389,7 @@
     "previewVideo": "assets/videos/preview_8106.mp4"
   },
   {
-    "id": 8107,
+    "id": 365,
     "question": "ეკრძალება თუ არა გასასწრები სატრანსპორტო საშუალების მძღოლს ხელი შეუშალოს გასწრებას მოძრაობის სიჩქარის მომატებით ან სხვა მოქმედებით?",
     "answers": [
       "1\nეკრძალება",
@@ -402,7 +402,7 @@
     "previewVideo": "assets/videos/preview_8107.mp4"
   },
   {
-    "id": 8108,
+    "id": 366,
     "question": "რომელი მიმართულებით მოძრაობის გაგრძელების უფლება აქვს სატვირთო ავტომობილის მძღოლს, თუ სატვირთო ავტომობილის ნებადართული მაქსიმალური მასა 15 ტონაა?",
     "answers": [
       "1\nმხოლოდ პირდაპირ და მარჯვნივ",
@@ -417,7 +417,7 @@
     "previewVideo": "assets/videos/preview_8108.mp4"
   },
   {
-    "id": 8109,
+    "id": 367,
     "question": "„გასწრება“ ნიშნავს:",
     "answers": [
       "1\nდაკავებული ზოლიდან გამოსვლით, იმავე ზოლში თანხვდენილი მიმართულებით, წინ მოძრავი ერთი ან რამდენიმე სატრანსპორტო საშუალების გადასწრებას",
@@ -431,7 +431,7 @@
     "previewVideo": "assets/videos/preview_8109.mp4"
   },
   {
-    "id": 8110,
+    "id": 368,
     "question": "მძღოლმა ხმოვანი სიგნალი შეიძლება გამოიყენოს:",
     "answers": [
       "1\nმხოლოდ დროული გაფრთხილებისთვის საგზაო-სატრანსპორტო შემთხვევის თავიდან ასაცილებლად",
@@ -445,7 +445,7 @@
     "previewVideo": "assets/videos/preview_8110.mp4"
   },
   {
-    "id": 8111,
+    "id": 369,
     "question": "თუ გასწრებისას აღმოჩნდა დაბრკოლება ან საფრთხე, რომელიც გასწრების დაწყებამდე მძღოლს არ შეეძლო გაეთვალისწინებინა, მძღოლი ვალდებულია:",
     "answers": [
       "1\nგაზარდოს სისწრაფე, რათა დროულად დაასრულოს გასწრების მანევრი",

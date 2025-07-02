@@ -52,19 +52,19 @@ class ExamController extends GetxController {
 
     switch (category) {
       case 'B, B1':
-        questionFile = 'assets/questions/b_b1_category.json';
+        questionFile = 'assets/questions/b_b1.json';
         break;
       case 'C':
-        questionFile = 'assets/questions/c_category.json';
+        questionFile = 'assets/questions/c.json';
         break;
       case 'D':
-        questionFile = 'assets/questions/d_category.json';
+        questionFile = 'assets/questions/d.json';
         break;
       case 'T, S':
-        questionFile = 'assets/questions/t_s_category.json';
+        questionFile = 'assets/questions/ts.json';
         break;
       default:
-        questionFile = 'assets/questions/b_b1_category.json'; // fallback
+        questionFile = 'assets/questions/b_b1.json'; // fallback
     }
 
     final loadedQuestions = await loadExamQuestions(questionFile);
@@ -222,7 +222,7 @@ class ExamController extends GetxController {
   void syncAnsweredQuestionsFromReview() {
     final unansweredController = Get.find<UnansweredQuestionsServices>();
     final unansweredQuestions = unansweredController.unansweredQuestions;
-    
+
     for (var unansweredQ in unansweredQuestions) {
       final question = unansweredQ.unansweredQuestions;
       if (question != null && question.selectedIndex != null) {
@@ -230,27 +230,28 @@ class ExamController extends GetxController {
         if (questionIndex != -1) {
           selectedAnswers[questionIndex] = question.selectedIndex!;
           answeredQuestions.add(questionIndex);
-          
+
           questions[questionIndex].selectedIndex = question.selectedIndex;
         }
       }
     }
-    
+
     // Update the current question's video if needed
     _updateCurrentVideoForQuestion(currentIndex.value);
   }
 
   /// Update a specific question when answered from review screen
   void updateQuestion(ExamQuestionModel updatedQuestion) {
-    final questionIndex = questions.indexWhere((q) => q.id == updatedQuestion.id);
+    final questionIndex =
+        questions.indexWhere((q) => q.id == updatedQuestion.id);
     if (questionIndex != -1 && updatedQuestion.selectedIndex != null) {
       // Update the selectedAnswers map
       selectedAnswers[questionIndex] = updatedQuestion.selectedIndex!;
       answeredQuestions.add(questionIndex);
-      
+
       // Update the question in the questions list
       questions[questionIndex].selectedIndex = updatedQuestion.selectedIndex;
-      
+
       // Update the current question's video if this is the current question
       if (questionIndex == currentIndex.value) {
         _updateCurrentVideoForQuestion(currentIndex.value);
@@ -266,7 +267,8 @@ class ExamController extends GetxController {
   /// Check if we're on the last question and it's been answered
   bool get isLastQuestionCompleted {
     final isLastQuestion = currentIndex.value == questions.length - 1;
-    final isLastQuestionAnswered = selectedAnswers.containsKey(currentIndex.value);
+    final isLastQuestionAnswered =
+        selectedAnswers.containsKey(currentIndex.value);
     return isLastQuestion && isLastQuestionAnswered;
   }
 }

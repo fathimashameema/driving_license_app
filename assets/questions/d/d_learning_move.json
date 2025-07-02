@@ -1,6 +1,6 @@
 [
   {
-    "id": 8206,
+    "id": 189,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -15,7 +15,7 @@
     ]
   },
   {
-    "id": 8207,
+    "id": 190,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -30,7 +30,7 @@
     ]
   },
   {
-    "id": 8208,
+    "id": 191,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -45,7 +45,22 @@
     ]
   },
   {
-    "id": 8209,
+    "id": 192,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი კრძალავს ყველა სახის მექანიკური სატრანსპორტო საშუალებით მოძრაობას?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "id": 193,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -59,7 +74,7 @@
     ]
   },
   {
-    "id": 8210,
+    "id": 194,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -73,7 +88,7 @@
     ]
   },
   {
-    "id": 8211,
+    "id": 195,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -87,7 +102,7 @@
     ]
   },
   {
-    "id": 8212,
+    "id": 196,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -101,7 +116,7 @@
     ]
   },
   {
-    "id": 8213,
+    "id": 197,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -116,7 +131,7 @@
     ]
   },
   {
-    "id": 8214,
+    "id": 198,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -131,7 +146,7 @@
     ]
   },
   {
-    "id": 8215,
+    "id": 199,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -146,7 +161,7 @@
     ]
   },
   {
-    "id": 8216,
+    "id": 200,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -161,7 +176,7 @@
     ]
   },
   {
-    "id": 8217,
+    "id": 201,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -176,7 +191,7 @@
     ]
   },
   {
-    "id": 8218,
+    "id": 202,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -191,7 +206,7 @@
     ]
   },
   {
-    "id": 8219,
+    "id": 203,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -206,7 +221,7 @@
     ]
   },
   {
-    "id": 8220,
+    "id": 204,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -221,13 +236,13 @@
     ]
   },
   {
-    "id": 8221,
+    "id": 205,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს საგზაო ნიშნის 3.22-ის („სატვირთო ავტომობილით გასწრება აკრძალულია”) მოქმედების ზონის დასასრულს?",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს საგზაო ნიშნის 3.22-ის („სატვირთო ავტომობილით გასწრება აკრძალულია“) მოქმედების ზონის დასასრულს?",
     "answers": [
       "I",
       "II",
@@ -236,13 +251,13 @@
     ]
   },
   {
-    "id": 8222,
+    "id": 206,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს საგზაო ნიშნის 3.24-ის („მაქსიმალური სიჩქარის შეზღუდვა”) მოქმედების ზონის დასასრულს?",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი აღნიშნავს საგზაო ნიშნის 3.24-ის („მაქსიმალური სიჩქარის შეზღუდვა“) მოქმედების ზონის დასასრულს?",
     "answers": [
       "I",
       "II",
@@ -251,7 +266,7 @@
     ]
   },
   {
-    "id": 8223,
+    "id": 207,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -266,7 +281,7 @@
     ]
   },
   {
-    "id": 8224,
+    "id": 208,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -281,7 +296,7 @@
     ]
   },
   {
-    "id": 8225,
+    "id": 209,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -296,7 +311,7 @@
     ]
   },
   {
-    "id": 8226,
+    "id": 210,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -311,7 +326,7 @@
     ]
   },
   {
-    "id": 8227,
+    "id": 211,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -326,7 +341,7 @@
     ]
   },
   {
-    "id": 8228,
+    "id": 212,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -340,20 +355,7 @@
     ]
   },
   {
-    "id": 8229,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "აკრძალულია თუ არა სასწავლო ავტომობილის ისრის მიმართულებით მოძრაობა,თუ საჭესთან ზის მოსწავლე?",
-    "answers": [
-      "აკრძალულია",
-      "არ არის აკრძალული"
-    ]
-  },
-  {
-    "id": 8230,
+    "id": 213,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",

@@ -1,6 +1,6 @@
 [
   {
-    "id": 8112,
+    "id": 594,
     "question": "ეკრძალება თუ არა მძღოლს ისრით მითითებულ ადგილზე ავტომობილით დგომა?",
     "answers": [
       "1\nეკრძალება",
@@ -13,7 +13,7 @@
     "previewVideo": "assets/videos/preview_8112.mp4"
   },
   {
-    "id": 8113,
+    "id": 595,
     "question": "მოცემულ სიტუაციაში მხოლოდ სამარშუტო ყვითელი ავტობუსის მძღოლი აწარმოებს მგზავრთა ჩასხდომა-გადმოსხდომას. რომელი ავტომობილის მძღოლი არ არღვევს გაჩერების წესებს?",
     "answers": [
       "1\nმხოლოდ მსუბუქი ავტომობილის მძღოლი",
@@ -28,7 +28,7 @@
     "previewVideo": "assets/videos/preview_8113.mp4"
   },
   {
-    "id": 8114,
+    "id": 596,
     "question": "რომელი სატრანსპორტო საშუალებაა დაყენებული დგომის წესების დარღვევით, თუ მხოლოდ წითელი ავტომობილის მძღოლი დადგა ხანგრძლივი დასვენების მიზნით?",
     "answers": [
       "1\nშავი ავტომობილი",
@@ -43,7 +43,7 @@
     "previewVideo": "assets/videos/preview_8114.mp4"
   },
   {
-    "id": 8115,
+    "id": 597,
     "question": "აქვს თუ არა უფლება მსუბუქი ავტომობილის მძღოლს გაჩერდეს ისრით მითითებულ ადგილას მგზავრთა ჩასხდომის მიზნით?",
     "answers": [
       "1\nაქვს უფლება",
@@ -56,7 +56,7 @@
     "previewVideo": "assets/videos/preview_8115.mp4"
   },
   {
-    "id": 8116,
+    "id": 598,
     "question": "აქვს თუ არა უფლება ყვითელი ავტობუსის მძღოლს, გაჩერდეს ისრით მითითებულ ადგილას მგზავრთა ჩასხდომის მიზნით?",
     "answers": [
       "1\nაქვს უფლება",
@@ -69,7 +69,7 @@
     "previewVideo": "assets/videos/preview_8116.mp4"
   },
   {
-    "id": 8117,
+    "id": 599,
     "question": "რომელი ავტომობილის მძღოლი დაარღვევს საგზაო მოძრაობის წესებს ხიდზე ისრით მითითებულ ადგილას გაჩერების შემთხვევაში?",
     "answers": [
       "1\nმხოლოდ თეთრი ავტომობილის მძღოლი",
@@ -84,7 +84,7 @@
     "previewVideo": "assets/videos/preview_8117.mp4"
   },
   {
-    "id": 8118,
+    "id": 600,
     "question": "რომელი ავტომობილის მძღოლი არღვევს საგზაო მოძრაობის წესებს სურათზე მითითებულ ადგილას გაჩერების შემთხვევაში?",
     "answers": [
       "1\nორივე ავტომობილის მძღოლი",
@@ -99,7 +99,7 @@
     "previewVideo": "assets/videos/preview_8118.mp4"
   },
   {
-    "id": 8119,
+    "id": 601,
     "question": "დაარღვეს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს მითითებულ ადგილას ავტომობილის სადგომზე დაყენების შემთხვევაში, თუ ამით დაბრკოლებას უქმნის ქვეითებს?",
     "answers": [
       "1\nდაარღვევს",
@@ -112,7 +112,7 @@
     "previewVideo": "assets/videos/preview_8119.mp4"
   },
   {
-    "id": 8120,
+    "id": 602,
     "question": "აქვს თუ არა უფლება ავტობუსის მძღოლს, გაჩერდეს ისრით მითითებულ ადგილას, თუ მოცემულ გზას თითოეული მიმართულებისათვის ერთი სამოძრაო ზოლი გააჩნია?",
     "answers": [
       "1\nარ აქვს უფლება",
@@ -125,7 +125,7 @@
     "previewVideo": "assets/videos/preview_8120.mp4"
   },
   {
-    "id": 8121,
+    "id": 603,
     "question": "მოცემულ სიტუაციაში, ეკრძალება თუ არა მძღოლს სატვირთო ავტომობილის მონიშნულ ადგილზე დაყენება?",
     "answers": [
       "1\nეკრძალება",
@@ -138,7 +138,7 @@
     "previewVideo": "assets/videos/preview_8121.mp4"
   },
   {
-    "id": 8122,
+    "id": 604,
     "question": "დაარღვეს თუ არა მსუბუქი ავტომობილის მძღოლი საგზაო მოძრაობის წესებს ისრით მითითებულ ადგილას ავტომობილის სადგომზე დაყენების შემთხვევაში?",
     "answers": [
       "1\nდაარღვევს",
@@ -151,7 +151,7 @@
     "previewVideo": "assets/videos/preview_8122.mp4"
   },
   {
-    "id": 8123,
+    "id": 605,
     "question": "რომელი სატრანსპორტო საშუალებაა დაყენებული დგომის წესების დარღვევით?",
     "answers": [
       "1\nმხოლოდ მოტოციკლი",
@@ -166,7 +166,7 @@
     "previewVideo": "assets/videos/preview_8123.mp4"
   },
   {
-    "id": 8124,
+    "id": 606,
     "question": "რომელი ავტომობილია დაყენებული დგომის წესების დარღვევით დაუსახლებელ პუნქტში?",
     "answers": [
       "1\nორივე ავტომობილი",
@@ -181,7 +181,7 @@
     "previewVideo": "assets/videos/preview_8124.mp4"
   },
   {
-    "id": 8125,
+    "id": 607,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -194,7 +194,7 @@
     ]
   },
   {
-    "id": 8126,
+    "id": 608,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "id": 8127,
+    "id": 609,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -224,7 +224,7 @@
     ]
   },
   {
-    "id": 8128,
+    "id": 610,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -239,7 +239,7 @@
     ]
   },
   {
-    "id": 8129,
+    "id": 611,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "id": 8130,
+    "id": 612,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -267,7 +267,7 @@
     ]
   },
   {
-    "id": 8131,
+    "id": 613,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "id": 8132,
+    "id": 614,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -295,7 +295,7 @@
     ]
   },
   {
-    "id": 8133,
+    "id": 615,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -309,7 +309,7 @@
     ]
   },
   {
-    "id": 8134,
+    "id": 616,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -323,7 +323,7 @@
     ]
   },
   {
-    "id": 8135,
+    "id": 617,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -337,7 +337,7 @@
     ]
   },
   {
-    "id": 8136,
+    "id": 618,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -346,11 +346,11 @@
     "question": "„დგომა“ ნიშნავს:",
     "answers": [
       "სატრანსპორტო საშუალების მოძრაობის წინასწარგანზრახულ შეწყვეტას 5 წუთამდე, ან უფრო მეტი ხნით, თუ ეს აუცილებელია მგზავრთა ჩასხდომა-გადმოსხდომისათვის ან სატრანსპორტო საშუალების დატვირთვა-გადმოტვირთვისათვის",
-      "სატრან스პორტო საშუალების მოძრაობის გამიზნულად შეწყვეტას 5 წუთზე მეტი ხნით, თუ ეს აუცილებელი არ არის მგზავრთა ჩასხდომა-გადმოსხდომისათვის ან სატრანსპორტო საშუალების დატვირთვა-გადმოტვირთვისათვის"
+      "სატრანსპორტო საშუალების მოძრაობის გამიზნულად შეწყვეტას 5 წუთზე მეტი ხნით, თუ ეს აუცილებელი არ არის მგზავრთა ჩასხდომა-გადმოსხდომისათვის ან სატრანსპორტო საშუალების დატვირთვა-გადმოტვირთვისათვის"
     ]
   },
   {
-    "id": 8137,
+    "id": 619,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -365,7 +365,7 @@
     ]
   },
   {
-    "id": 8138,
+    "id": 620,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -380,7 +380,7 @@
     ]
   },
   {
-    "id": 8139,
+    "id": 621,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -393,7 +393,7 @@
     ]
   },
   {
-    "id": 8140,
+    "id": 622,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -407,7 +407,7 @@
     ]
   },
   {
-    "id": 8141,
+    "id": 623,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -421,7 +421,7 @@
     ]
   },
   {
-    "id": 8142,
+    "id": 624,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -434,7 +434,7 @@
     ]
   },
   {
-    "id": 8143,
+    "id": 625,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -447,7 +447,7 @@
     ]
   },
   {
-    "id": 8144,
+    "id": 626,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -461,7 +461,7 @@
     ]
   },
   {
-    "id": 8145,
+    "id": 627,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",

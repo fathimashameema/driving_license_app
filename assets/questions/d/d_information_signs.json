@@ -1,6 +1,6 @@
 [
   {
-    "id": 1045,
+    "id": 140,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -15,7 +15,7 @@
     ]
   },
   {
-    "id": 1046,
+    "id": 141,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -30,7 +30,7 @@
     ]
   },
   {
-    "id": 1047,
+    "id": 142,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -45,7 +45,7 @@
     ]
   },
   {
-    "id": 1048,
+    "id": 143,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "id": 1049,
+    "id": 144,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -74,7 +74,7 @@
     ]
   },
   {
-    "id": 1050,
+    "id": 145,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "id": 1051,
+    "id": 146,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -102,7 +102,7 @@
     ]
   },
   {
-    "id": 1052,
+    "id": 147,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -116,7 +116,7 @@
     ]
   },
   {
-    "id": 1053,
+    "id": 148,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -131,7 +131,7 @@
     ]
   },
   {
-    "id": 1054,
+    "id": 149,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -146,7 +146,7 @@
     ]
   },
   {
-    "id": 1055,
+    "id": 150,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -159,7 +159,7 @@
     ]
   },
   {
-    "id": 1056,
+    "id": 151,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -173,7 +173,7 @@
     ]
   },
   {
-    "id": 1057,
+    "id": 152,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -188,7 +188,7 @@
     ]
   },
   {
-    "id": 1058,
+    "id": 153,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -202,7 +202,7 @@
     ]
   },
   {
-    "id": 1059,
+    "id": 154,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -214,6 +214,21 @@
       "2\nIII",
       "3\nII",
       "4\nI"
+    ]
+  },
+  {
+    "id": 155,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემული საგზაო ნიშნებიდან რომელი მიუთითებს ცალმხრივმოძრაობიან გზაზე ან სავალ ნაწილზე გასვლას?",
+    "answers": [
+      "1\nმხოლოდ II",
+      "2\nმხოლოდ I",
+      "3\nმხოლოდ IV",
+      "4\nმხოლოდ III"
     ]
   }
 ]

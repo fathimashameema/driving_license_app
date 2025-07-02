@@ -1,6 +1,6 @@
 [
   {
-    "id": 222,
+    "id": 214,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "id": 223,
+    "id": 215,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "id": 224,
+    "id": 216,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "id": 225,
+    "id": 217,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -54,21 +54,22 @@
     ]
   },
   {
-    "id": 226,
+    "id": 218,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
     "wrongVideo": "assets/videos/wrong_19.mp4",
     "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "ჩართული გარე სანათი ხელსაწყოების ან ღია კარების მქონე გაჩერებული სატრანსპორტო საშუალებების გასწვრივ მოძრაობისას, მძღოლმა უნდა:",
+    "question": "ჩართული გარე სანათი ხელსაწყოების ან ღია კარების მქონე გაჩერებული სატრანსპორტო საშუალებები და მათი მისაბმელები აღნიშნული უნდა იყვნენ:",
     "answers": [
-      "მისცეს ხმოვანი სიგნალი და გაზარდოს სიჩქარე",
-      "გამოიჩინოს განსაკუთრებული სიფრთხილე, რათა აუცილებლობის შემთხვევაში, დროულად უზრუნველყოს გზაზე ქვეითთა და ბავშვების მოულოდნელი გამოჩენით წარმოშობილი საფრთხის თავიდან აცილება",
-      "შეამციროს სიჩქარე და ჩართოს საავარიო შუქსიგნალიზაცია, რათა გაჩერებული სატრანსპორტო საშუალების უეცარი დაძვრის შემთხვევაში, დროულად უზრუნველყოს საფრთხის თავიდან აცილება"
+      "შორი განათების ფარებით",
+      "წინა და უკანა საგაბარიტო სინათლეებით",
+      "ახლო განათების ფარებით",
+      "წინა ნისლსაწინააღმდეგო ფარები"
     ]
   },
   {
-    "id": 227,
+    "id": 219,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -81,7 +82,7 @@
     ]
   },
   {
-    "id": 228,
+    "id": 220,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -95,7 +96,7 @@
     ]
   },
   {
-    "id": 229,
+    "id": 221,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -109,7 +110,7 @@
     ]
   },
   {
-    "id": 230,
+    "id": 222,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -123,7 +124,7 @@
     ]
   },
   {
-    "id": 231,
+    "id": 223,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -138,7 +139,7 @@
     ]
   },
   {
-    "id": 232,
+    "id": 224,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -153,7 +154,7 @@
     ]
   },
   {
-    "id": 233,
+    "id": 225,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -164,6 +165,116 @@
       "დასაშვებია",
       "დაუშვებელია",
       "დასაშვებია, მხოლოდ სპეციალური სამსახურის სატრანსპორტო საშუალებებზე"
+    ]
+  },
+  {
+    "id": 226,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასაშვებია თუ არა ერთსა და იმავე სატრანსპორტო საშუალებაზე ერთნაირი დანიშნულებისა და ერთსა და იმავე მხარეს მიმართული სხვადასხვა ფერის ფარების დაყენება?",
+    "answers": [
+      "დასაშვებია",
+      "დაუშვებელია",
+      "დასაშვებია მხოლოდ ოპერატიული სამსახურის ავტომობილზე"
+    ]
+  },
+  {
+    "id": 227,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ფარა-პროჟექტორით და ფარა-მაძიებლით სარგებლობა ნებადართულია:",
+    "answers": [
+      "დასახლებულ პუნქტში ცალხრივ მოძრაობიან გზის სავალ ნაწილზე",
+      "მხოლოდ დაუსახლებელ პუნქტში, თუ არ არის საპირისპიროდ მოძრავი სატრანსპორტო საშუალება",
+      "დასახლებულ პუნქტში იმ გზაზე, სადაც თითოეული მიმართულებისათვის ერთი სამოძრაო ზოლია, შუაში ტრამვაის ლიანდაგების გარეშე"
+    ]
+  },
+  {
+    "id": 228,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დასახლებულ პუნქტებში წინა და უკანა საგაბარიტო სინათლეების ნაცვლად შეიძლება ჩართულ იქნეს პარკირების ნათურები იმ პირობით, რომ:",
+    "answers": [
+      "სატრანსპორტო საშუალების სიგრძე არ აღემატება 6 მეტრს, სიგანე - 2 მეტრს",
+      "სატრანსპორტო საშუალებას არ გააჩნია მისაბმელი",
+      "დაცულია ამ ბილეთში ჩამოთვლილი ყველა პირობა"
+    ]
+  },
+  {
+    "id": 229,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვევს თუ არა სატვირთო ავტომობილის მძღოლი საგზაო მოძრაობის წესებს, თუ იგი მუშა სამუხრუჭო სისტემის გაუმართაობისას სარემონტო ადგილამდე იმოძრავებს ჩართული საავარიო შუქსიგნალიზაციით?",
+    "answers": [
+      "დაარღვევს",
+      "არ დაარღვევს"
+    ]
+  },
+  {
+    "id": 230,
+    "correctAnswer": 1,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დაარღვევს თუ არა სატვირთო ავტომობილის მძღოლი საგზაო მოძრაობის წესებს, თუ იგი საჭის მექანიზმის გაუმართაობისას სარემონტო ადგილამდე იმოძრავებს ჩართული საავარიო შუქსიგნალიზაციით?",
+    "answers": [
+      "არ დაარღვევს",
+      "დაარღვევს"
+    ]
+  },
+  {
+    "id": 231,
+    "correctAnswer": 0,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "დღე-ღამის ბნელ დროს ან არასაკმარისი ხილვადობის პირობებში აღმართის ბოლოსთან მიახლოებისას სატრანსპორტო საშუალების მძღოლმა შორი ნათების ფარები უნდა გამორთოს და ჩართოს ახლო ნათების ფარები:",
+    "answers": [
+      "ნებისმიერ შემთხვევაში, აღმართის ბოლოსთან მიახლოებისას",
+      "მხოლოდ შემხვედრი სატრანსპორტო საშუალების გამოჩენისას"
+    ]
+  },
+  {
+    "id": 232,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "სატრანსპორტო საშუალების რომელი გარე სანათი ხელსაწყოების ჩართვა უზრუნველყოფს გზის უკეთეს ხილვადობას დღე-ღამის ბნელ დროს, ძლიერი თოვის პირობებში?",
+    "answers": [
+      "შორი ნათების ფარები",
+      "ნისლსაწინააღმდეგო ფარები შორი ნათების ფარებთან ერთად",
+      "ნისლსაწინააღმდეგო ფარები ახლო ნათების ფარებთან ერთად"
+    ]
+  },
+  {
+    "id": 233,
+    "correctAnswer": 3,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "ქვემოთ ჩამოთვლილ რომელ ადგილას არ არის ვალდებული მძღოლი მანევრის დაწყებამდე ჩართოს შესაბამისი მიმართულების მოხვევის შუქ-მაჩვენებელი?",
+    "answers": [
+      "საცხოვრებელ ზონაში",
+      "მიმდებარე ტერიტორიაზე",
+      "ეზოს ტერიტორიაზე",
+      "ვალდებულია ამ ბილეთში ჩამოთვლილ ნებისმიერ ადგილას"
     ]
   },
   {

@@ -1,10 +1,8 @@
 import 'package:avtoskola_varketilshi/App%20Screens/splash_screen.dart';
 import 'package:avtoskola_varketilshi/Models/exam_question_model.dart';
 import 'package:avtoskola_varketilshi/Models/unanswered_questions_model.dart';
-import 'package:avtoskola_varketilshi/Utils%20&%20Services/unanswered_questions_services.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
-import 'package:get/instance_manager.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 void main() async {

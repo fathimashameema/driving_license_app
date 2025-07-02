@@ -1,19 +1,7 @@
 [
+  
   {
-    "id": 8023,
-    "correctAnswer": 0,
-    "imageUrl": "assets/images/image.png",
-    "correctVideo": "assets/videos/correct_19.mp4",
-    "wrongVideo": "assets/videos/wrong_19.mp4",
-    "previewVideo": "assets/videos/preview_19.mp4",
-    "question": "თუ საგზაო ნიშნებისა და საგზაო მონიშვნების მოთხოვნები ერთმანეთს ეწინააღმდეგება, მძღოლი ვალდებულია შეასრულოს:",
-    "answers": [
-      "1\nსაგზაო ნიშნების მოთხოვნები",
-      "2\nსაგზაო მონიშვნის მოთხოვნები"
-    ]
-  },
-  {
-    "id": 8024,
+    "id": 480,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -27,7 +15,7 @@
     ]
   },
   {
-    "id": 8025,
+    "id": 481,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -41,7 +29,7 @@
     ]
   },
   {
-    "id": 8026,
+    "id": 482,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -55,7 +43,7 @@
     ]
   },
   {
-    "id": 8027,
+    "id": 483,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -69,7 +57,7 @@
     ]
   },
   {
-    "id": 8028,
+    "id": 484,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -83,7 +71,7 @@
     ]
   },
   {
-    "id": 8029,
+    "id": 485,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -97,7 +85,7 @@
     ]
   },
   {
-    "id": 8030,
+    "id": 486,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -112,7 +100,7 @@
     ]
   },
   {
-    "id": 8031,
+    "id": 487,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -127,7 +115,7 @@
     ]
   },
   {
-    "id": 8032,
+    "id": 488,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -142,7 +130,7 @@
     ]
   },
   {
-    "id": 8033,
+    "id": 489,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -157,7 +145,7 @@
     ]
   },
   {
-    "id": 8034,
+    "id": 490,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -172,7 +160,7 @@
     ]
   },
   {
-    "id": 8035,
+    "id": 491,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -187,7 +175,7 @@
     ]
   },
   {
-    "id": 8036,
+    "id": 492,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -201,7 +189,7 @@
     ]
   },
   {
-    "id": 8037,
+    "id": 493,
     "correctAnswer": 3,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -215,7 +203,7 @@
     ]
   },
   {
-    "id": 8038,
+    "id": 494,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -229,7 +217,7 @@
     ]
   },
   {
-    "id": 8039,
+    "id": 495,
     "correctAnswer": 0,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -242,7 +230,7 @@
     ]
   },
   {
-    "id": 8040,
+    "id": 496,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -255,7 +243,7 @@
     ]
   },
   {
-    "id": 8041,
+    "id": 497,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -269,7 +257,7 @@
     ]
   },
   {
-    "id": 8042,
+    "id": 498,
     "correctAnswer": 2,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -283,7 +271,7 @@
     ]
   },
   {
-    "id": 8043,
+    "id": 499,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -296,7 +284,7 @@
     ]
   },
   {
-    "id": 8044,
+    "id": 500,
     "correctAnswer": 1,
     "imageUrl": "assets/images/image.png",
     "correctVideo": "assets/videos/correct_19.mp4",
@@ -306,6 +294,20 @@
     "answers": [
       "1\nგზის სავალი ნაწილზე მოძრაობის ზოლების რაოდენობას",
       "2\nგვირაბის, ხიდის და გზაგამტარის და სხვა ნაგებობათა ელემენტების ქვედა ნაპირს, რომლებიც განთავსებულნი არიან 5 მ-ზე ნაკლებ სიმაღლეზე გზის სავალი ნაწილიდან და რომელთა ქვეშ მთლიანად ან ნაწილობრივ გადის გზის სავალი ნაწილი"
+    ]
+  },
+  {
+    "id": 501,
+    "correctAnswer": 2,
+    "imageUrl": "assets/images/image.png",
+    "correctVideo": "assets/videos/correct_19.mp4",
+    "wrongVideo": "assets/videos/wrong_19.mp4",
+    "previewVideo": "assets/videos/preview_19.mp4",
+    "question": "მოცემულ სიტუაციაში, რომელ მძღოლს ეკრძალება ისრის მიმართულებით სატრანსპორტო საშუალების მობრუნება?",
+    "answers": [
+      "1\nმხოლოდ მოტოციკლის მძღოლს",
+      "2\nმხოლოდ თეთრი ავტომობილის მძღოლს",
+      "3\nარცერთი სატრანსპორტო საშუალების მძღოლს"
     ]
   }
 ]
